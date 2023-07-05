@@ -40,5 +40,9 @@
   },
   "ct3aMetadata": {
     "initVersion": "7.12.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/JaideepGuntupalli/f1-predictor.git",
+  "author": "Jaideep <guntupallijaideep@gmail.com>",
+  "license": "MIT"
 }

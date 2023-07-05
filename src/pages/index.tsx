@@ -152,7 +152,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex flex-col md:flex-row min-h-screen font-inter">
-        <section className="md:fixed md:overflow-auto md:right-0 md:overflow-y-auto md:h-full bg-[#161616] px-16 py-12 md:w-1/2 xl:w-1/3 bg-[url('/red-bg.jpg')] bg-cover text-white">
+        <section className="md:fixed md:overflow-auto md:left-0 md:overflow-y-auto md:h-full bg-[#161616] px-16 py-12 md:w-1/2 xl:w-1/3 bg-[url('/red-bg.jpg')] bg-cover text-white">
           <div className="flex flex-col justify-center gap-4">
             <Image
                 src={"/f1-dark.png"}
@@ -160,8 +160,8 @@ const Home: NextPage = () => {
                 height={100}
                 alt={"Formula One Logo"}
             />
-            <h1 className="text-4xl font-semibold ">Result Predictor</h1>
-            <h2 className="text-xl opacity-60">Based on the Qualifying Position</h2>
+            <h1 className="text-4xl font-semibold m-0">Result Predictor</h1>
+            <h2 className="text-xl opacity-60 m-0">Based on the Qualifying Position</h2>
           </div>
           <form
               className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#E6002B]/30 backdrop-blur-2xl p-8"
@@ -218,13 +218,13 @@ const Home: NextPage = () => {
             </button>
           </form>
           <section className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#111111] p-8">
-            <h2 className="text-xl font-medium">Prediction:</h2>
+            <h2 className="text-xl font-medium m-0">Prediction:</h2>
             <section className="flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-500 bg-[#161616] p-8">
               <p className="text-center font-medium text-2xl"> 🏅Points Finish! </p>
             </section>
           </section>
         </section>
-        <section className="p-16 md:py-24 md:px-16 xl:px-28 md:w-1/2 xl:w-2/3 overflow-auto">
+        <section className="p-16 md:py-24 md:px-16 xl:px-28 md:w-1/2 xl:w-2/3 md:overflow-y-auto md:fixed md:right-0 md:h-full">
           <article id="871047b8-2997-4a68-9c0f-53ade839e37d" className="page sans">
           <Docs />
           </article>

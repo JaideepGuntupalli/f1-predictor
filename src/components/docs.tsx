@@ -12,7 +12,7 @@ const Heading = ({ children }: Props) => {
 
 const HeadingCaption = ({ children }: Props) => {
     return (
-        <p className="text-xl opacity-60">{children}</p>
+        <p className="text-xl opacity-60 m-0">{children}</p>
     )
 }
 
@@ -32,10 +32,29 @@ const Container = ({ children }: Props) => {
 const Docs = () => {
     return (
         <>
-            <header><h1 className="page-title">Predicting Formula 1 Race Results Using Machine Learning and Circuit Analysis</h1><p className="page-description" /></header><div className="page-body"><figure className="block-color-brown_background callout" style={{whiteSpace: 'pre-wrap', display: 'flex'}} id="9fbeb77d-db9a-4d08-aa37-70fdb1d0c00d"><div style={{fontSize: '1.5em'}}><span className="icon">⚙️</span></div><div style={{width: '100%'}}><strong>Team Members:
-            </strong>- Jaideep Guntupalli(2020378)
-                - Ritvik Pendyala(2020096)
-                - Tejdeep Chippa(2020253)</div></figure>
+            <header>
+                <h1 className="page-title">Predicting Formula 1 Race Results</h1>
+                <HeadingCaption>A Machine Learning approach to predict race results and detailed circuit analysis</HeadingCaption>
+                <p className="page-description" />
+            </header>
+            <Container>
+                <h3 className="text-xl font-medium">Developed By:</h3>
+                <section className="flex gap-4 mb-8 justify-center w-full">
+                    <section className="w-full flex flex-col items-center gap-1 px-4 py-2 rounded-xl bg-orange-100 border-2 border-orange-600">
+                        <p className="text-md font-bold">Jaideep Guntupalli</p>
+                        <section><a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://github.com/JaideepGuntupalli"} target="_blank">Github</a> | <a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://jaideepguntupalli.com"} target="_blank">Website</a></section>
+                    </section>
+                    <section className="w-full flex flex-col items-center gap-1 px-4 py-2 rounded-xl bg-orange-100 border-2 border-orange-600">
+                        <p className="text-md font-bold">Ritvik Pendyala</p>
+                        <section><a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://github.com/pendi1901"} target="_blank">Github</a> | <a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://pendi.works"} target="_blank">Website</a></section>
+                    </section>
+                    <section className="w-full flex flex-col items-center gap-1 px-4 py-2 rounded-xl bg-orange-100 border-2 border-orange-600">
+                        <p className="text-md font-bold">Tejdeep Chippa</p>
+                        <section><a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://github.com/phoenix1881"} target="_blank">Github</a> | <a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://www.linkedin.com/in/tejdeep-ch-273252201/"} target="_blank">LinkedIn</a></section>
+                    </section>
+                </section>
+            </Container>
+            <div className="page-body">
             <Container>
                 <a className="rounded-2xl h-80 w-full bg-[url('/charlesvsmax.jpg')] bg-cover bg-center" href="https://www.youtube.com/watch?v=viQC-6xoJ3E" target="_blank"/>
                 <a href="https://www.youtube.com/watch?v=viQC-6xoJ3E" className="opacity-50">Watch the above video: <span className="italic">F1 2023 | This Is No Ordinary Sport - Formula 1</span></a>
