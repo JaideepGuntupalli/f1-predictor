@@ -94,6 +94,8 @@ const Home: NextPage = () => {
   const [driver, setDriver] = useState(0);
   const [quali, setQuali] = useState(0);
 
+  const [prediction, setPrediction] = useState(-1);
+
   // make a request to the API
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -217,12 +219,13 @@ const Home: NextPage = () => {
               🪄 Predict
             </button>
           </form>
-          <section className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#111111] p-8">
-            <h2 className="text-xl font-medium m-0">Prediction:</h2>
-            <section className="flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-500 bg-[#161616] p-8">
-              <p className="text-center font-medium text-2xl"> 🏅Points Finish! </p>
-            </section>
-          </section>
+          {prediction != -1 && (
+              <section className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#111111] p-8">
+                <h2 className="text-xl font-medium m-0">Prediction:</h2>
+                <section className="flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-500 bg-[#161616] p-8">
+                  <p className="text-center font-medium text-2xl"> {prediction == 1 ? "🏅Podium Finish!": (prediction == 2 ? "🔢 Points Finish!" : (prediction == 3 ? "🅾️ Out of Points!": "🛑 Something went wrong!!"))} </p>
+                </section>
+              </section>)}
         </section>
         <section className="p-16 md:py-24 md:px-16 xl:px-28 md:w-1/2 xl:w-2/3 md:overflow-y-auto md:fixed md:right-0 md:h-full">
           <article id="871047b8-2997-4a68-9c0f-53ade839e37d" className="page sans">
