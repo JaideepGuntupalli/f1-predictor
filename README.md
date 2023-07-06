@@ -1,4 +1,4 @@
-# Predicting Formula 1 Race Results
+# 🏎️ Predicting Formula 1 Race Results
 
 ## Links
 - [Website](https://f1-predictor.gjd.one/)
