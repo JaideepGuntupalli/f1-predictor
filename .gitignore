@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+flask-app/__pycache__/
+
 # database
 /prisma/db.sqlite
 /prisma/db.sqlite-journal
