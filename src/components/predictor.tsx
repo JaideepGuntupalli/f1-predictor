@@ -17,6 +17,7 @@ const Predictor = () => {
         e.preventDefault();
 
         setLoading(true);
+        setPrediction(-2);
 
         let myHeaders = new Headers();
         myHeaders.append("Content-Type", "application/json");
