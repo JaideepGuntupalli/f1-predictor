@@ -4,21 +4,9 @@ type Props = {
     children: ReactNode
 }
 
-const Heading = ({ children }: Props) => {
-    return (
-        <h1 className="text-4xl font-semibold">{children}</h1>
-    )
-}
-
 const HeadingCaption = ({ children }: Props) => {
     return (
         <p className="text-xl opacity-60 m-0">{children}</p>
-    )
-}
-
-const SubHeading = ({ children }: Props) => {
-    return (
-        <h2 className="text-2xl font-medium">{children}</h2>
     )
 }
 
@@ -39,7 +27,7 @@ const Docs = () => {
             </header>
             <Container>
                 <h3 className="text-xl font-medium">Developed By:</h3>
-                <section className="flex gap-4 mb-8 justify-center w-full">
+                <section className="flex flex-col md:flex-row gap-4 mb-8 justify-center w-full">
                     <section className="w-full flex flex-col items-center gap-1 px-4 py-2 rounded-xl bg-orange-100 border-2 border-orange-600">
                         <p className="text-md font-bold">Jaideep Guntupalli</p>
                         <section><a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://github.com/JaideepGuntupalli"} target="_blank">Github</a> | <a className="no-underline p-1 hover:bg-orange-300 rounded" href={"https://jaideepguntupalli.com"} target="_blank">Website</a></section>
@@ -55,11 +43,15 @@ const Docs = () => {
                 </section>
             </Container>
             <div className="page-body">
-            <Container>
-                <a className="rounded-2xl h-80 w-full bg-[url('/charlesvsmax.jpg')] bg-cover bg-center" href="https://www.youtube.com/watch?v=viQC-6xoJ3E" target="_blank"/>
-                <a href="https://www.youtube.com/watch?v=viQC-6xoJ3E" className="opacity-50">Watch the above video: <span className="italic">F1 2023 | This Is No Ordinary Sport - Formula 1</span></a>
-            </Container>
-            <p id="ac8a8b58-76b6-4573-a111-529e2e4d262a">
+
+                <div>
+                    <div style={{position: 'relative', width: '100%', height: 0, paddingTop: '56.2500%', paddingBottom: 0, boxShadow: '0 2px 8px 0 rgba(63,69,81,0.16)', marginTop: '1.6em', marginBottom: '0.9em', overflow: 'hidden', borderRadius: '8px', willChange: 'transform'}}>
+                        <iframe loading="lazy" style={{position: 'absolute', width: '100%', height: '100%', top: 0, left: 0, border: 'none', padding: 0, margin: 0}} src="https://www.canva.com/design/DAFhkfLrmuY/view?embed" allowFullScreen={true} allow="fullscreen">
+                        </iframe>
+                    </div>
+                    <a href="https://www.canva.com/design/DAFhkfLrmuY/view?utm_content=DAFhkfLrmuY&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Predicting Formula 1 Race Results</a>
+                </div>
+                <p id="ac8a8b58-76b6-4573-a111-529e2e4d262a">
             </p><h3 id="7c7d4c6c-4f3f-45f6-ad3e-58df8fca8b85">Abstract:</h3><p id="61139936-184e-4c80-91a9-8ce328f0c9c7" >Our paper presents a comprehensive approach to predicting the performance of drivers in Formula One races. We combine machine learning models, such as logistic regression, decision tree, random forest, support vector machine, Gaussian Naive Bayes, and K-Nearest Neighbors, with data analysis techniques to analyze the impact of various factors on the likelihood of a driver achieving a podium finish or scoring points.</p><p id="2d80ca01-ddc2-4a52-98c2-a6cc7d2dcf43" >We conduct extensive exploratory data analysis on race data results, analyzing data on drivers, constructors, circuits, and other variables to identify the most significant factors affecting driver performance. We also examine the impact of circuit location, the number of races held at a particular circuit, driver experience, nationality, and constructor performance on the likelihood of a driver achieving a podium finish or scoring points.</p><p id="ed1e3271-84ef-4781-9125-0f5816739211" >Our approach utilizes both one-hot encoding to transform categorical and numerical data into a format that can be used by our machine learning models. We also introduce the concepts of Driver DNF index and Constructor DNF index to quantify the impact of driver and constructor errors on race results. We bring in our understanding through the models and their results to actually see what are the factors contributing to a win.</p><p id="462c1543-dd97-45e1-927f-dd460567637e" >Overall, our approach provides a comprehensive methodology for predicting driver performance in Formula One races, and our results demonstrate the effectiveness of our approach. Our findings can be used by teams and analysts to make informed decisions regarding driver selection, strategy, and overall race performance. </p><h2 id="ea352a10-1899-484c-b0a8-998fcd72f4f7" >Keywords: </h2><p id="7051dd0e-deb3-4632-ad21-192ac641bb1c" >motorsport, Formula One, data analysis, machine learning, classification, driver performance, constructor performance, podium prediction, points prediction, DNF index, home team effect, circuit analysis, race history, driver nationality, neural networks, statistical modeling, predictive modeling, feature engineering, exploratory data analysis, data visualization, data preprocessing, data cleaning, data transformation, feature selection, model evaluation.</p><h2 id="617a02a8-1b83-40dc-b69c-d020dd1bd145" >Introduction:</h2><p id="cc38e75f-677d-4ab1-ab6b-800274e84297" ><strong>Background:
             </strong>Formula 1 is one of the most prestigious and challenging motorsports that attracts millions of
                 fans worldwide. Predicting the winner of the next Grand Prix race is challenging and requires a

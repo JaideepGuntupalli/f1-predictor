@@ -95,12 +95,14 @@ const Home: NextPage = () => {
   const [quali, setQuali] = useState(0);
 
   const [prediction, setPrediction] = useState(-1);
+  const [loading, setLoading] = useState(false);
 
   // make a request to the API
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
     console.log("I m wokring!Q")
+    setLoading(true);
 
     let myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
@@ -126,25 +128,22 @@ const Home: NextPage = () => {
       qualifying_pos: quali.toString(),
     });
 
-    // let requestOptions = {
-    //   method: "POST",
-    //   headers: myHeaders,
-    //   body: raw,
-    //   mode: "no-cors",
-    // };
-
     await fetch("https://f1-predictor.onrender.com/predictGrid", {
       method: "POST",
       headers: myHeaders,
       body: raw,
     })
       .then((response) => response.json())
-      .then((result) => console.log(result))
-      .catch((error) => console.log("error", error));
+      .then((result) => {
+        setPrediction(result[0]);
+        setLoading(false);
+      })
+      .catch((error) => {
+        setPrediction(0);
+        console.log("error", error);
+        setLoading(false);
+      });
   };
-  // const response = await fetch(
-  //   `http://localhost:3000/api/predict?round=${round}&driver=${driver}`
-  // );
 
   return (
     <>
@@ -219,11 +218,18 @@ const Home: NextPage = () => {
               🪄 Predict
             </button>
           </form>
-          {prediction != -1 && (
+          {(prediction != -1 && !loading) && (
               <section className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#111111] p-8">
                 <h2 className="text-xl font-medium m-0">Prediction:</h2>
                 <section className="flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-500 bg-[#161616] p-8">
                   <p className="text-center font-medium text-2xl"> {prediction == 1 ? "🏅Podium Finish!": (prediction == 2 ? "🔢 Points Finish!" : (prediction == 3 ? "🅾️ Out of Points!": "🛑 Something went wrong!!"))} </p>
+                </section>
+              </section>)}
+          {loading && (
+              <section className="my-10 flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-800 bg-[#111111] p-8">
+                <h2 className="text-xl font-medium m-0">Prediction:</h2>
+                <section className="flex w-full max-w-md flex-col gap-4 rounded-lg border-[1px] border-stone-500 bg-[#161616] p-8">
+                  <p className="text-center font-medium text-2xl"> Loading... </p>
                 </section>
               </section>)}
         </section>
