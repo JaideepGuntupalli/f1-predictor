@@ -229,28 +229,6 @@
     "@tanstack/query-core" "4.29.5"
     use-sync-external-store "^1.2.0"
 
-"@trpc/client@^10.18.0":
-  version "10.23.0"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.23.0.tgz#cf1549d4c198038ae711cd1552c1d68f690d1d28"
-  integrity sha512-7hTh9OjVIx4Co3kUyIu94SjbUIuS2WKl3E5BMseYbNOHfeY5rqwkCsw0N5EHWszhIVttUMDE0oCf10tNhYEq1A==
-
-"@trpc/next@^10.18.0":
-  version "10.23.0"
-  resolved "https://registry.yarnpkg.com/@trpc/next/-/next-10.23.0.tgz#5031471a5012f6d67a651806adce45d6828e4fa7"
-  integrity sha512-IoyoID4wUIFI1nrx6EJM1fBVdkyLiadCsw+r3XLtKnxCwfK5PLeIwwJAQrf+4IFtQT7KYhw4dSkP4gfltIPC3Q==
-  dependencies:
-    react-ssr-prepass "^1.5.0"
-
-"@trpc/react-query@^10.18.0":
-  version "10.23.0"
-  resolved "https://registry.yarnpkg.com/@trpc/react-query/-/react-query-10.23.0.tgz#fa04d6fc65f14165692b5de6ffc57476926b71bd"
-  integrity sha512-50vfR3HtOEcjCQMuHSGTFOG6W9WunvcI8msTp84UNAqZ9dz4YdjgBVNn2wxqB5LAQ6AGlcKuzJWjEj3yO56tvw==
-
-"@trpc/server@^10.18.0":
-  version "10.23.0"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.23.0.tgz#b73c648f592a5bc88b9a2a64594ce8e952a10380"
-  integrity sha512-0CPfGZK3v3gfAL8ylV5vDJVBQtPp47EB4Vgx6WItSXmwYQlLC39ZC3gkZ4I5cGpQKl4l3QrNNeUvIcse4hlMxA==
-
 "@types/eslint@^8.21.3":
   version "8.37.0"
   resolved "https://registry.yarnpkg.com/@types/eslint/-/eslint-8.37.0.tgz#29cebc6c2a3ac7fea7113207bf5a828fdf4d7ef1"
@@ -2100,11 +2078,6 @@ react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
-
-react-ssr-prepass@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/react-ssr-prepass/-/react-ssr-prepass-1.5.0.tgz#bc4ca7fcb52365e6aea11cc254a3d1bdcbd030c5"
-  integrity sha512-yFNHrlVEReVYKsLI5lF05tZoHveA5pGzjFbFJY/3pOqqjGOmMmqx83N4hIjN2n6E1AOa+eQEUxs3CgRnPmT0RQ==
 
 react@18.2.0:
   version "18.2.0"
