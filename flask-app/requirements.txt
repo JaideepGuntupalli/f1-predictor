@@ -1,0 +1,17 @@
+# write requirements.txt
+# pip version
+
+# Flask==2.3.1
+# joblib==1.3.1
+# pandas==1.3.1
+# Werkzeug==2.3.2
+
+Flask
+joblib
+Pandas
+Werkzeug
+Gunicorn
+scikit-learn
+flask_cors
+
+
