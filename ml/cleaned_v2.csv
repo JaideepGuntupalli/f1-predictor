@@ -1,0 +1,1942 @@
+,GP_name,quali_pos,driver,age_at_gp_in_days,position,driver_confidence,active_driver
+39,Albert Park Grand Prix Circuit,12,Daniel Ricciardo,10851,12,0.942196532,1
+40,Albert Park Grand Prix Circuit,14,Kevin Magnussen,8567,15,0.952380952,1
+41,Albert Park Grand Prix Circuit,9,Carlos Sainz,8606,9,0.903846154,1
+90,Albert Park Grand Prix Circuit,16,Valtteri Bottas,8602,16,0.965034965,1
+91,Albert Park Grand Prix Circuit,15,Valtteri Bottas,8966,10,0.965034965,1
+92,Albert Park Grand Prix Circuit,0,Valtteri Bottas,9330,6,0.965034965,1
+93,Albert Park Grand Prix Circuit,16,Valtteri Bottas,9701,11,0.965034965,1
+94,Albert Park Grand Prix Circuit,20,Lance Stroll,6723,19,0.923076923,1
+95,Albert Park Grand Prix Circuit,13,Lance Stroll,7087,14,0.923076923,1
+97,Albert Park Grand Prix Circuit,19,George Russell,7700,19,0.958333333,1
+118,Albert Park Grand Prix Circuit,11,Lewis Hamilton,9211,11,0.945273632,1
+119,Albert Park Grand Prix Circuit,2,Lewis Hamilton,9575,2,0.945273632,1
+120,Albert Park Grand Prix Circuit,1,Lewis Hamilton,9932,1,0.945273632,1
+135,Albert Park Grand Prix Circuit,15,Sergio Pérez,8451,15,0.933333333,1
+136,Albert Park Grand Prix Circuit,4,Kevin Magnussen,7832,4,0.952380952,1
+137,Albert Park Grand Prix Circuit,17,Kevin Magnussen,8196,18,0.952380952,1
+138,Albert Park Grand Prix Circuit,18,Carlos Sainz,8963,18,0.903846154,1
+141,Albert Park Grand Prix Circuit,8,Lando Norris,7064,8,0.916666667,1
+151,Albert Park Grand Prix Circuit,4,Sebastian Vettel,10117,4,0.955,1
+152,Albert Park Grand Prix Circuit,3,Sebastian Vettel,10488,3,0.955,1
+153,Albert Park Grand Prix Circuit,2,Sebastian Vettel,10859,2,0.955,1
+154,Albert Park Grand Prix Circuit,3,Sebastian Vettel,11223,3,0.955,1
+155,Albert Park Grand Prix Circuit,3,Sebastian Vettel,11580,3,0.955,1
+159,Albert Park Grand Prix Circuit,11,Kimi Räikkönen,12569,12,0.944099379,1
+160,Albert Park Grand Prix Circuit,5,Kimi Räikkönen,12933,5,0.944099379,1
+161,Albert Park Grand Prix Circuit,4,Kimi Räikkönen,13304,4,0.944099379,1
+162,Albert Park Grand Prix Circuit,4,Kimi Räikkönen,13675,4,0.944099379,1
+163,Albert Park Grand Prix Circuit,2,Kimi Räikkönen,14039,2,0.944099379,1
+185,Albert Park Grand Prix Circuit,5,Charles Leclerc,7822,5,0.844444444,1
+267,Albert Park Grand Prix Circuit,3,Lewis Hamilton,10296,3,0.945273632,1
+268,Albert Park Grand Prix Circuit,1,Lewis Hamilton,10660,1,0.945273632,1
+269,Albert Park Grand Prix Circuit,1,Lewis Hamilton,11024,1,0.945273632,1
+270,Albert Park Grand Prix Circuit,1,Lewis Hamilton,11395,1,0.945273632,1
+271,Albert Park Grand Prix Circuit,1,Lewis Hamilton,11766,1,0.945273632,1
+272,Albert Park Grand Prix Circuit,1,Lewis Hamilton,12130,1,0.945273632,1
+273,Albert Park Grand Prix Circuit,1,Lewis Hamilton,12487,1,0.945273632,1
+277,Albert Park Grand Prix Circuit,3,Valtteri Bottas,10072,3,0.965034965,1
+278,Albert Park Grand Prix Circuit,15,Valtteri Bottas,10436,10,0.965034965,1
+279,Albert Park Grand Prix Circuit,2,Valtteri Bottas,10793,2,0.965034965,1
+292,Albert Park Grand Prix Circuit,10,Daniel Ricciardo,8296,10,0.942196532,1
+293,Albert Park Grand Prix Circuit,14,Daniel Ricciardo,8660,14,0.942196532,1
+297,Albert Park Grand Prix Circuit,8,Daniil Kvyat,7264,8,0.917525773,1
+298,Albert Park Grand Prix Circuit,9,Daniil Kvyat,8370,9,0.917525773,1
+299,Albert Park Grand Prix Circuit,15,Daniil Kvyat,9091,15,0.917525773,1
+300,Albert Park Grand Prix Circuit,7,Carlos Sainz,7500,8,0.903846154,1
+301,Albert Park Grand Prix Circuit,7,Carlos Sainz,7871,7,0.903846154,1
+302,Albert Park Grand Prix Circuit,8,Carlos Sainz,8242,8,0.903846154,1
+303,Albert Park Grand Prix Circuit,11,Max Verstappen,6375,12,0.914285714,1
+304,Albert Park Grand Prix Circuit,5,Max Verstappen,6746,5,0.914285714,1
+305,Albert Park Grand Prix Circuit,20,Pierre Gasly,8082,20,0.93877551,1
+307,Albert Park Grand Prix Circuit,13,Alexander Albon,8394,13,0.956521739,1
+323,Albert Park Grand Prix Circuit,16,Sergio Pérez,8815,16,0.933333333,1
+324,Albert Park Grand Prix Circuit,14,Sergio Pérez,9179,15,0.933333333,1
+325,Albert Park Grand Prix Circuit,9,Sergio Pérez,9550,9,0.933333333,1
+326,Albert Park Grand Prix Circuit,10,Sergio Pérez,9921,11,0.933333333,1
+327,Albert Park Grand Prix Circuit,12,Sergio Pérez,10285,13,0.933333333,1
+328,Albert Park Grand Prix Circuit,13,Esteban Ocon,7495,14,0.923076923,1
+329,Albert Park Grand Prix Circuit,14,Esteban Ocon,7859,15,0.923076923,1
+354,Albert Park Grand Prix Circuit,13,Sergio Pérez,7730,13,0.933333333,1
+355,Albert Park Grand Prix Circuit,22,Sergio Pérez,8087,17,0.933333333,1
+364,Albert Park Grand Prix Circuit,16,Antonio Giovinazzi,8503,16,0.88,1
+365,Albert Park Grand Prix Circuit,18,Charles Leclerc,7465,18,0.844444444,1
+382,Albert Park Grand Prix Circuit,1,Sebastian Vettel,8304,1,0.955,1
+383,Albert Park Grand Prix Circuit,1,Sebastian Vettel,8668,1,0.955,1
+384,Albert Park Grand Prix Circuit,6,Sebastian Vettel,9025,6,0.955,1
+385,Albert Park Grand Prix Circuit,1,Sebastian Vettel,9389,1,0.955,1
+386,Albert Park Grand Prix Circuit,12,Sebastian Vettel,9753,13,0.955,1
+393,Albert Park Grand Prix Circuit,2,Daniel Ricciardo,9024,2,0.942196532,1
+394,Albert Park Grand Prix Circuit,6,Daniel Ricciardo,9388,7,0.942196532,1
+395,Albert Park Grand Prix Circuit,8,Daniel Ricciardo,9759,8,0.942196532,1
+396,Albert Park Grand Prix Circuit,0,Daniel Ricciardo,10130,10,0.942196532,1
+397,Albert Park Grand Prix Circuit,8,Daniel Ricciardo,10494,5,0.942196532,1
+398,Albert Park Grand Prix Circuit,12,Daniil Kvyat,7628,13,0.917525773,1
+399,Albert Park Grand Prix Circuit,18,Daniil Kvyat,7999,18,0.917525773,1
+400,Albert Park Grand Prix Circuit,5,Max Verstappen,7117,5,0.914285714,1
+401,Albert Park Grand Prix Circuit,4,Max Verstappen,7481,4,0.914285714,1
+402,Albert Park Grand Prix Circuit,4,Max Verstappen,7838,4,0.914285714,1
+403,Albert Park Grand Prix Circuit,17,Pierre Gasly,8439,17,0.93877551,1
+410,Albert Park Grand Prix Circuit,17,Kimi Räikkönen,11841,18,0.944099379,1
+411,Albert Park Grand Prix Circuit,7,Kimi Räikkönen,12205,7,0.944099379,1
+412,Albert Park Grand Prix Circuit,3,Romain Grosjean,9467,3,0.851851852,1
+413,Albert Park Grand Prix Circuit,8,Romain Grosjean,9831,8,0.851851852,1
+414,Albert Park Grand Prix Circuit,22,Romain Grosjean,10195,21,0.851851852,1
+415,Albert Park Grand Prix Circuit,8,Romain Grosjean,10559,9,0.851851852,1
+418,Albert Park Grand Prix Circuit,9,Kimi Räikkönen,14396,9,0.944099379,1
+419,Albert Park Grand Prix Circuit,14,Antonio Giovinazzi,9224,14,0.88,1
+426,Albert Park Grand Prix Circuit,19,Romain Grosjean,10930,19,0.851851852,1
+427,Albert Park Grand Prix Circuit,6,Romain Grosjean,11301,6,0.851851852,1
+428,Albert Park Grand Prix Circuit,6,Romain Grosjean,11665,7,0.851851852,1
+429,Albert Park Grand Prix Circuit,6,Romain Grosjean,12022,6,0.851851852,1
+431,Albert Park Grand Prix Circuit,17,Kevin Magnussen,8938,17,0.952380952,1
+432,Albert Park Grand Prix Circuit,5,Kevin Magnussen,9302,6,0.952380952,1
+433,Albert Park Grand Prix Circuit,7,Kevin Magnussen,9659,7,0.952380952,1
+466,Albert Park Grand Prix Circuit,10,Sergio Pérez,10642,10,0.933333333,1
+467,Albert Park Grand Prix Circuit,16,Lance Stroll,7444,16,0.923076923,1
+507,Sepang International Circuit,14,Kevin Magnussen,8763,14,0.952380952,1
+537,Sepang International Circuit,18,Valtteri Bottas,8609,18,0.965034965,1
+538,Sepang International Circuit,18,Valtteri Bottas,8980,15,0.965034965,1
+539,Sepang International Circuit,8,Valtteri Bottas,9344,9,0.965034965,1
+540,Sepang International Circuit,11,Valtteri Bottas,9897,11,0.965034965,1
+541,Sepang International Circuit,13,Lance Stroll,6912,13,0.923076923,1
+563,Sepang International Circuit,20,Lewis Hamilton,9218,20,0.945273632,1
+564,Sepang International Circuit,2,Lewis Hamilton,9589,2,0.945273632,1
+565,Sepang International Circuit,1,Lewis Hamilton,9939,1,0.945273632,1
+571,Sepang International Circuit,9,Sergio Pérez,8458,10,0.933333333,1
+572,Sepang International Circuit,8,Kevin Magnussen,7846,8,0.952380952,1
+583,Sepang International Circuit,2,Sebastian Vettel,10131,2,0.955,1
+584,Sepang International Circuit,5,Sebastian Vettel,10684,5,0.955,1
+585,Sepang International Circuit,20,Sebastian Vettel,11048,20,0.955,1
+589,Sepang International Circuit,6,Kimi Räikkönen,12583,6,0.944099379,1
+590,Sepang International Circuit,11,Kimi Räikkönen,12947,11,0.944099379,1
+591,Sepang International Circuit,6,Kimi Räikkönen,13500,6,0.944099379,1
+592,Sepang International Circuit,0,Kimi Räikkönen,13864,2,0.944099379,1
+659,Sepang International Circuit,4,Lewis Hamilton,10303,4,0.945273632,1
+660,Sepang International Circuit,1,Lewis Hamilton,10674,1,0.945273632,1
+661,Sepang International Circuit,1,Lewis Hamilton,11038,1,0.945273632,1
+662,Sepang International Circuit,1,Lewis Hamilton,11591,1,0.945273632,1
+663,Sepang International Circuit,1,Lewis Hamilton,11955,1,0.945273632,1
+667,Sepang International Circuit,5,Valtteri Bottas,10261,5,0.965034965,1
+680,Sepang International Circuit,15,Daniel Ricciardo,8303,15,0.942196532,1
+681,Sepang International Circuit,13,Daniel Ricciardo,8667,13,0.942196532,1
+685,Sepang International Circuit,11,Daniil Kvyat,7278,11,0.917525773,1
+686,Sepang International Circuit,15,Daniil Kvyat,8195,15,0.917525773,1
+687,Sepang International Circuit,15,Carlos Sainz,7514,15,0.903846154,1
+688,Sepang International Circuit,16,Carlos Sainz,8067,16,0.903846154,1
+689,Sepang International Circuit,14,Carlos Sainz,8431,14,0.903846154,1
+690,Sepang International Circuit,6,Max Verstappen,6389,6,0.914285714,1
+691,Sepang International Circuit,15,Pierre Gasly,7907,15,0.93877551,1
+707,Sepang International Circuit,14,Sergio Pérez,8829,14,0.933333333,1
+708,Sepang International Circuit,14,Sergio Pérez,9193,14,0.933333333,1
+709,Sepang International Circuit,7,Sergio Pérez,9746,7,0.933333333,1
+710,Sepang International Circuit,9,Sergio Pérez,10110,9,0.933333333,1
+711,Sepang International Circuit,6,Esteban Ocon,7684,6,0.923076923,1
+728,Sepang International Circuit,16,Sergio Pérez,7744,16,0.933333333,1
+729,Sepang International Circuit,9,Sergio Pérez,8094,10,0.933333333,1
+754,Sepang International Circuit,3,Sebastian Vettel,8311,3,0.955,1
+755,Sepang International Circuit,1,Sebastian Vettel,8682,1,0.955,1
+756,Sepang International Circuit,5,Sebastian Vettel,9032,6,0.955,1
+757,Sepang International Circuit,1,Sebastian Vettel,9396,1,0.955,1
+758,Sepang International Circuit,2,Sebastian Vettel,9767,2,0.955,1
+765,Sepang International Circuit,5,Daniel Ricciardo,9038,5,0.942196532,1
+766,Sepang International Circuit,4,Daniel Ricciardo,9402,4,0.942196532,1
+767,Sepang International Circuit,4,Daniel Ricciardo,9955,4,0.942196532,1
+768,Sepang International Circuit,4,Daniel Ricciardo,10319,4,0.942196532,1
+769,Sepang International Circuit,5,Daniil Kvyat,7642,5,0.917525773,1
+770,Sepang International Circuit,3,Max Verstappen,6942,3,0.914285714,1
+771,Sepang International Circuit,3,Max Verstappen,7306,3,0.914285714,1
+778,Sepang International Circuit,10,Kimi Räikkönen,11848,5,0.944099379,1
+779,Sepang International Circuit,10,Kimi Räikkönen,12212,7,0.944099379,1
+780,Sepang International Circuit,6,Romain Grosjean,9474,7,0.851851852,1
+781,Sepang International Circuit,11,Romain Grosjean,9838,11,0.851851852,1
+782,Sepang International Circuit,15,Romain Grosjean,10209,16,0.851851852,1
+783,Sepang International Circuit,10,Romain Grosjean,10573,8,0.851851852,1
+792,Sepang International Circuit,12,Romain Grosjean,11126,12,0.851851852,1
+793,Sepang International Circuit,16,Romain Grosjean,11490,16,0.851851852,1
+795,Sepang International Circuit,17,Kevin Magnussen,9127,17,0.952380952,1
+814,Sepang International Circuit,20,Esteban Ocon,7320,20,0.923076923,1
+846,Shanghai International Circuit,7,Daniel Ricciardo,10879,7,0.942196532,1
+847,Shanghai International Circuit,17,Kevin Magnussen,8595,17,0.952380952,1
+848,Shanghai International Circuit,9,Carlos Sainz,8627,9,0.903846154,1
+875,Shanghai International Circuit,16,Valtteri Bottas,8630,17,0.965034965,1
+876,Shanghai International Circuit,7,Valtteri Bottas,9001,7,0.965034965,1
+877,Shanghai International Circuit,5,Valtteri Bottas,9358,5,0.965034965,1
+878,Shanghai International Circuit,5,Valtteri Bottas,9729,5,0.965034965,1
+879,Shanghai International Circuit,10,Lance Stroll,6737,10,0.923076923,1
+880,Shanghai International Circuit,18,Lance Stroll,7108,18,0.923076923,1
+882,Shanghai International Circuit,17,George Russell,7728,17,0.958333333,1
+903,Shanghai International Circuit,6,Lewis Hamilton,9232,6,0.945273632,1
+904,Shanghai International Circuit,3,Lewis Hamilton,9596,3,0.945273632,1
+905,Shanghai International Circuit,7,Lewis Hamilton,9960,2,0.945273632,1
+909,Shanghai International Circuit,12,Sergio Pérez,8479,12,0.933333333,1
+910,Shanghai International Circuit,15,Kevin Magnussen,7867,15,0.952380952,1
+911,Shanghai International Circuit,14,Carlos Sainz,8991,14,0.903846154,1
+914,Shanghai International Circuit,15,Lando Norris,7092,15,0.916666667,1
+922,Shanghai International Circuit,3,Sebastian Vettel,10145,3,0.955,1
+923,Shanghai International Circuit,4,Sebastian Vettel,10516,4,0.955,1
+924,Shanghai International Circuit,2,Sebastian Vettel,10873,2,0.955,1
+925,Shanghai International Circuit,1,Sebastian Vettel,11244,1,0.955,1
+926,Shanghai International Circuit,3,Sebastian Vettel,11608,3,0.955,1
+930,Shanghai International Circuit,11,Kimi Räikkönen,12604,11,0.944099379,1
+931,Shanghai International Circuit,6,Kimi Räikkönen,12961,6,0.944099379,1
+932,Shanghai International Circuit,3,Kimi Räikkönen,13332,3,0.944099379,1
+933,Shanghai International Circuit,4,Kimi Räikkönen,13689,4,0.944099379,1
+934,Shanghai International Circuit,2,Kimi Räikkönen,14060,2,0.944099379,1
+946,Shanghai International Circuit,4,Charles Leclerc,7850,4,0.844444444,1
+988,Shanghai International Circuit,1,Lewis Hamilton,10324,1,0.945273632,1
+989,Shanghai International Circuit,1,Lewis Hamilton,10695,1,0.945273632,1
+990,Shanghai International Circuit,1,Lewis Hamilton,11052,1,0.945273632,1
+991,Shanghai International Circuit,22,Lewis Hamilton,11423,22,0.945273632,1
+992,Shanghai International Circuit,1,Lewis Hamilton,11780,1,0.945273632,1
+993,Shanghai International Circuit,4,Lewis Hamilton,12151,4,0.945273632,1
+994,Shanghai International Circuit,2,Lewis Hamilton,12515,2,0.945273632,1
+998,Shanghai International Circuit,3,Valtteri Bottas,10086,3,0.965034965,1
+999,Shanghai International Circuit,3,Valtteri Bottas,10457,3,0.965034965,1
+1000,Shanghai International Circuit,1,Valtteri Bottas,10821,1,0.965034965,1
+1013,Shanghai International Circuit,17,Daniel Ricciardo,8324,17,0.942196532,1
+1014,Shanghai International Circuit,7,Daniel Ricciardo,8688,7,0.942196532,1
+1018,Shanghai International Circuit,13,Daniil Kvyat,7299,13,0.917525773,1
+1019,Shanghai International Circuit,9,Daniil Kvyat,8384,9,0.917525773,1
+1020,Shanghai International Circuit,11,Daniil Kvyat,9119,11,0.917525773,1
+1021,Shanghai International Circuit,14,Carlos Sainz,7528,14,0.903846154,1
+1022,Shanghai International Circuit,8,Carlos Sainz,7899,8,0.903846154,1
+1023,Shanghai International Circuit,11,Carlos Sainz,8256,11,0.903846154,1
+1024,Shanghai International Circuit,13,Max Verstappen,6403,13,0.914285714,1
+1025,Shanghai International Circuit,9,Max Verstappen,6774,9,0.914285714,1
+1026,Shanghai International Circuit,17,Pierre Gasly,8103,17,0.93877551,1
+1043,Shanghai International Circuit,16,Sergio Pérez,8850,16,0.933333333,1
+1044,Shanghai International Circuit,15,Sergio Pérez,9207,15,0.933333333,1
+1045,Shanghai International Circuit,7,Sergio Pérez,9578,7,0.933333333,1
+1046,Shanghai International Circuit,8,Sergio Pérez,9935,8,0.933333333,1
+1047,Shanghai International Circuit,8,Sergio Pérez,10306,8,0.933333333,1
+1048,Shanghai International Circuit,17,Esteban Ocon,7509,20,0.923076923,1
+1049,Shanghai International Circuit,12,Esteban Ocon,7880,12,0.923076923,1
+1062,Shanghai International Circuit,12,Sergio Pérez,7751,12,0.933333333,1
+1063,Shanghai International Circuit,8,Sergio Pérez,8115,8,0.933333333,1
+1072,Shanghai International Circuit,18,Antonio Giovinazzi,8517,15,0.88,1
+1073,Shanghai International Circuit,19,Charles Leclerc,7486,19,0.844444444,1
+1090,Shanghai International Circuit,1,Sebastian Vettel,8325,1,0.955,1
+1091,Shanghai International Circuit,1,Sebastian Vettel,8689,1,0.955,1
+1092,Shanghai International Circuit,11,Sebastian Vettel,9053,11,0.955,1
+1093,Shanghai International Circuit,9,Sebastian Vettel,9417,9,0.955,1
+1094,Shanghai International Circuit,3,Sebastian Vettel,9788,3,0.955,1
+1101,Shanghai International Circuit,2,Daniel Ricciardo,9059,2,0.942196532,1
+1102,Shanghai International Circuit,7,Daniel Ricciardo,9416,7,0.942196532,1
+1103,Shanghai International Circuit,2,Daniel Ricciardo,9787,2,0.942196532,1
+1104,Shanghai International Circuit,5,Daniel Ricciardo,10144,5,0.942196532,1
+1105,Shanghai International Circuit,6,Daniel Ricciardo,10515,6,0.942196532,1
+1106,Shanghai International Circuit,12,Daniil Kvyat,7656,12,0.917525773,1
+1107,Shanghai International Circuit,6,Daniil Kvyat,8027,6,0.917525773,1
+1108,Shanghai International Circuit,16,Max Verstappen,7131,19,0.914285714,1
+1109,Shanghai International Circuit,5,Max Verstappen,7502,5,0.914285714,1
+1110,Shanghai International Circuit,5,Max Verstappen,7866,5,0.914285714,1
+1111,Shanghai International Circuit,6,Pierre Gasly,8467,6,0.93877551,1
+1114,Shanghai International Circuit,4,Kimi Räikkönen,11869,5,0.944099379,1
+1115,Shanghai International Circuit,2,Kimi Räikkönen,12233,2,0.944099379,1
+1116,Shanghai International Circuit,10,Romain Grosjean,9495,10,0.851851852,1
+1117,Shanghai International Circuit,6,Romain Grosjean,9859,6,0.851851852,1
+1118,Shanghai International Circuit,10,Romain Grosjean,10230,10,0.851851852,1
+1119,Shanghai International Circuit,8,Romain Grosjean,10587,8,0.851851852,1
+1122,Shanghai International Circuit,13,Kimi Räikkönen,14424,13,0.944099379,1
+1129,Shanghai International Circuit,14,Romain Grosjean,10958,14,0.851851852,1
+1130,Shanghai International Circuit,19,Romain Grosjean,11315,17,0.851851852,1
+1131,Shanghai International Circuit,10,Romain Grosjean,11686,10,0.851851852,1
+1132,Shanghai International Circuit,10,Romain Grosjean,12050,10,0.851851852,1
+1134,Shanghai International Circuit,12,Kevin Magnussen,8952,12,0.952380952,1
+1135,Shanghai International Circuit,11,Kevin Magnussen,9323,11,0.952380952,1
+1136,Shanghai International Circuit,9,Kevin Magnussen,9687,9,0.952380952,1
+1149,Shanghai International Circuit,12,Sergio Pérez,10670,12,0.933333333,1
+1150,Shanghai International Circuit,16,Lance Stroll,7472,16,0.923076923,1
+1184,Bahrain International Circuit,10,Daniel Ricciardo,10865,11,0.942196532,1
+1185,Bahrain International Circuit,22,Kevin Magnussen,8581,19,0.952380952,1
+1186,Bahrain International Circuit,10,Carlos Sainz,8620,10,0.903846154,1
+1211,Bahrain International Circuit,15,Valtteri Bottas,8637,15,0.965034965,1
+1212,Bahrain International Circuit,3,Valtteri Bottas,8987,4,0.965034965,1
+1213,Bahrain International Circuit,5,Valtteri Bottas,9365,5,0.965034965,1
+1214,Bahrain International Circuit,6,Valtteri Bottas,9715,6,0.965034965,1
+1215,Bahrain International Circuit,12,Lance Stroll,6744,12,0.923076923,1
+1216,Bahrain International Circuit,20,Lance Stroll,7101,20,0.923076923,1
+1218,Bahrain International Circuit,19,George Russell,7714,19,0.958333333,1
+1236,Bahrain International Circuit,4,Lewis Hamilton,9197,4,0.945273632,1
+1237,Bahrain International Circuit,2,Lewis Hamilton,9967,2,0.945273632,1
+1241,Bahrain International Circuit,12,Sergio Pérez,8486,12,0.933333333,1
+1242,Bahrain International Circuit,8,Kevin Magnussen,7853,9,0.952380952,1
+1243,Bahrain International Circuit,7,Carlos Sainz,8977,7,0.903846154,1
+1247,Bahrain International Circuit,9,Lando Norris,7078,10,0.916666667,1
+1254,Bahrain International Circuit,2,Sebastian Vettel,10152,2,0.955,1
+1255,Bahrain International Circuit,3,Sebastian Vettel,10502,3,0.955,1
+1256,Bahrain International Circuit,3,Sebastian Vettel,10880,3,0.955,1
+1257,Bahrain International Circuit,1,Sebastian Vettel,11237,1,0.955,1
+1258,Bahrain International Circuit,2,Sebastian Vettel,11594,2,0.955,1
+1262,Bahrain International Circuit,5,Kimi Räikkönen,12590,6,0.944099379,1
+1263,Bahrain International Circuit,4,Kimi Räikkönen,12968,4,0.944099379,1
+1264,Bahrain International Circuit,4,Kimi Räikkönen,13318,4,0.944099379,1
+1265,Bahrain International Circuit,5,Kimi Räikkönen,13696,5,0.944099379,1
+1266,Bahrain International Circuit,2,Kimi Räikkönen,14053,2,0.944099379,1
+1277,Bahrain International Circuit,1,Charles Leclerc,7836,1,0.844444444,1
+1314,Bahrain International Circuit,9,Lewis Hamilton,10331,4,0.945273632,1
+1315,Bahrain International Circuit,2,Lewis Hamilton,10681,2,0.945273632,1
+1316,Bahrain International Circuit,1,Lewis Hamilton,11059,1,0.945273632,1
+1317,Bahrain International Circuit,1,Lewis Hamilton,11409,1,0.945273632,1
+1318,Bahrain International Circuit,2,Lewis Hamilton,11787,2,0.945273632,1
+1319,Bahrain International Circuit,9,Lewis Hamilton,12144,4,0.945273632,1
+1320,Bahrain International Circuit,3,Lewis Hamilton,12501,3,0.945273632,1
+1323,Bahrain International Circuit,1,Valtteri Bottas,10093,1,0.965034965,1
+1324,Bahrain International Circuit,3,Valtteri Bottas,10450,3,0.965034965,1
+1325,Bahrain International Circuit,4,Valtteri Bottas,10807,4,0.965034965,1
+1336,Bahrain International Circuit,6,Daniel Ricciardo,8331,6,0.942196532,1
+1337,Bahrain International Circuit,13,Daniel Ricciardo,8695,13,0.942196532,1
+1341,Bahrain International Circuit,12,Daniil Kvyat,7285,13,0.917525773,1
+1342,Bahrain International Circuit,11,Daniil Kvyat,8391,11,0.917525773,1
+1343,Bahrain International Circuit,15,Daniil Kvyat,9105,15,0.917525773,1
+1344,Bahrain International Circuit,9,Carlos Sainz,7535,9,0.903846154,1
+1345,Bahrain International Circuit,11,Carlos Sainz,7885,11,0.903846154,1
+1346,Bahrain International Circuit,16,Carlos Sainz,8263,16,0.903846154,1
+1347,Bahrain International Circuit,15,Max Verstappen,6410,15,0.914285714,1
+1348,Bahrain International Circuit,10,Max Verstappen,6760,10,0.914285714,1
+1349,Bahrain International Circuit,5,Pierre Gasly,8096,6,0.93877551,1
+1351,Bahrain International Circuit,12,Alexander Albon,8408,12,0.956521739,1
+1365,Bahrain International Circuit,4,Sergio Pérez,8836,5,0.933333333,1
+1366,Bahrain International Circuit,11,Sergio Pérez,9214,11,0.933333333,1
+1367,Bahrain International Circuit,18,Sergio Pérez,9564,18,0.933333333,1
+1368,Bahrain International Circuit,18,Sergio Pérez,9942,18,0.933333333,1
+1369,Bahrain International Circuit,12,Sergio Pérez,10299,12,0.933333333,1
+1370,Bahrain International Circuit,14,Esteban Ocon,7516,14,0.923076923,1
+1371,Bahrain International Circuit,8,Esteban Ocon,7873,9,0.923076923,1
+1383,Bahrain International Circuit,8,Sergio Pérez,8122,8,0.933333333,1
+1393,Bahrain International Circuit,19,Charles Leclerc,7479,19,0.844444444,1
+1409,Bahrain International Circuit,1,Sebastian Vettel,8290,1,0.955,1
+1410,Bahrain International Circuit,1,Sebastian Vettel,9060,1,0.955,1
+1411,Bahrain International Circuit,2,Sebastian Vettel,9424,2,0.955,1
+1412,Bahrain International Circuit,10,Sebastian Vettel,9774,11,0.955,1
+1419,Bahrain International Circuit,13,Daniel Ricciardo,9045,3,0.942196532,1
+1420,Bahrain International Circuit,7,Daniel Ricciardo,9423,7,0.942196532,1
+1421,Bahrain International Circuit,5,Daniel Ricciardo,9773,5,0.942196532,1
+1422,Bahrain International Circuit,4,Daniel Ricciardo,10151,4,0.942196532,1
+1423,Bahrain International Circuit,4,Daniel Ricciardo,10508,5,0.942196532,1
+1424,Bahrain International Circuit,17,Daniil Kvyat,7663,17,0.917525773,1
+1425,Bahrain International Circuit,15,Daniil Kvyat,8013,15,0.917525773,1
+1426,Bahrain International Circuit,6,Max Verstappen,7138,6,0.914285714,1
+1427,Bahrain International Circuit,15,Max Verstappen,7495,15,0.914285714,1
+1428,Bahrain International Circuit,5,Max Verstappen,7852,5,0.914285714,1
+1429,Bahrain International Circuit,13,Pierre Gasly,8453,13,0.93877551,1
+1432,Bahrain International Circuit,11,Kimi Räikkönen,11876,11,0.944099379,1
+1433,Bahrain International Circuit,8,Kimi Räikkönen,12240,9,0.944099379,1
+1434,Bahrain International Circuit,7,Romain Grosjean,9502,7,0.851851852,1
+1435,Bahrain International Circuit,11,Romain Grosjean,9866,11,0.851851852,1
+1436,Bahrain International Circuit,16,Romain Grosjean,10216,16,0.851851852,1
+1437,Bahrain International Circuit,10,Romain Grosjean,10594,10,0.851851852,1
+1440,Bahrain International Circuit,8,Kimi Räikkönen,14410,9,0.944099379,1
+1441,Bahrain International Circuit,16,Antonio Giovinazzi,9238,16,0.88,1
+1448,Bahrain International Circuit,9,Romain Grosjean,10944,9,0.851851852,1
+1449,Bahrain International Circuit,9,Romain Grosjean,11322,9,0.851851852,1
+1450,Bahrain International Circuit,16,Romain Grosjean,11679,16,0.851851852,1
+1451,Bahrain International Circuit,11,Romain Grosjean,12036,8,0.851851852,1
+1453,Bahrain International Circuit,20,Kevin Magnussen,8959,20,0.952380952,1
+1454,Bahrain International Circuit,6,Kevin Magnussen,9316,7,0.952380952,1
+1455,Bahrain International Circuit,6,Kevin Magnussen,9673,6,0.952380952,1
+1468,Bahrain International Circuit,14,Sergio Pérez,10656,14,0.933333333,1
+1469,Bahrain International Circuit,18,Lance Stroll,7458,18,0.923076923,1
+1506,Circuit de Barcelona-Catalunya,13,Daniel Ricciardo,10907,10,0.942196532,1
+1507,Circuit de Barcelona-Catalunya,15,Kevin Magnussen,8623,15,0.952380952,1
+1508,Circuit de Barcelona-Catalunya,9,Carlos Sainz,8655,9,0.903846154,1
+1553,Circuit de Barcelona-Catalunya,16,Valtteri Bottas,8658,17,0.965034965,1
+1554,Circuit de Barcelona-Catalunya,4,Valtteri Bottas,9022,4,0.965034965,1
+1555,Circuit de Barcelona-Catalunya,4,Valtteri Bottas,9386,4,0.965034965,1
+1556,Circuit de Barcelona-Catalunya,7,Valtteri Bottas,9757,7,0.965034965,1
+1557,Circuit de Barcelona-Catalunya,18,Lance Stroll,6772,18,0.923076923,1
+1558,Circuit de Barcelona-Catalunya,18,Lance Stroll,7136,19,0.923076923,1
+1560,Circuit de Barcelona-Catalunya,19,George Russell,7756,19,0.958333333,1
+1582,Circuit de Barcelona-Catalunya,3,Lewis Hamilton,9253,3,0.945273632,1
+1583,Circuit de Barcelona-Catalunya,3,Lewis Hamilton,9631,3,0.945273632,1
+1584,Circuit de Barcelona-Catalunya,24,Lewis Hamilton,9988,1,0.945273632,1
+1597,Circuit de Barcelona-Catalunya,8,Sergio Pérez,8507,9,0.933333333,1
+1598,Circuit de Barcelona-Catalunya,14,Kevin Magnussen,7888,15,0.952380952,1
+1599,Circuit de Barcelona-Catalunya,12,Carlos Sainz,9019,13,0.903846154,1
+1602,Circuit de Barcelona-Catalunya,10,Lando Norris,7120,11,0.916666667,1
+1611,Circuit de Barcelona-Catalunya,3,Sebastian Vettel,10173,3,0.955,1
+1612,Circuit de Barcelona-Catalunya,6,Sebastian Vettel,10544,6,0.955,1
+1613,Circuit de Barcelona-Catalunya,2,Sebastian Vettel,10908,2,0.955,1
+1614,Circuit de Barcelona-Catalunya,3,Sebastian Vettel,11272,3,0.955,1
+1615,Circuit de Barcelona-Catalunya,3,Sebastian Vettel,11636,3,0.955,1
+1619,Circuit de Barcelona-Catalunya,6,Kimi Räikkönen,12625,6,0.944099379,1
+1620,Circuit de Barcelona-Catalunya,7,Kimi Räikkönen,12989,7,0.944099379,1
+1621,Circuit de Barcelona-Catalunya,5,Kimi Räikkönen,13360,5,0.944099379,1
+1622,Circuit de Barcelona-Catalunya,4,Kimi Räikkönen,13724,4,0.944099379,1
+1623,Circuit de Barcelona-Catalunya,4,Kimi Räikkönen,14088,4,0.944099379,1
+1644,Circuit de Barcelona-Catalunya,5,Charles Leclerc,7878,5,0.844444444,1
+1712,Circuit de Barcelona-Catalunya,2,Lewis Hamilton,10352,2,0.945273632,1
+1713,Circuit de Barcelona-Catalunya,1,Lewis Hamilton,10716,1,0.945273632,1
+1714,Circuit de Barcelona-Catalunya,2,Lewis Hamilton,11080,2,0.945273632,1
+1715,Circuit de Barcelona-Catalunya,1,Lewis Hamilton,11451,1,0.945273632,1
+1716,Circuit de Barcelona-Catalunya,1,Lewis Hamilton,11815,1,0.945273632,1
+1717,Circuit de Barcelona-Catalunya,1,Lewis Hamilton,12179,1,0.945273632,1
+1718,Circuit de Barcelona-Catalunya,2,Lewis Hamilton,12543,2,0.945273632,1
+1722,Circuit de Barcelona-Catalunya,3,Valtteri Bottas,10121,3,0.965034965,1
+1723,Circuit de Barcelona-Catalunya,2,Valtteri Bottas,10485,2,0.965034965,1
+1724,Circuit de Barcelona-Catalunya,1,Valtteri Bottas,10849,1,0.965034965,1
+1737,Circuit de Barcelona-Catalunya,15,Daniel Ricciardo,8352,16,0.942196532,1
+1738,Circuit de Barcelona-Catalunya,11,Daniel Ricciardo,8716,11,0.942196532,1
+1742,Circuit de Barcelona-Catalunya,12,Daniil Kvyat,7320,13,0.917525773,1
+1743,Circuit de Barcelona-Catalunya,13,Daniil Kvyat,8055,13,0.917525773,1
+1744,Circuit de Barcelona-Catalunya,19,Daniil Kvyat,8419,20,0.917525773,1
+1745,Circuit de Barcelona-Catalunya,9,Daniil Kvyat,9147,9,0.917525773,1
+1746,Circuit de Barcelona-Catalunya,5,Carlos Sainz,7556,5,0.903846154,1
+1747,Circuit de Barcelona-Catalunya,8,Carlos Sainz,7927,8,0.903846154,1
+1748,Circuit de Barcelona-Catalunya,12,Carlos Sainz,8291,12,0.903846154,1
+1749,Circuit de Barcelona-Catalunya,6,Max Verstappen,6431,6,0.914285714,1
+1750,Circuit de Barcelona-Catalunya,12,Pierre Gasly,8131,12,0.93877551,1
+1752,Circuit de Barcelona-Catalunya,11,Alexander Albon,8450,12,0.956521739,1
+1768,Circuit de Barcelona-Catalunya,11,Sergio Pérez,8871,12,0.933333333,1
+1769,Circuit de Barcelona-Catalunya,18,Sergio Pérez,9235,18,0.933333333,1
+1770,Circuit de Barcelona-Catalunya,9,Sergio Pérez,9606,9,0.933333333,1
+1771,Circuit de Barcelona-Catalunya,8,Sergio Pérez,9970,8,0.933333333,1
+1772,Circuit de Barcelona-Catalunya,15,Sergio Pérez,10334,15,0.933333333,1
+1773,Circuit de Barcelona-Catalunya,10,Esteban Ocon,7544,10,0.923076923,1
+1774,Circuit de Barcelona-Catalunya,13,Esteban Ocon,7908,13,0.923076923,1
+1796,Circuit de Barcelona-Catalunya,12,Sergio Pérez,7786,12,0.933333333,1
+1797,Circuit de Barcelona-Catalunya,5,Sergio Pérez,8143,6,0.933333333,1
+1807,Circuit de Barcelona-Catalunya,14,Charles Leclerc,7514,14,0.844444444,1
+1824,Circuit de Barcelona-Catalunya,2,Sebastian Vettel,8346,2,0.955,1
+1825,Circuit de Barcelona-Catalunya,2,Sebastian Vettel,8724,2,0.955,1
+1826,Circuit de Barcelona-Catalunya,7,Sebastian Vettel,9081,8,0.955,1
+1827,Circuit de Barcelona-Catalunya,3,Sebastian Vettel,9445,3,0.955,1
+1828,Circuit de Barcelona-Catalunya,15,Sebastian Vettel,9809,10,0.955,1
+1835,Circuit de Barcelona-Catalunya,3,Daniel Ricciardo,9080,3,0.942196532,1
+1836,Circuit de Barcelona-Catalunya,10,Daniel Ricciardo,9444,10,0.942196532,1
+1837,Circuit de Barcelona-Catalunya,3,Daniel Ricciardo,9815,3,0.942196532,1
+1838,Circuit de Barcelona-Catalunya,6,Daniel Ricciardo,10179,6,0.942196532,1
+1839,Circuit de Barcelona-Catalunya,6,Daniel Ricciardo,10543,6,0.942196532,1
+1840,Circuit de Barcelona-Catalunya,8,Daniil Kvyat,7684,8,0.917525773,1
+1841,Circuit de Barcelona-Catalunya,4,Max Verstappen,6802,4,0.914285714,1
+1842,Circuit de Barcelona-Catalunya,5,Max Verstappen,7166,5,0.914285714,1
+1843,Circuit de Barcelona-Catalunya,5,Max Verstappen,7530,5,0.914285714,1
+1844,Circuit de Barcelona-Catalunya,4,Max Verstappen,7894,4,0.914285714,1
+1845,Circuit de Barcelona-Catalunya,6,Pierre Gasly,8495,6,0.93877551,1
+1850,Circuit de Barcelona-Catalunya,4,Kimi Räikkönen,11897,5,0.944099379,1
+1851,Circuit de Barcelona-Catalunya,4,Kimi Räikkönen,12261,4,0.944099379,1
+1852,Circuit de Barcelona-Catalunya,3,Romain Grosjean,9523,4,0.851851852,1
+1853,Circuit de Barcelona-Catalunya,6,Romain Grosjean,9887,7,0.851851852,1
+1854,Circuit de Barcelona-Catalunya,5,Romain Grosjean,10251,5,0.851851852,1
+1855,Circuit de Barcelona-Catalunya,11,Romain Grosjean,10615,11,0.851851852,1
+1858,Circuit de Barcelona-Catalunya,14,Kimi Räikkönen,14452,14,0.944099379,1
+1859,Circuit de Barcelona-Catalunya,18,Antonio Giovinazzi,9280,18,0.88,1
+1866,Circuit de Barcelona-Catalunya,14,Romain Grosjean,10986,14,0.851851852,1
+1867,Circuit de Barcelona-Catalunya,14,Romain Grosjean,11350,14,0.851851852,1
+1868,Circuit de Barcelona-Catalunya,10,Romain Grosjean,11714,10,0.851851852,1
+1869,Circuit de Barcelona-Catalunya,7,Romain Grosjean,12078,7,0.851851852,1
+1871,Circuit de Barcelona-Catalunya,11,Kevin Magnussen,8987,11,0.952380952,1
+1872,Circuit de Barcelona-Catalunya,7,Kevin Magnussen,9351,7,0.952380952,1
+1873,Circuit de Barcelona-Catalunya,8,Kevin Magnussen,9715,8,0.952380952,1
+1923,Circuit de Barcelona-Catalunya,15,Sergio Pérez,10698,15,0.933333333,1
+1924,Circuit de Barcelona-Catalunya,16,Lance Stroll,7500,17,0.923076923,1
+1962,Circuit de Monaco,6,Daniel Ricciardo,10921,7,0.942196532,1
+1963,Circuit de Monaco,16,Kevin Magnussen,8637,16,0.952380952,1
+1964,Circuit de Monaco,8,Carlos Sainz,8669,8,0.903846154,1
+2005,Circuit de Monaco,14,Valtteri Bottas,8672,14,0.965034965,1
+2006,Circuit de Monaco,13,Valtteri Bottas,9036,13,0.965034965,1
+2007,Circuit de Monaco,16,Valtteri Bottas,9400,17,0.965034965,1
+2008,Circuit de Monaco,10,Valtteri Bottas,9771,11,0.965034965,1
+2009,Circuit de Monaco,17,Lance Stroll,6786,18,0.923076923,1
+2010,Circuit de Monaco,17,Lance Stroll,7150,18,0.923076923,1
+2012,Circuit de Monaco,19,George Russell,7770,19,0.958333333,1
+2034,Circuit de Monaco,5,Lewis Hamilton,9260,5,0.945273632,1
+2035,Circuit de Monaco,9,Lewis Hamilton,9638,7,0.945273632,1
+2036,Circuit de Monaco,3,Lewis Hamilton,10002,4,0.945273632,1
+2047,Circuit de Monaco,7,Sergio Pérez,8521,7,0.933333333,1
+2048,Circuit de Monaco,8,Kevin Magnussen,7902,8,0.952380952,1
+2049,Circuit de Monaco,9,Carlos Sainz,9033,9,0.903846154,1
+2052,Circuit de Monaco,12,Lando Norris,7134,12,0.916666667,1
+2061,Circuit de Monaco,3,Sebastian Vettel,10187,3,0.955,1
+2062,Circuit de Monaco,4,Sebastian Vettel,10558,4,0.955,1
+2063,Circuit de Monaco,2,Sebastian Vettel,10922,2,0.955,1
+2064,Circuit de Monaco,2,Sebastian Vettel,11286,2,0.955,1
+2065,Circuit de Monaco,4,Sebastian Vettel,11650,4,0.955,1
+2069,Circuit de Monaco,6,Kimi Räikkönen,12639,6,0.944099379,1
+2070,Circuit de Monaco,6,Kimi Räikkönen,13003,6,0.944099379,1
+2071,Circuit de Monaco,11,Kimi Räikkönen,13374,6,0.944099379,1
+2072,Circuit de Monaco,1,Kimi Räikkönen,13738,1,0.944099379,1
+2073,Circuit de Monaco,4,Kimi Räikkönen,14102,4,0.944099379,1
+2092,Circuit de Monaco,15,Charles Leclerc,7892,16,0.844444444,1
+2156,Circuit de Monaco,2,Lewis Hamilton,10366,2,0.945273632,1
+2157,Circuit de Monaco,2,Lewis Hamilton,10730,2,0.945273632,1
+2158,Circuit de Monaco,1,Lewis Hamilton,11094,1,0.945273632,1
+2159,Circuit de Monaco,3,Lewis Hamilton,11465,3,0.945273632,1
+2160,Circuit de Monaco,13,Lewis Hamilton,11829,14,0.945273632,1
+2161,Circuit de Monaco,3,Lewis Hamilton,12193,3,0.945273632,1
+2162,Circuit de Monaco,1,Lewis Hamilton,12557,1,0.945273632,1
+2166,Circuit de Monaco,3,Valtteri Bottas,10135,3,0.965034965,1
+2167,Circuit de Monaco,5,Valtteri Bottas,10499,5,0.965034965,1
+2168,Circuit de Monaco,2,Valtteri Bottas,10863,2,0.965034965,1
+2181,Circuit de Monaco,15,Daniel Ricciardo,8366,16,0.942196532,1
+2182,Circuit de Monaco,12,Daniel Ricciardo,8730,12,0.942196532,1
+2186,Circuit de Monaco,9,Daniil Kvyat,7334,9,0.917525773,1
+2187,Circuit de Monaco,8,Daniil Kvyat,8069,9,0.917525773,1
+2188,Circuit de Monaco,9,Daniil Kvyat,8433,11,0.917525773,1
+2189,Circuit de Monaco,7,Daniil Kvyat,9161,8,0.917525773,1
+2190,Circuit de Monaco,0,Carlos Sainz,7570,8,0.903846154,1
+2191,Circuit de Monaco,6,Carlos Sainz,7941,7,0.903846154,1
+2192,Circuit de Monaco,6,Carlos Sainz,8305,6,0.903846154,1
+2193,Circuit de Monaco,9,Max Verstappen,6445,10,0.914285714,1
+2194,Circuit de Monaco,10,Pierre Gasly,8145,10,0.93877551,1
+2196,Circuit de Monaco,10,Alexander Albon,8464,10,0.956521739,1
+2212,Circuit de Monaco,10,Sergio Pérez,8885,10,0.933333333,1
+2213,Circuit de Monaco,7,Sergio Pérez,9249,7,0.933333333,1
+2214,Circuit de Monaco,7,Sergio Pérez,9620,8,0.933333333,1
+2215,Circuit de Monaco,7,Sergio Pérez,9984,7,0.933333333,1
+2216,Circuit de Monaco,9,Sergio Pérez,10348,9,0.933333333,1
+2217,Circuit de Monaco,15,Esteban Ocon,7558,16,0.923076923,1
+2218,Circuit de Monaco,6,Esteban Ocon,7922,6,0.923076923,1
+2239,Circuit de Monaco,0,Sergio Pérez,7793,10,0.933333333,1
+2249,Circuit de Monaco,14,Charles Leclerc,7528,14,0.844444444,1
+2266,Circuit de Monaco,3,Sebastian Vettel,8353,3,0.955,1
+2267,Circuit de Monaco,1,Sebastian Vettel,8731,1,0.955,1
+2268,Circuit de Monaco,9,Sebastian Vettel,9095,10,0.955,1
+2269,Circuit de Monaco,3,Sebastian Vettel,9459,3,0.955,1
+2270,Circuit de Monaco,4,Sebastian Vettel,9823,4,0.955,1
+2277,Circuit de Monaco,3,Daniel Ricciardo,9094,3,0.942196532,1
+2278,Circuit de Monaco,4,Daniel Ricciardo,9458,4,0.942196532,1
+2279,Circuit de Monaco,1,Daniel Ricciardo,9829,1,0.942196532,1
+2280,Circuit de Monaco,5,Daniel Ricciardo,10193,5,0.942196532,1
+2281,Circuit de Monaco,1,Daniel Ricciardo,10557,1,0.942196532,1
+2282,Circuit de Monaco,5,Daniil Kvyat,7698,5,0.917525773,1
+2283,Circuit de Monaco,0,Max Verstappen,6816,21,0.914285714,1
+2284,Circuit de Monaco,4,Max Verstappen,7180,4,0.914285714,1
+2285,Circuit de Monaco,20,Max Verstappen,7544,20,0.914285714,1
+2286,Circuit de Monaco,3,Max Verstappen,7908,3,0.914285714,1
+2287,Circuit de Monaco,8,Pierre Gasly,8509,5,0.93877551,1
+2292,Circuit de Monaco,8,Kimi Räikkönen,11911,8,0.944099379,1
+2293,Circuit de Monaco,5,Kimi Räikkönen,12275,5,0.944099379,1
+2294,Circuit de Monaco,4,Romain Grosjean,9537,5,0.851851852,1
+2295,Circuit de Monaco,13,Romain Grosjean,9901,13,0.851851852,1
+2296,Circuit de Monaco,14,Romain Grosjean,10265,14,0.851851852,1
+2297,Circuit de Monaco,15,Romain Grosjean,10629,11,0.851851852,1
+2300,Circuit de Monaco,14,Kimi Räikkönen,14466,14,0.944099379,1
+2301,Circuit de Monaco,18,Antonio Giovinazzi,9294,15,0.88,1
+2308,Circuit de Monaco,15,Romain Grosjean,11000,15,0.851851852,1
+2309,Circuit de Monaco,8,Romain Grosjean,11364,8,0.851851852,1
+2310,Circuit de Monaco,18,Romain Grosjean,11728,15,0.851851852,1
+2311,Circuit de Monaco,13,Romain Grosjean,12092,13,0.851851852,1
+2313,Circuit de Monaco,11,Kevin Magnussen,9001,13,0.952380952,1
+2314,Circuit de Monaco,19,Kevin Magnussen,9365,19,0.952380952,1
+2315,Circuit de Monaco,5,Kevin Magnussen,9729,6,0.952380952,1
+2352,Circuit de Monaco,16,Sergio Pérez,10712,17,0.933333333,1
+2353,Circuit de Monaco,17,Lance Stroll,7514,18,0.923076923,1
+2406,Istanbul Park,2,Lewis Hamilton,9274,2,0.945273632,1
+2407,Istanbul Park,4,Lewis Hamilton,9617,4,0.945273632,1
+2476,Istanbul Park,15,Sergio Pérez,7772,15,0.933333333,1
+2491,Istanbul Park,3,Sebastian Vettel,8367,3,0.955,1
+2492,Istanbul Park,1,Sebastian Vettel,8710,1,0.955,1
+2546,Silverstone Circuit,7,Daniel Ricciardo,10970,7,0.942196532,1
+2547,Silverstone Circuit,16,Kevin Magnussen,8679,16,0.952380952,1
+2548,Silverstone Circuit,16,Carlos Sainz,8711,16,0.903846154,1
+2597,Silverstone Circuit,16,Valtteri Bottas,8707,17,0.965034965,1
+2598,Silverstone Circuit,14,Valtteri Bottas,9078,17,0.965034965,1
+2599,Silverstone Circuit,4,Valtteri Bottas,9442,4,0.965034965,1
+2600,Silverstone Circuit,6,Valtteri Bottas,9813,7,0.965034965,1
+2601,Silverstone Circuit,15,Lance Stroll,6835,16,0.923076923,1
+2602,Silverstone Circuit,19,Lance Stroll,7192,19,0.923076923,1
+2604,Silverstone Circuit,19,George Russell,7819,19,0.958333333,1
+2626,Silverstone Circuit,4,Lewis Hamilton,9316,4,0.945273632,1
+2627,Silverstone Circuit,10,Lewis Hamilton,9680,10,0.945273632,1
+2628,Silverstone Circuit,8,Lewis Hamilton,10044,8,0.945273632,1
+2643,Silverstone Circuit,13,Sergio Pérez,8556,14,0.933333333,1
+2644,Silverstone Circuit,5,Kevin Magnussen,7944,5,0.952380952,1
+2645,Silverstone Circuit,13,Carlos Sainz,9082,13,0.903846154,1
+2648,Silverstone Circuit,8,Lando Norris,7183,8,0.916666667,1
+2658,Silverstone Circuit,6,Sebastian Vettel,10229,6,0.955,1
+2659,Silverstone Circuit,11,Sebastian Vettel,10600,6,0.955,1
+2660,Silverstone Circuit,3,Sebastian Vettel,10971,3,0.955,1
+2661,Silverstone Circuit,2,Sebastian Vettel,11328,2,0.955,1
+2662,Silverstone Circuit,6,Sebastian Vettel,11699,6,0.955,1
+2666,Silverstone Circuit,18,Kimi Räikkönen,12681,20,0.944099379,1
+2667,Silverstone Circuit,5,Kimi Räikkönen,13045,5,0.944099379,1
+2668,Silverstone Circuit,5,Kimi Räikkönen,13416,5,0.944099379,1
+2669,Silverstone Circuit,2,Kimi Räikkönen,13787,2,0.944099379,1
+2670,Silverstone Circuit,3,Kimi Räikkönen,14144,3,0.944099379,1
+2692,Silverstone Circuit,3,Charles Leclerc,7941,3,0.844444444,1
+2770,Silverstone Circuit,1,Lewis Hamilton,10401,1,0.945273632,1
+2771,Silverstone Circuit,6,Lewis Hamilton,10772,6,0.945273632,1
+2772,Silverstone Circuit,1,Lewis Hamilton,11136,1,0.945273632,1
+2773,Silverstone Circuit,1,Lewis Hamilton,11507,1,0.945273632,1
+2774,Silverstone Circuit,1,Lewis Hamilton,11878,1,0.945273632,1
+2775,Silverstone Circuit,1,Lewis Hamilton,12235,1,0.945273632,1
+2776,Silverstone Circuit,2,Lewis Hamilton,12606,2,0.945273632,1
+2780,Silverstone Circuit,9,Valtteri Bottas,10184,4,0.965034965,1
+2781,Silverstone Circuit,4,Valtteri Bottas,10541,4,0.965034965,1
+2782,Silverstone Circuit,1,Valtteri Bottas,10912,1,0.965034965,1
+2795,Silverstone Circuit,12,Daniel Ricciardo,8408,14,0.942196532,1
+2796,Silverstone Circuit,5,Daniel Ricciardo,8765,6,0.942196532,1
+2800,Silverstone Circuit,9,Daniil Kvyat,7376,9,0.917525773,1
+2801,Silverstone Circuit,15,Daniil Kvyat,8111,15,0.917525773,1
+2802,Silverstone Circuit,12,Daniil Kvyat,8482,12,0.917525773,1
+2803,Silverstone Circuit,17,Daniil Kvyat,9210,17,0.917525773,1
+2804,Silverstone Circuit,8,Carlos Sainz,7612,8,0.903846154,1
+2805,Silverstone Circuit,7,Carlos Sainz,7983,8,0.903846154,1
+2806,Silverstone Circuit,13,Carlos Sainz,8354,14,0.903846154,1
+2807,Silverstone Circuit,13,Max Verstappen,6487,13,0.914285714,1
+2808,Silverstone Circuit,14,Pierre Gasly,8187,14,0.93877551,1
+2810,Silverstone Circuit,9,Alexander Albon,8513,9,0.956521739,1
+2826,Silverstone Circuit,7,Sergio Pérez,8927,7,0.933333333,1
+2827,Silverstone Circuit,11,Sergio Pérez,9291,11,0.933333333,1
+2828,Silverstone Circuit,10,Sergio Pérez,9662,11,0.933333333,1
+2829,Silverstone Circuit,6,Sergio Pérez,10033,7,0.933333333,1
+2830,Silverstone Circuit,12,Sergio Pérez,10390,12,0.933333333,1
+2831,Silverstone Circuit,7,Esteban Ocon,7607,8,0.923076923,1
+2832,Silverstone Circuit,10,Esteban Ocon,7964,10,0.923076923,1
+2857,Silverstone Circuit,12,Sergio Pérez,7835,12,0.933333333,1
+2858,Silverstone Circuit,15,Sergio Pérez,8199,17,0.933333333,1
+2867,Silverstone Circuit,9,Charles Leclerc,7570,9,0.844444444,1
+2884,Silverstone Circuit,1,Sebastian Vettel,8409,1,0.955,1
+2885,Silverstone Circuit,2,Sebastian Vettel,8773,2,0.955,1
+2886,Silverstone Circuit,4,Sebastian Vettel,9137,4,0.955,1
+2887,Silverstone Circuit,3,Sebastian Vettel,9494,3,0.955,1
+2888,Silverstone Circuit,2,Sebastian Vettel,9865,2,0.955,1
+2895,Silverstone Circuit,8,Daniel Ricciardo,9136,8,0.942196532,1
+2896,Silverstone Circuit,10,Daniel Ricciardo,9500,10,0.942196532,1
+2897,Silverstone Circuit,4,Daniel Ricciardo,9871,4,0.942196532,1
+2898,Silverstone Circuit,19,Daniel Ricciardo,10242,20,0.942196532,1
+2899,Silverstone Circuit,6,Daniel Ricciardo,10599,6,0.942196532,1
+2900,Silverstone Circuit,7,Daniil Kvyat,7740,7,0.917525773,1
+2901,Silverstone Circuit,3,Max Verstappen,6858,3,0.914285714,1
+2902,Silverstone Circuit,4,Max Verstappen,7229,5,0.914285714,1
+2903,Silverstone Circuit,5,Max Verstappen,7586,5,0.914285714,1
+2904,Silverstone Circuit,4,Max Verstappen,7957,4,0.914285714,1
+2905,Silverstone Circuit,5,Pierre Gasly,8558,5,0.93877551,1
+2912,Silverstone Circuit,6,Kimi Räikkönen,11953,6,0.944099379,1
+2913,Silverstone Circuit,8,Kimi Räikkönen,12310,9,0.944099379,1
+2914,Silverstone Circuit,9,Romain Grosjean,9579,10,0.851851852,1
+2915,Silverstone Circuit,7,Romain Grosjean,9936,8,0.851851852,1
+2916,Silverstone Circuit,11,Romain Grosjean,10307,11,0.851851852,1
+2917,Silverstone Circuit,12,Romain Grosjean,10671,12,0.851851852,1
+2920,Silverstone Circuit,12,Kimi Räikkönen,14515,12,0.944099379,1
+2921,Silverstone Circuit,11,Antonio Giovinazzi,9343,11,0.88,1
+2928,Silverstone Circuit,13,Romain Grosjean,11042,13,0.851851852,1
+2929,Silverstone Circuit,10,Romain Grosjean,11413,10,0.851851852,1
+2930,Silverstone Circuit,8,Romain Grosjean,11770,8,0.851851852,1
+2931,Silverstone Circuit,14,Romain Grosjean,12141,14,0.851851852,1
+2933,Silverstone Circuit,16,Kevin Magnussen,9050,17,0.952380952,1
+2934,Silverstone Circuit,7,Kevin Magnussen,9407,7,0.952380952,1
+2935,Silverstone Circuit,16,Kevin Magnussen,9778,16,0.952380952,1
+2943,Silverstone Circuit,24,Daniel Ricciardo,8044,24,0.942196532,1
+2980,Silverstone Circuit,15,Sergio Pérez,10761,15,0.933333333,1
+2981,Silverstone Circuit,18,Lance Stroll,7563,18,0.923076923,1
+3035,Nürburgring,17,Valtteri Bottas,8714,17,0.965034965,1
+3046,Nürburgring,2,Lewis Hamilton,9694,2,0.945273632,1
+3055,Nürburgring,13,Sergio Pérez,8563,13,0.933333333,1
+3116,Nürburgring,1,Lewis Hamilton,10408,1,0.945273632,1
+3126,Nürburgring,6,Daniel Ricciardo,8772,6,0.942196532,1
+3148,Nürburgring,15,Sergio Pérez,7849,15,0.933333333,1
+3161,Nürburgring,3,Sebastian Vettel,8787,3,0.955,1
+3162,Nürburgring,2,Sebastian Vettel,9501,2,0.955,1
+3172,Nürburgring,4,Kimi Räikkönen,12317,4,0.944099379,1
+3173,Nürburgring,5,Romain Grosjean,9943,5,0.851851852,1
+3179,Nürburgring,22,Daniel Ricciardo,8058,24,0.942196532,1
+3235,Hungaroring,20,Daniel Ricciardo,10991,18,0.942196532,1
+3236,Hungaroring,11,Daniel Ricciardo,11341,11,0.942196532,1
+3237,Hungaroring,19,Kevin Magnussen,8693,19,0.952380952,1
+3238,Hungaroring,5,Carlos Sainz,8732,5,0.903846154,1
+3241,Hungaroring,14,Esteban Ocon,8706,14,0.923076923,1
+3276,Hungaroring,16,Valtteri Bottas,8735,16,0.965034965,1
+3277,Hungaroring,3,Valtteri Bottas,9099,3,0.965034965,1
+3278,Hungaroring,6,Valtteri Bottas,9463,6,0.965034965,1
+3279,Hungaroring,10,Valtteri Bottas,9827,10,0.965034965,1
+3280,Hungaroring,17,Lance Stroll,6849,17,0.923076923,1
+3281,Hungaroring,15,Lance Stroll,7213,15,0.923076923,1
+3283,Hungaroring,15,George Russell,7840,16,0.958333333,1
+3284,Hungaroring,12,George Russell,8190,12,0.958333333,1
+3285,Hungaroring,15,Nicholas Latifi,9152,15,1,1
+3307,Hungaroring,5,Lewis Hamilton,9337,5,0.945273632,1
+3308,Hungaroring,2,Lewis Hamilton,9701,2,0.945273632,1
+3309,Hungaroring,1,Lewis Hamilton,10065,1,0.945273632,1
+3318,Hungaroring,9,Sergio Pérez,8584,9,0.933333333,1
+3319,Hungaroring,21,Kevin Magnussen,7965,10,0.952380952,1
+3320,Hungaroring,8,Carlos Sainz,9103,8,0.903846154,1
+3321,Hungaroring,9,Carlos Sainz,9453,9,0.903846154,1
+3324,Hungaroring,7,Lando Norris,7204,7,0.916666667,1
+3325,Hungaroring,8,Lando Norris,7554,8,0.916666667,1
+3334,Hungaroring,3,Sebastian Vettel,10250,3,0.955,1
+3335,Hungaroring,5,Sebastian Vettel,10614,5,0.955,1
+3336,Hungaroring,1,Sebastian Vettel,10985,1,0.955,1
+3337,Hungaroring,4,Sebastian Vettel,11349,4,0.955,1
+3338,Hungaroring,5,Sebastian Vettel,11720,5,0.955,1
+3339,Hungaroring,5,Sebastian Vettel,12070,5,0.955,1
+3343,Hungaroring,16,Kimi Räikkönen,12702,17,0.944099379,1
+3344,Hungaroring,5,Kimi Räikkönen,13066,5,0.944099379,1
+3345,Hungaroring,14,Kimi Räikkönen,13430,14,0.944099379,1
+3346,Hungaroring,2,Kimi Räikkönen,13801,2,0.944099379,1
+3347,Hungaroring,3,Kimi Räikkönen,14165,3,0.944099379,1
+3364,Hungaroring,4,Charles Leclerc,7962,4,0.844444444,1
+3365,Hungaroring,6,Charles Leclerc,8312,6,0.844444444,1
+3421,Hungaroring,1,Lewis Hamilton,10429,1,0.945273632,1
+3422,Hungaroring,22,Lewis Hamilton,10793,21,0.945273632,1
+3423,Hungaroring,1,Lewis Hamilton,11157,1,0.945273632,1
+3424,Hungaroring,2,Lewis Hamilton,11521,2,0.945273632,1
+3425,Hungaroring,4,Lewis Hamilton,11892,4,0.945273632,1
+3426,Hungaroring,1,Lewis Hamilton,12256,1,0.945273632,1
+3427,Hungaroring,3,Lewis Hamilton,12627,3,0.945273632,1
+3428,Hungaroring,1,Lewis Hamilton,12977,1,0.945273632,1
+3432,Hungaroring,3,Valtteri Bottas,10198,3,0.965034965,1
+3433,Hungaroring,2,Valtteri Bottas,10562,2,0.965034965,1
+3434,Hungaroring,2,Valtteri Bottas,10933,2,0.965034965,1
+3435,Hungaroring,2,Valtteri Bottas,11283,2,0.965034965,1
+3448,Hungaroring,18,Daniel Ricciardo,8429,18,0.942196532,1
+3449,Hungaroring,8,Daniel Ricciardo,8793,8,0.942196532,1
+3453,Hungaroring,10,Daniil Kvyat,7397,11,0.917525773,1
+3454,Hungaroring,12,Daniil Kvyat,8125,12,0.917525773,1
+3455,Hungaroring,16,Daniil Kvyat,8496,13,0.917525773,1
+3456,Hungaroring,13,Daniil Kvyat,9231,13,0.917525773,1
+3457,Hungaroring,12,Carlos Sainz,7633,12,0.903846154,1
+3458,Hungaroring,6,Carlos Sainz,7997,6,0.903846154,1
+3459,Hungaroring,9,Carlos Sainz,8368,10,0.903846154,1
+3460,Hungaroring,9,Max Verstappen,6508,9,0.914285714,1
+3461,Hungaroring,6,Pierre Gasly,8208,6,0.93877551,1
+3463,Hungaroring,12,Alexander Albon,8534,12,0.956521739,1
+3479,Hungaroring,12,Sergio Pérez,8948,13,0.933333333,1
+3480,Hungaroring,13,Sergio Pérez,9312,13,0.933333333,1
+3481,Hungaroring,13,Sergio Pérez,9676,13,0.933333333,1
+3482,Hungaroring,13,Sergio Pérez,10047,14,0.933333333,1
+3483,Hungaroring,19,Sergio Pérez,10411,19,0.933333333,1
+3484,Hungaroring,11,Esteban Ocon,7621,12,0.923076923,1
+3485,Hungaroring,18,Esteban Ocon,7985,18,0.923076923,1
+3504,Hungaroring,10,Sergio Pérez,7856,10,0.933333333,1
+3505,Hungaroring,14,Sergio Pérez,8220,14,0.933333333,1
+3515,Hungaroring,17,Charles Leclerc,7591,17,0.844444444,1
+3532,Hungaroring,1,Sebastian Vettel,8430,1,0.955,1
+3533,Hungaroring,1,Sebastian Vettel,8794,1,0.955,1
+3534,Hungaroring,3,Sebastian Vettel,9158,3,0.955,1
+3535,Hungaroring,2,Sebastian Vettel,9522,2,0.955,1
+3536,Hungaroring,2,Sebastian Vettel,9886,2,0.955,1
+3543,Hungaroring,4,Daniel Ricciardo,9157,4,0.942196532,1
+3544,Hungaroring,4,Daniel Ricciardo,9521,4,0.942196532,1
+3545,Hungaroring,3,Daniel Ricciardo,9885,3,0.942196532,1
+3546,Hungaroring,6,Daniel Ricciardo,10256,6,0.942196532,1
+3547,Hungaroring,12,Daniel Ricciardo,10620,12,0.942196532,1
+3548,Hungaroring,7,Daniil Kvyat,7761,7,0.917525773,1
+3549,Hungaroring,4,Max Verstappen,6872,4,0.914285714,1
+3550,Hungaroring,5,Max Verstappen,7243,5,0.914285714,1
+3551,Hungaroring,7,Max Verstappen,7607,7,0.914285714,1
+3552,Hungaroring,1,Max Verstappen,7978,1,0.914285714,1
+3553,Hungaroring,7,Max Verstappen,8328,7,0.914285714,1
+3554,Hungaroring,6,Pierre Gasly,8579,6,0.93877551,1
+3555,Hungaroring,13,Alexander Albon,8884,13,0.956521739,1
+3560,Hungaroring,5,Kimi Räikkönen,11974,5,0.944099379,1
+3561,Hungaroring,6,Kimi Räikkönen,12338,6,0.944099379,1
+3562,Hungaroring,2,Romain Grosjean,9600,2,0.851851852,1
+3563,Hungaroring,3,Romain Grosjean,9964,3,0.851851852,1
+3564,Hungaroring,14,Romain Grosjean,10328,15,0.851851852,1
+3565,Hungaroring,10,Romain Grosjean,10692,10,0.851851852,1
+3568,Hungaroring,10,Kimi Räikkönen,14536,10,0.944099379,1
+3569,Hungaroring,20,Kimi Räikkönen,14886,20,0.944099379,1
+3570,Hungaroring,17,Antonio Giovinazzi,9364,14,0.88,1
+3571,Hungaroring,19,Antonio Giovinazzi,9714,19,0.88,1
+3578,Hungaroring,11,Romain Grosjean,11056,11,0.851851852,1
+3579,Hungaroring,14,Romain Grosjean,11427,15,0.851851852,1
+3580,Hungaroring,10,Romain Grosjean,11791,10,0.851851852,1
+3581,Hungaroring,9,Romain Grosjean,12162,9,0.851851852,1
+3582,Hungaroring,18,Romain Grosjean,12512,18,0.851851852,1
+3584,Hungaroring,15,Kevin Magnussen,9064,16,0.952380952,1
+3585,Hungaroring,9,Kevin Magnussen,9428,9,0.952380952,1
+3586,Hungaroring,14,Kevin Magnussen,9799,15,0.952380952,1
+3587,Hungaroring,16,Kevin Magnussen,10149,16,0.952380952,1
+3595,Hungaroring,22,Daniel Ricciardo,8065,23,0.942196532,1
+3622,Hungaroring,16,Sergio Pérez,10782,17,0.933333333,1
+3623,Hungaroring,4,Sergio Pérez,11132,4,0.933333333,1
+3624,Hungaroring,18,Lance Stroll,7584,19,0.923076923,1
+3625,Hungaroring,3,Lance Stroll,7934,3,0.923076923,1
+3626,Hungaroring,17,Daniil Kvyat,9581,17,0.917525773,1
+3627,Hungaroring,10,Pierre Gasly,8929,10,0.93877551,1
+3661,Valencia Street Circuit,3,Lewis Hamilton,9302,3,0.945273632,1
+3662,Valencia Street Circuit,3,Lewis Hamilton,9666,3,0.945273632,1
+3663,Valencia Street Circuit,2,Lewis Hamilton,10030,2,0.945273632,1
+3701,Valencia Street Circuit,17,Daniel Ricciardo,8394,17,0.942196532,1
+3717,Valencia Street Circuit,16,Sergio Pérez,7821,16,0.933333333,1
+3718,Valencia Street Circuit,15,Sergio Pérez,8185,15,0.933333333,1
+3729,Valencia Street Circuit,1,Sebastian Vettel,8395,1,0.955,1
+3730,Valencia Street Circuit,1,Sebastian Vettel,8759,1,0.955,1
+3731,Valencia Street Circuit,1,Sebastian Vettel,9123,1,0.955,1
+3733,Valencia Street Circuit,5,Kimi Räikkönen,11939,5,0.944099379,1
+3734,Valencia Street Circuit,4,Romain Grosjean,9565,4,0.851851852,1
+3770,Circuit de Spa-Francorchamps,10,Daniel Ricciardo,11019,6,0.942196532,1
+3771,Circuit de Spa-Francorchamps,12,Kevin Magnussen,8728,12,0.952380952,1
+3772,Circuit de Spa-Francorchamps,14,Carlos Sainz,8760,16,0.903846154,1
+3809,Circuit de Spa-Francorchamps,20,Valtteri Bottas,8763,20,0.965034965,1
+3810,Circuit de Spa-Francorchamps,6,Valtteri Bottas,9127,6,0.965034965,1
+3811,Circuit de Spa-Francorchamps,3,Valtteri Bottas,9491,3,0.965034965,1
+3812,Circuit de Spa-Francorchamps,8,Valtteri Bottas,9862,8,0.965034965,1
+3813,Circuit de Spa-Francorchamps,15,Lance Stroll,6877,18,0.923076923,1
+3814,Circuit de Spa-Francorchamps,17,Lance Stroll,7241,19,0.923076923,1
+3816,Circuit de Spa-Francorchamps,14,George Russell,7868,19,0.958333333,1
+3835,Circuit de Spa-Francorchamps,2,Lewis Hamilton,9365,2,0.945273632,1
+3836,Circuit de Spa-Francorchamps,2,Lewis Hamilton,9729,2,0.945273632,1
+3837,Circuit de Spa-Francorchamps,7,Lewis Hamilton,10100,8,0.945273632,1
+3846,Circuit de Spa-Francorchamps,13,Sergio Pérez,8612,13,0.933333333,1
+3847,Circuit de Spa-Francorchamps,7,Kevin Magnussen,7993,7,0.952380952,1
+3848,Circuit de Spa-Francorchamps,15,Carlos Sainz,9131,17,0.903846154,1
+3851,Circuit de Spa-Francorchamps,11,Lando Norris,7232,12,0.916666667,1
+3859,Circuit de Spa-Francorchamps,8,Sebastian Vettel,10278,9,0.955,1
+3860,Circuit de Spa-Francorchamps,4,Sebastian Vettel,10649,4,0.955,1
+3861,Circuit de Spa-Francorchamps,2,Sebastian Vettel,11013,2,0.955,1
+3862,Circuit de Spa-Francorchamps,2,Sebastian Vettel,11377,2,0.955,1
+3863,Circuit de Spa-Francorchamps,2,Sebastian Vettel,11748,2,0.955,1
+3867,Circuit de Spa-Francorchamps,8,Kimi Räikkönen,12730,8,0.944099379,1
+3868,Circuit de Spa-Francorchamps,16,Kimi Räikkönen,13094,14,0.944099379,1
+3869,Circuit de Spa-Francorchamps,3,Kimi Räikkönen,13465,3,0.944099379,1
+3870,Circuit de Spa-Francorchamps,4,Kimi Räikkönen,13829,4,0.944099379,1
+3871,Circuit de Spa-Francorchamps,6,Kimi Räikkönen,14193,6,0.944099379,1
+3887,Circuit de Spa-Francorchamps,1,Charles Leclerc,7990,1,0.844444444,1
+3943,Circuit de Spa-Francorchamps,1,Lewis Hamilton,10457,1,0.945273632,1
+3944,Circuit de Spa-Francorchamps,2,Lewis Hamilton,10821,2,0.945273632,1
+3945,Circuit de Spa-Francorchamps,1,Lewis Hamilton,11185,1,0.945273632,1
+3946,Circuit de Spa-Francorchamps,21,Lewis Hamilton,11556,21,0.945273632,1
+3947,Circuit de Spa-Francorchamps,1,Lewis Hamilton,11920,1,0.945273632,1
+3948,Circuit de Spa-Francorchamps,1,Lewis Hamilton,12284,1,0.945273632,1
+3949,Circuit de Spa-Francorchamps,3,Lewis Hamilton,12655,3,0.945273632,1
+3952,Circuit de Spa-Francorchamps,3,Valtteri Bottas,10226,3,0.965034965,1
+3953,Circuit de Spa-Francorchamps,19,Valtteri Bottas,10590,10,0.965034965,1
+3954,Circuit de Spa-Francorchamps,4,Valtteri Bottas,10961,4,0.965034965,1
+3965,Circuit de Spa-Francorchamps,16,Daniel Ricciardo,8464,16,0.942196532,1
+3966,Circuit de Spa-Francorchamps,19,Daniel Ricciardo,8821,19,0.942196532,1
+3970,Circuit de Spa-Francorchamps,11,Daniil Kvyat,7425,11,0.917525773,1
+3971,Circuit de Spa-Francorchamps,19,Daniil Kvyat,8160,19,0.917525773,1
+3972,Circuit de Spa-Francorchamps,19,Daniil Kvyat,8524,17,0.917525773,1
+3973,Circuit de Spa-Francorchamps,19,Daniil Kvyat,9259,18,0.917525773,1
+3974,Circuit de Spa-Francorchamps,10,Carlos Sainz,7661,10,0.903846154,1
+3975,Circuit de Spa-Francorchamps,14,Carlos Sainz,8032,15,0.903846154,1
+3976,Circuit de Spa-Francorchamps,13,Carlos Sainz,8396,14,0.903846154,1
+3977,Circuit de Spa-Francorchamps,18,Max Verstappen,6536,15,0.914285714,1
+3978,Circuit de Spa-Francorchamps,10,Pierre Gasly,8236,11,0.93877551,1
+3979,Circuit de Spa-Francorchamps,13,Pierre Gasly,8607,16,0.93877551,1
+3996,Circuit de Spa-Francorchamps,13,Sergio Pérez,8976,13,0.933333333,1
+3997,Circuit de Spa-Francorchamps,4,Sergio Pérez,9340,5,0.933333333,1
+3998,Circuit de Spa-Francorchamps,6,Sergio Pérez,9711,6,0.933333333,1
+3999,Circuit de Spa-Francorchamps,8,Sergio Pérez,10075,8,0.933333333,1
+4000,Circuit de Spa-Francorchamps,4,Sergio Pérez,10439,4,0.933333333,1
+4001,Circuit de Spa-Francorchamps,9,Esteban Ocon,7649,9,0.923076923,1
+4002,Circuit de Spa-Francorchamps,3,Esteban Ocon,8013,3,0.923076923,1
+4021,Circuit de Spa-Francorchamps,9,Sergio Pérez,7884,9,0.933333333,1
+4022,Circuit de Spa-Francorchamps,4,Sergio Pérez,8255,5,0.933333333,1
+4032,Circuit de Spa-Francorchamps,12,Charles Leclerc,7619,13,0.844444444,1
+4047,Circuit de Spa-Francorchamps,4,Sebastian Vettel,8458,4,0.955,1
+4048,Circuit de Spa-Francorchamps,1,Sebastian Vettel,8822,1,0.955,1
+4049,Circuit de Spa-Francorchamps,10,Sebastian Vettel,9193,11,0.955,1
+4050,Circuit de Spa-Francorchamps,2,Sebastian Vettel,9550,2,0.955,1
+4051,Circuit de Spa-Francorchamps,3,Sebastian Vettel,9914,3,0.955,1
+4056,Circuit de Spa-Francorchamps,5,Daniel Ricciardo,9185,5,0.942196532,1
+4057,Circuit de Spa-Francorchamps,5,Daniel Ricciardo,9549,6,0.942196532,1
+4058,Circuit de Spa-Francorchamps,5,Daniel Ricciardo,9920,5,0.942196532,1
+4059,Circuit de Spa-Francorchamps,6,Daniel Ricciardo,10284,6,0.942196532,1
+4060,Circuit de Spa-Francorchamps,8,Daniel Ricciardo,10648,8,0.942196532,1
+4061,Circuit de Spa-Francorchamps,12,Daniil Kvyat,7789,12,0.917525773,1
+4062,Circuit de Spa-Francorchamps,2,Max Verstappen,6907,2,0.914285714,1
+4063,Circuit de Spa-Francorchamps,5,Max Verstappen,7271,5,0.914285714,1
+4064,Circuit de Spa-Francorchamps,7,Max Verstappen,7635,7,0.914285714,1
+4065,Circuit de Spa-Francorchamps,5,Max Verstappen,8006,5,0.914285714,1
+4066,Circuit de Spa-Francorchamps,17,Alexander Albon,8562,14,0.956521739,1
+4069,Circuit de Spa-Francorchamps,3,Kimi Räikkönen,12009,4,0.944099379,1
+4070,Circuit de Spa-Francorchamps,8,Kimi Räikkönen,12366,8,0.944099379,1
+4071,Circuit de Spa-Francorchamps,8,Romain Grosjean,9635,9,0.851851852,1
+4072,Circuit de Spa-Francorchamps,7,Romain Grosjean,9992,7,0.851851852,1
+4073,Circuit de Spa-Francorchamps,15,Romain Grosjean,10356,15,0.851851852,1
+4074,Circuit de Spa-Francorchamps,9,Romain Grosjean,10720,4,0.851851852,1
+4077,Circuit de Spa-Francorchamps,6,Kimi Räikkönen,14564,8,0.944099379,1
+4078,Circuit de Spa-Francorchamps,18,Antonio Giovinazzi,9392,15,0.88,1
+4085,Circuit de Spa-Francorchamps,11,Romain Grosjean,11091,11,0.851851852,1
+4086,Circuit de Spa-Francorchamps,11,Romain Grosjean,11455,12,0.851851852,1
+4087,Circuit de Spa-Francorchamps,5,Romain Grosjean,11819,5,0.851851852,1
+4088,Circuit de Spa-Francorchamps,9,Romain Grosjean,12190,11,0.851851852,1
+4090,Circuit de Spa-Francorchamps,12,Kevin Magnussen,9092,13,0.952380952,1
+4091,Circuit de Spa-Francorchamps,9,Kevin Magnussen,9456,9,0.952380952,1
+4092,Circuit de Spa-Francorchamps,8,Kevin Magnussen,9827,10,0.952380952,1
+4100,Circuit de Spa-Francorchamps,23,Daniel Ricciardo,8093,23,0.942196532,1
+4127,Circuit de Spa-Francorchamps,7,Sergio Pérez,10810,9,0.933333333,1
+4128,Circuit de Spa-Francorchamps,16,Lance Stroll,7612,13,0.923076923,1
+4130,Circuit de Spa-Francorchamps,17,Esteban Ocon,7285,18,0.923076923,1
+4166,Autodromo Nazionale di Monza,5,Daniel Ricciardo,11026,5,0.942196532,1
+4167,Autodromo Nazionale di Monza,21,Kevin Magnussen,8735,21,0.952380952,1
+4168,Autodromo Nazionale di Monza,7,Carlos Sainz,8767,7,0.903846154,1
+4205,Autodromo Nazionale di Monza,18,Valtteri Bottas,8777,18,0.965034965,1
+4206,Autodromo Nazionale di Monza,3,Valtteri Bottas,9141,3,0.965034965,1
+4207,Autodromo Nazionale di Monza,6,Valtteri Bottas,9505,6,0.965034965,1
+4208,Autodromo Nazionale di Monza,5,Valtteri Bottas,9869,5,0.965034965,1
+4209,Autodromo Nazionale di Monza,2,Lance Stroll,6884,4,0.923076923,1
+4210,Autodromo Nazionale di Monza,10,Lance Stroll,7248,10,0.923076923,1
+4212,Autodromo Nazionale di Monza,14,George Russell,7875,18,0.958333333,1
+4234,Autodromo Nazionale di Monza,5,Lewis Hamilton,9379,5,0.945273632,1
+4235,Autodromo Nazionale di Monza,2,Lewis Hamilton,9743,2,0.945273632,1
+4236,Autodromo Nazionale di Monza,1,Lewis Hamilton,10107,1,0.945273632,1
+4245,Autodromo Nazionale di Monza,8,Sergio Pérez,8626,8,0.933333333,1
+4246,Autodromo Nazionale di Monza,5,Kevin Magnussen,8007,5,0.952380952,1
+4247,Autodromo Nazionale di Monza,7,Carlos Sainz,9138,7,0.903846154,1
+4250,Autodromo Nazionale di Monza,16,Lando Norris,7239,14,0.916666667,1
+4260,Autodromo Nazionale di Monza,3,Sebastian Vettel,10292,3,0.955,1
+4261,Autodromo Nazionale di Monza,3,Sebastian Vettel,10656,3,0.955,1
+4262,Autodromo Nazionale di Monza,6,Sebastian Vettel,11020,8,0.955,1
+4263,Autodromo Nazionale di Monza,2,Sebastian Vettel,11384,2,0.955,1
+4264,Autodromo Nazionale di Monza,4,Sebastian Vettel,11755,4,0.955,1
+4268,Autodromo Nazionale di Monza,11,Kimi Räikkönen,12744,12,0.944099379,1
+4269,Autodromo Nazionale di Monza,2,Kimi Räikkönen,13108,2,0.944099379,1
+4270,Autodromo Nazionale di Monza,4,Kimi Räikkönen,13472,4,0.944099379,1
+4271,Autodromo Nazionale di Monza,5,Kimi Räikkönen,13836,7,0.944099379,1
+4272,Autodromo Nazionale di Monza,1,Kimi Räikkönen,14200,1,0.944099379,1
+4288,Autodromo Nazionale di Monza,1,Charles Leclerc,7997,1,0.844444444,1
+4344,Autodromo Nazionale di Monza,12,Lewis Hamilton,10471,12,0.945273632,1
+4345,Autodromo Nazionale di Monza,1,Lewis Hamilton,10835,1,0.945273632,1
+4346,Autodromo Nazionale di Monza,1,Lewis Hamilton,11199,1,0.945273632,1
+4347,Autodromo Nazionale di Monza,1,Lewis Hamilton,11563,1,0.945273632,1
+4348,Autodromo Nazionale di Monza,1,Lewis Hamilton,11927,1,0.945273632,1
+4349,Autodromo Nazionale di Monza,3,Lewis Hamilton,12291,3,0.945273632,1
+4350,Autodromo Nazionale di Monza,2,Lewis Hamilton,12662,2,0.945273632,1
+4354,Autodromo Nazionale di Monza,4,Valtteri Bottas,10233,6,0.965034965,1
+4355,Autodromo Nazionale di Monza,4,Valtteri Bottas,10597,4,0.965034965,1
+4356,Autodromo Nazionale di Monza,3,Valtteri Bottas,10968,3,0.965034965,1
+4369,Autodromo Nazionale di Monza,14,Daniel Ricciardo,8471,15,0.942196532,1
+4370,Autodromo Nazionale di Monza,7,Daniel Ricciardo,8835,7,0.942196532,1
+4374,Autodromo Nazionale di Monza,21,Daniil Kvyat,7439,11,0.917525773,1
+4375,Autodromo Nazionale di Monza,16,Daniil Kvyat,8167,17,0.917525773,1
+4376,Autodromo Nazionale di Monza,8,Daniil Kvyat,8531,14,0.917525773,1
+4377,Autodromo Nazionale di Monza,12,Daniil Kvyat,9266,13,0.917525773,1
+4378,Autodromo Nazionale di Monza,17,Carlos Sainz,7675,13,0.903846154,1
+4379,Autodromo Nazionale di Monza,15,Carlos Sainz,8039,16,0.903846154,1
+4380,Autodromo Nazionale di Monza,15,Carlos Sainz,8403,15,0.903846154,1
+4381,Autodromo Nazionale di Monza,20,Max Verstappen,6550,20,0.914285714,1
+4382,Autodromo Nazionale di Monza,9,Pierre Gasly,8243,9,0.93877551,1
+4383,Autodromo Nazionale di Monza,17,Pierre Gasly,8614,15,0.93877551,1
+4399,Autodromo Nazionale di Monza,10,Sergio Pérez,8990,10,0.933333333,1
+4400,Autodromo Nazionale di Monza,7,Sergio Pérez,9354,7,0.933333333,1
+4401,Autodromo Nazionale di Monza,8,Sergio Pérez,9718,8,0.933333333,1
+4402,Autodromo Nazionale di Monza,10,Sergio Pérez,10082,11,0.933333333,1
+4403,Autodromo Nazionale di Monza,14,Sergio Pérez,10446,16,0.933333333,1
+4404,Autodromo Nazionale di Monza,3,Esteban Ocon,7656,5,0.923076923,1
+4405,Autodromo Nazionale di Monza,8,Esteban Ocon,8020,8,0.923076923,1
+4424,Autodromo Nazionale di Monza,15,Sergio Pérez,7898,15,0.933333333,1
+4425,Autodromo Nazionale di Monza,12,Sergio Pérez,8262,13,0.933333333,1
+4435,Autodromo Nazionale di Monza,15,Charles Leclerc,7626,17,0.844444444,1
+4452,Autodromo Nazionale di Monza,6,Sebastian Vettel,8472,6,0.955,1
+4453,Autodromo Nazionale di Monza,1,Sebastian Vettel,8836,1,0.955,1
+4454,Autodromo Nazionale di Monza,5,Sebastian Vettel,9200,6,0.955,1
+4455,Autodromo Nazionale di Monza,1,Sebastian Vettel,9564,1,0.955,1
+4456,Autodromo Nazionale di Monza,8,Sebastian Vettel,9928,8,0.955,1
+4463,Autodromo Nazionale di Monza,9,Daniel Ricciardo,9199,9,0.942196532,1
+4464,Autodromo Nazionale di Monza,19,Daniel Ricciardo,9563,15,0.942196532,1
+4465,Autodromo Nazionale di Monza,6,Daniel Ricciardo,9927,6,0.942196532,1
+4466,Autodromo Nazionale di Monza,16,Daniel Ricciardo,10291,3,0.942196532,1
+4467,Autodromo Nazionale di Monza,19,Daniel Ricciardo,10655,15,0.942196532,1
+4468,Autodromo Nazionale di Monza,18,Daniil Kvyat,7803,14,0.917525773,1
+4469,Autodromo Nazionale di Monza,7,Max Verstappen,6914,7,0.914285714,1
+4470,Autodromo Nazionale di Monza,13,Max Verstappen,7278,2,0.914285714,1
+4471,Autodromo Nazionale di Monza,5,Max Verstappen,7642,5,0.914285714,1
+4472,Autodromo Nazionale di Monza,19,Max Verstappen,8013,20,0.914285714,1
+4473,Autodromo Nazionale di Monza,8,Alexander Albon,8569,8,0.956521739,1
+4478,Autodromo Nazionale di Monza,7,Kimi Räikkönen,12016,8,0.944099379,1
+4479,Autodromo Nazionale di Monza,11,Kimi Räikkönen,12380,11,0.944099379,1
+4480,Autodromo Nazionale di Monza,13,Romain Grosjean,10006,13,0.851851852,1
+4481,Autodromo Nazionale di Monza,17,Romain Grosjean,10370,18,0.851851852,1
+4482,Autodromo Nazionale di Monza,8,Romain Grosjean,10734,8,0.851851852,1
+4486,Autodromo Nazionale di Monza,0,Kimi Räikkönen,14571,10,0.944099379,1
+4487,Autodromo Nazionale di Monza,10,Antonio Giovinazzi,9399,11,0.88,1
+4494,Autodromo Nazionale di Monza,17,Romain Grosjean,11098,12,0.851851852,1
+4495,Autodromo Nazionale di Monza,20,Romain Grosjean,11462,20,0.851851852,1
+4496,Autodromo Nazionale di Monza,6,Romain Grosjean,11826,6,0.851851852,1
+4497,Autodromo Nazionale di Monza,13,Romain Grosjean,12197,16,0.851851852,1
+4499,Autodromo Nazionale di Monza,9,Kevin Magnussen,9099,16,0.952380952,1
+4500,Autodromo Nazionale di Monza,11,Kevin Magnussen,9463,11,0.952380952,1
+4501,Autodromo Nazionale di Monza,11,Kevin Magnussen,9834,12,0.952380952,1
+4509,Autodromo Nazionale di Monza,23,Daniel Ricciardo,8107,23,0.942196532,1
+4536,Autodromo Nazionale di Monza,18,Sergio Pérez,10817,17,0.933333333,1
+4537,Autodromo Nazionale di Monza,9,Lance Stroll,7619,9,0.923076923,1
+4556,Marina Bay Street Circuit,20,Daniel Ricciardo,11040,20,0.942196532,1
+4557,Marina Bay Street Circuit,15,Kevin Magnussen,8749,17,0.952380952,1
+4558,Marina Bay Street Circuit,12,Carlos Sainz,8781,12,0.903846154,1
+4577,Marina Bay Street Circuit,16,Valtteri Bottas,8791,16,0.965034965,1
+4578,Marina Bay Street Circuit,8,Valtteri Bottas,9155,8,0.965034965,1
+4579,Marina Bay Street Circuit,7,Valtteri Bottas,9519,7,0.965034965,1
+4580,Marina Bay Street Circuit,10,Valtteri Bottas,9883,11,0.965034965,1
+4581,Marina Bay Street Circuit,18,Lance Stroll,6898,18,0.923076923,1
+4582,Marina Bay Street Circuit,20,Lance Stroll,7262,20,0.923076923,1
+4584,Marina Bay Street Circuit,18,George Russell,7889,18,0.958333333,1
+4600,Marina Bay Street Circuit,3,Lewis Hamilton,9393,3,0.945273632,1
+4601,Marina Bay Street Circuit,4,Lewis Hamilton,9757,4,0.945273632,1
+4602,Marina Bay Street Circuit,1,Lewis Hamilton,10121,1,0.945273632,1
+4603,Marina Bay Street Circuit,14,Sergio Pérez,8640,14,0.933333333,1
+4604,Marina Bay Street Circuit,9,Kevin Magnussen,8021,9,0.952380952,1
+4605,Marina Bay Street Circuit,7,Carlos Sainz,9152,7,0.903846154,1
+4608,Marina Bay Street Circuit,9,Lando Norris,7253,9,0.916666667,1
+4615,Marina Bay Street Circuit,1,Sebastian Vettel,10306,1,0.955,1
+4616,Marina Bay Street Circuit,22,Sebastian Vettel,10670,22,0.955,1
+4617,Marina Bay Street Circuit,1,Sebastian Vettel,11034,1,0.955,1
+4618,Marina Bay Street Circuit,3,Sebastian Vettel,11398,3,0.955,1
+4619,Marina Bay Street Circuit,3,Sebastian Vettel,11769,3,0.955,1
+4622,Marina Bay Street Circuit,7,Kimi Räikkönen,12758,7,0.944099379,1
+4623,Marina Bay Street Circuit,3,Kimi Räikkönen,13122,3,0.944099379,1
+4624,Marina Bay Street Circuit,5,Kimi Räikkönen,13486,5,0.944099379,1
+4625,Marina Bay Street Circuit,4,Kimi Räikkönen,13850,4,0.944099379,1
+4626,Marina Bay Street Circuit,5,Kimi Räikkönen,14214,5,0.944099379,1
+4632,Marina Bay Street Circuit,1,Charles Leclerc,8011,1,0.844444444,1
+4658,Marina Bay Street Circuit,5,Lewis Hamilton,10485,5,0.945273632,1
+4659,Marina Bay Street Circuit,1,Lewis Hamilton,10849,1,0.945273632,1
+4660,Marina Bay Street Circuit,5,Lewis Hamilton,11213,5,0.945273632,1
+4661,Marina Bay Street Circuit,3,Lewis Hamilton,11577,3,0.945273632,1
+4662,Marina Bay Street Circuit,5,Lewis Hamilton,11941,5,0.945273632,1
+4663,Marina Bay Street Circuit,1,Lewis Hamilton,12305,1,0.945273632,1
+4664,Marina Bay Street Circuit,2,Lewis Hamilton,12676,2,0.945273632,1
+4668,Marina Bay Street Circuit,6,Valtteri Bottas,10247,6,0.965034965,1
+4669,Marina Bay Street Circuit,4,Valtteri Bottas,10611,4,0.965034965,1
+4670,Marina Bay Street Circuit,5,Valtteri Bottas,10982,5,0.965034965,1
+4679,Marina Bay Street Circuit,15,Daniel Ricciardo,8485,15,0.942196532,1
+4680,Marina Bay Street Circuit,9,Daniel Ricciardo,8849,9,0.942196532,1
+4684,Marina Bay Street Circuit,10,Daniil Kvyat,7453,10,0.917525773,1
+4685,Marina Bay Street Circuit,7,Daniil Kvyat,8181,7,0.917525773,1
+4686,Marina Bay Street Circuit,13,Daniil Kvyat,8545,13,0.917525773,1
+4687,Marina Bay Street Circuit,14,Daniil Kvyat,9280,15,0.917525773,1
+4688,Marina Bay Street Circuit,14,Carlos Sainz,7689,14,0.903846154,1
+4689,Marina Bay Street Circuit,6,Carlos Sainz,8053,6,0.903846154,1
+4690,Marina Bay Street Circuit,10,Carlos Sainz,8417,10,0.903846154,1
+4691,Marina Bay Street Circuit,8,Max Verstappen,6564,8,0.914285714,1
+4692,Marina Bay Street Circuit,15,Pierre Gasly,8257,15,0.93877551,1
+4693,Marina Bay Street Circuit,11,Pierre Gasly,8628,12,0.93877551,1
+4710,Marina Bay Street Circuit,15,Sergio Pérez,9004,15,0.933333333,1
+4711,Marina Bay Street Circuit,13,Sergio Pérez,9368,13,0.933333333,1
+4712,Marina Bay Street Circuit,17,Sergio Pérez,9732,10,0.933333333,1
+4713,Marina Bay Street Circuit,12,Sergio Pérez,10096,12,0.933333333,1
+4714,Marina Bay Street Circuit,7,Sergio Pérez,10460,7,0.933333333,1
+4715,Marina Bay Street Circuit,14,Esteban Ocon,7670,14,0.923076923,1
+4716,Marina Bay Street Circuit,9,Esteban Ocon,8034,9,0.923076923,1
+4723,Marina Bay Street Circuit,11,Sergio Pérez,7912,11,0.933333333,1
+4724,Marina Bay Street Circuit,14,Sergio Pérez,8276,14,0.933333333,1
+4734,Marina Bay Street Circuit,13,Charles Leclerc,7640,13,0.844444444,1
+4746,Marina Bay Street Circuit,2,Sebastian Vettel,8486,2,0.955,1
+4747,Marina Bay Street Circuit,1,Sebastian Vettel,8850,1,0.955,1
+4748,Marina Bay Street Circuit,3,Sebastian Vettel,9214,3,0.955,1
+4749,Marina Bay Street Circuit,1,Sebastian Vettel,9578,1,0.955,1
+4750,Marina Bay Street Circuit,4,Sebastian Vettel,9942,4,0.955,1
+4752,Marina Bay Street Circuit,3,Daniel Ricciardo,9213,3,0.942196532,1
+4753,Marina Bay Street Circuit,2,Daniel Ricciardo,9577,2,0.942196532,1
+4754,Marina Bay Street Circuit,2,Daniel Ricciardo,9941,2,0.942196532,1
+4755,Marina Bay Street Circuit,3,Daniel Ricciardo,10305,3,0.942196532,1
+4756,Marina Bay Street Circuit,6,Daniel Ricciardo,10669,6,0.942196532,1
+4757,Marina Bay Street Circuit,4,Daniil Kvyat,7817,4,0.917525773,1
+4758,Marina Bay Street Circuit,4,Max Verstappen,6928,4,0.914285714,1
+4759,Marina Bay Street Circuit,2,Max Verstappen,7292,2,0.914285714,1
+4760,Marina Bay Street Circuit,2,Max Verstappen,7656,2,0.914285714,1
+4761,Marina Bay Street Circuit,4,Max Verstappen,8027,4,0.914285714,1
+4762,Marina Bay Street Circuit,6,Alexander Albon,8583,6,0.956521739,1
+4763,Marina Bay Street Circuit,12,Kimi Räikkönen,12030,12,0.944099379,1
+4764,Marina Bay Street Circuit,13,Kimi Räikkönen,12394,13,0.944099379,1
+4765,Marina Bay Street Circuit,8,Romain Grosjean,9656,8,0.851851852,1
+4766,Marina Bay Street Circuit,3,Romain Grosjean,10020,3,0.851851852,1
+4767,Marina Bay Street Circuit,16,Romain Grosjean,10384,16,0.851851852,1
+4768,Marina Bay Street Circuit,10,Romain Grosjean,10748,10,0.851851852,1
+4771,Marina Bay Street Circuit,12,Kimi Räikkönen,14585,13,0.944099379,1
+4772,Marina Bay Street Circuit,10,Antonio Giovinazzi,9413,11,0.88,1
+4779,Marina Bay Street Circuit,20,Romain Grosjean,11112,15,0.851851852,1
+4780,Marina Bay Street Circuit,15,Romain Grosjean,11476,15,0.851851852,1
+4781,Marina Bay Street Circuit,8,Romain Grosjean,11840,8,0.851851852,1
+4782,Marina Bay Street Circuit,17,Romain Grosjean,12211,17,0.851851852,1
+4784,Marina Bay Street Circuit,16,Kevin Magnussen,9113,16,0.952380952,1
+4785,Marina Bay Street Circuit,16,Kevin Magnussen,9477,16,0.952380952,1
+4786,Marina Bay Street Circuit,13,Kevin Magnussen,9848,14,0.952380952,1
+4792,Marina Bay Street Circuit,23,Daniel Ricciardo,8121,23,0.942196532,1
+4793,Marina Bay Street Circuit,15,Sergio Pérez,10831,10,0.933333333,1
+4794,Marina Bay Street Circuit,16,Lance Stroll,7633,16,0.923076923,1
+4798,Marina Bay Street Circuit,21,Esteban Ocon,7306,21,0.923076923,1
+4832,Suzuka Circuit,16,Daniel Ricciardo,11061,16,0.942196532,1
+4833,Suzuka Circuit,17,Kevin Magnussen,8770,18,0.952380952,1
+4834,Suzuka Circuit,13,Carlos Sainz,8802,13,0.903846154,1
+4873,Suzuka Circuit,13,Valtteri Bottas,8812,13,0.965034965,1
+4874,Suzuka Circuit,3,Valtteri Bottas,9169,3,0.965034965,1
+4875,Suzuka Circuit,3,Valtteri Bottas,9526,3,0.965034965,1
+4876,Suzuka Circuit,11,Valtteri Bottas,9904,11,0.965034965,1
+4877,Suzuka Circuit,15,Lance Stroll,6919,18,0.923076923,1
+4878,Suzuka Circuit,14,Lance Stroll,7283,14,0.923076923,1
+4880,Suzuka Circuit,18,George Russell,7910,18,0.958333333,1
+4899,Suzuka Circuit,8,Lewis Hamilton,9407,3,0.945273632,1
+4900,Suzuka Circuit,3,Lewis Hamilton,9771,3,0.945273632,1
+4901,Suzuka Circuit,9,Lewis Hamilton,10135,9,0.945273632,1
+4913,Suzuka Circuit,11,Sergio Pérez,8661,11,0.933333333,1
+4914,Suzuka Circuit,7,Kevin Magnussen,8035,7,0.952380952,1
+4915,Suzuka Circuit,7,Carlos Sainz,9173,7,0.903846154,1
+4918,Suzuka Circuit,8,Lando Norris,7274,8,0.916666667,1
+4930,Suzuka Circuit,4,Sebastian Vettel,10313,4,0.955,1
+4931,Suzuka Circuit,6,Sebastian Vettel,10691,4,0.955,1
+4932,Suzuka Circuit,2,Sebastian Vettel,11055,3,0.955,1
+4933,Suzuka Circuit,8,Sebastian Vettel,11419,9,0.955,1
+4934,Suzuka Circuit,1,Sebastian Vettel,11790,1,0.955,1
+4936,Suzuka Circuit,10,Kimi Räikkönen,12772,10,0.944099379,1
+4937,Suzuka Circuit,6,Kimi Räikkönen,13129,6,0.944099379,1
+4938,Suzuka Circuit,8,Kimi Räikkönen,13507,3,0.944099379,1
+4939,Suzuka Circuit,10,Kimi Räikkönen,13871,6,0.944099379,1
+4940,Suzuka Circuit,4,Kimi Räikkönen,14235,4,0.944099379,1
+4956,Suzuka Circuit,2,Charles Leclerc,8032,2,0.844444444,1
+5020,Suzuka Circuit,3,Lewis Hamilton,10506,3,0.945273632,1
+5021,Suzuka Circuit,2,Lewis Hamilton,10863,2,0.945273632,1
+5022,Suzuka Circuit,2,Lewis Hamilton,11220,2,0.945273632,1
+5023,Suzuka Circuit,2,Lewis Hamilton,11598,2,0.945273632,1
+5024,Suzuka Circuit,1,Lewis Hamilton,11962,1,0.945273632,1
+5025,Suzuka Circuit,1,Lewis Hamilton,12326,1,0.945273632,1
+5026,Suzuka Circuit,4,Lewis Hamilton,12697,4,0.945273632,1
+5030,Suzuka Circuit,6,Valtteri Bottas,10268,2,0.965034965,1
+5031,Suzuka Circuit,2,Valtteri Bottas,10632,2,0.965034965,1
+5032,Suzuka Circuit,3,Valtteri Bottas,11003,3,0.965034965,1
+5041,Suzuka Circuit,14,Daniel Ricciardo,8499,16,0.942196532,1
+5042,Suzuka Circuit,16,Daniel Ricciardo,8870,16,0.942196532,1
+5046,Suzuka Circuit,12,Daniil Kvyat,7467,13,0.917525773,1
+5047,Suzuka Circuit,13,Daniil Kvyat,8202,13,0.917525773,1
+5048,Suzuka Circuit,14,Daniil Kvyat,9301,14,0.917525773,1
+5049,Suzuka Circuit,10,Carlos Sainz,7696,12,0.903846154,1
+5050,Suzuka Circuit,14,Carlos Sainz,8074,14,0.903846154,1
+5051,Suzuka Circuit,19,Carlos Sainz,8438,15,0.903846154,1
+5052,Suzuka Circuit,17,Max Verstappen,6571,15,0.914285714,1
+5053,Suzuka Circuit,14,Pierre Gasly,7914,17,0.93877551,1
+5054,Suzuka Circuit,7,Pierre Gasly,8278,7,0.93877551,1
+5055,Suzuka Circuit,9,Pierre Gasly,8649,9,0.93877551,1
+5070,Suzuka Circuit,11,Sergio Pérez,9018,12,0.933333333,1
+5071,Suzuka Circuit,9,Sergio Pérez,9375,9,0.933333333,1
+5072,Suzuka Circuit,5,Sergio Pérez,9753,7,0.933333333,1
+5073,Suzuka Circuit,7,Sergio Pérez,10117,8,0.933333333,1
+5074,Suzuka Circuit,9,Sergio Pérez,10481,10,0.933333333,1
+5075,Suzuka Circuit,5,Esteban Ocon,7691,7,0.923076923,1
+5076,Suzuka Circuit,11,Esteban Ocon,8055,8,0.923076923,1
+5097,Suzuka Circuit,17,Sergio Pérez,7926,17,0.933333333,1
+5098,Suzuka Circuit,5,Sergio Pérez,8290,6,0.933333333,1
+5108,Suzuka Circuit,10,Charles Leclerc,7661,11,0.844444444,1
+5119,Suzuka Circuit,1,Sebastian Vettel,8500,1,0.955,1
+5120,Suzuka Circuit,1,Sebastian Vettel,8864,1,0.955,1
+5121,Suzuka Circuit,1,Sebastian Vettel,9228,1,0.955,1
+5122,Suzuka Circuit,2,Sebastian Vettel,9599,2,0.955,1
+5123,Suzuka Circuit,9,Sebastian Vettel,9956,9,0.955,1
+5128,Suzuka Circuit,6,Daniel Ricciardo,9227,6,0.942196532,1
+5129,Suzuka Circuit,7,Daniel Ricciardo,9584,7,0.942196532,1
+5130,Suzuka Circuit,4,Daniel Ricciardo,9962,6,0.942196532,1
+5131,Suzuka Circuit,3,Daniel Ricciardo,10326,4,0.942196532,1
+5132,Suzuka Circuit,15,Daniel Ricciardo,10690,15,0.942196532,1
+5133,Suzuka Circuit,20,Daniil Kvyat,7824,10,0.917525773,1
+5134,Suzuka Circuit,3,Max Verstappen,6949,5,0.914285714,1
+5135,Suzuka Circuit,4,Max Verstappen,7313,5,0.914285714,1
+5136,Suzuka Circuit,3,Max Verstappen,7677,3,0.914285714,1
+5137,Suzuka Circuit,5,Max Verstappen,8048,5,0.914285714,1
+5138,Suzuka Circuit,6,Alexander Albon,8604,6,0.956521739,1
+5147,Suzuka Circuit,7,Kimi Räikkönen,12044,8,0.944099379,1
+5148,Suzuka Circuit,9,Kimi Räikkönen,12415,9,0.944099379,1
+5149,Suzuka Circuit,4,Romain Grosjean,9670,5,0.851851852,1
+5150,Suzuka Circuit,4,Romain Grosjean,10041,4,0.851851852,1
+5151,Suzuka Circuit,16,Romain Grosjean,10398,18,0.851851852,1
+5152,Suzuka Circuit,8,Romain Grosjean,10755,8,0.851851852,1
+5155,Suzuka Circuit,13,Kimi Räikkönen,14606,13,0.944099379,1
+5156,Suzuka Circuit,11,Antonio Giovinazzi,9434,11,0.88,1
+5163,Suzuka Circuit,7,Romain Grosjean,11133,8,0.851851852,1
+5164,Suzuka Circuit,13,Romain Grosjean,11497,16,0.851851852,1
+5165,Suzuka Circuit,5,Romain Grosjean,11861,5,0.851851852,1
+5166,Suzuka Circuit,10,Romain Grosjean,12232,10,0.851851852,1
+5168,Suzuka Circuit,12,Kevin Magnussen,9134,13,0.952380952,1
+5169,Suzuka Circuit,12,Kevin Magnussen,9498,12,0.952380952,1
+5170,Suzuka Circuit,19,Kevin Magnussen,9869,19,0.952380952,1
+5178,Suzuka Circuit,22,Daniel Ricciardo,8135,22,0.942196532,1
+5205,Suzuka Circuit,17,Sergio Pérez,10852,17,0.933333333,1
+5206,Suzuka Circuit,12,Lance Stroll,7654,12,0.923076923,1
+5210,Suzuka Circuit,20,Esteban Ocon,7327,21,0.923076923,1
+5247,Autódromo José Carlos Pace,11,Daniel Ricciardo,11096,12,0.942196532,1
+5248,Autódromo José Carlos Pace,18,Kevin Magnussen,8805,18,0.952380952,1
+5249,Autódromo José Carlos Pace,8,Carlos Sainz,8473,9,0.903846154,1
+5250,Autódromo José Carlos Pace,15,Carlos Sainz,8837,16,0.903846154,1
+5302,Autódromo José Carlos Pace,13,Valtteri Bottas,8854,13,0.965034965,1
+5303,Autódromo José Carlos Pace,4,Valtteri Bottas,9204,4,0.965034965,1
+5304,Autódromo José Carlos Pace,7,Valtteri Bottas,9575,4,0.965034965,1
+5305,Autódromo José Carlos Pace,11,Valtteri Bottas,9939,11,0.965034965,1
+5306,Autódromo José Carlos Pace,16,Lance Stroll,6954,18,0.923076923,1
+5307,Autódromo José Carlos Pace,19,Lance Stroll,7318,19,0.923076923,1
+5309,Autódromo José Carlos Pace,18,George Russell,7945,18,0.958333333,1
+5331,Autódromo José Carlos Pace,4,Lewis Hamilton,9435,4,0.945273632,1
+5332,Autódromo José Carlos Pace,4,Lewis Hamilton,9820,4,0.945273632,1
+5333,Autódromo José Carlos Pace,1,Lewis Hamilton,10184,1,0.945273632,1
+5350,Autódromo José Carlos Pace,19,Sergio Pérez,8703,14,0.933333333,1
+5351,Autódromo José Carlos Pace,7,Kevin Magnussen,8070,7,0.952380952,1
+5352,Autódromo José Carlos Pace,20,Carlos Sainz,9208,20,0.903846154,1
+5355,Autódromo José Carlos Pace,10,Lando Norris,7309,11,0.916666667,1
+5365,Autódromo José Carlos Pace,3,Sebastian Vettel,10362,3,0.955,1
+5366,Autódromo José Carlos Pace,5,Sebastian Vettel,10726,5,0.955,1
+5367,Autódromo José Carlos Pace,2,Sebastian Vettel,11090,2,0.955,1
+5368,Autódromo José Carlos Pace,2,Sebastian Vettel,11454,2,0.955,1
+5369,Autódromo José Carlos Pace,2,Sebastian Vettel,11825,2,0.955,1
+5373,Autódromo José Carlos Pace,10,Kimi Räikkönen,12807,10,0.944099379,1
+5374,Autódromo José Carlos Pace,4,Kimi Räikkönen,13178,5,0.944099379,1
+5375,Autódromo José Carlos Pace,3,Kimi Räikkönen,13542,3,0.944099379,1
+5376,Autódromo José Carlos Pace,3,Kimi Räikkönen,13906,3,0.944099379,1
+5377,Autódromo José Carlos Pace,4,Kimi Räikkönen,14270,4,0.944099379,1
+5401,Autódromo José Carlos Pace,14,Charles Leclerc,8067,4,0.844444444,1
+5483,Autódromo José Carlos Pace,5,Lewis Hamilton,10548,5,0.945273632,1
+5484,Autódromo José Carlos Pace,2,Lewis Hamilton,10898,2,0.945273632,1
+5485,Autódromo José Carlos Pace,2,Lewis Hamilton,11269,2,0.945273632,1
+5486,Autódromo José Carlos Pace,1,Lewis Hamilton,11633,1,0.945273632,1
+5487,Autódromo José Carlos Pace,20,Lewis Hamilton,11997,20,0.945273632,1
+5488,Autódromo José Carlos Pace,1,Lewis Hamilton,12361,1,0.945273632,1
+5489,Autódromo José Carlos Pace,3,Lewis Hamilton,12732,3,0.945273632,1
+5493,Autódromo José Carlos Pace,1,Valtteri Bottas,10303,1,0.965034965,1
+5494,Autódromo José Carlos Pace,3,Valtteri Bottas,10667,3,0.965034965,1
+5495,Autódromo José Carlos Pace,4,Valtteri Bottas,11038,5,0.965034965,1
+5508,Autódromo José Carlos Pace,15,Daniel Ricciardo,8548,16,0.942196532,1
+5509,Autódromo José Carlos Pace,7,Daniel Ricciardo,8912,7,0.942196532,1
+5513,Autódromo José Carlos Pace,17,Daniil Kvyat,7502,14,0.917525773,1
+5514,Autódromo José Carlos Pace,14,Daniil Kvyat,8237,14,0.917525773,1
+5515,Autódromo José Carlos Pace,10,Carlos Sainz,7745,12,0.903846154,1
+5516,Autódromo José Carlos Pace,15,Carlos Sainz,8109,15,0.903846154,1
+5517,Autódromo José Carlos Pace,9,Max Verstappen,6620,10,0.914285714,1
+5518,Autódromo José Carlos Pace,19,Pierre Gasly,7949,17,0.93877551,1
+5519,Autódromo José Carlos Pace,9,Pierre Gasly,8313,10,0.93877551,1
+5520,Autódromo José Carlos Pace,6,Pierre Gasly,8684,7,0.93877551,1
+5538,Autódromo José Carlos Pace,18,Sergio Pérez,9053,17,0.933333333,1
+5539,Autódromo José Carlos Pace,11,Sergio Pérez,9424,13,0.933333333,1
+5540,Autódromo José Carlos Pace,9,Sergio Pérez,9788,9,0.933333333,1
+5541,Autódromo José Carlos Pace,5,Sergio Pérez,10152,6,0.933333333,1
+5542,Autódromo José Carlos Pace,12,Sergio Pérez,10516,12,0.933333333,1
+5543,Autódromo José Carlos Pace,10,Esteban Ocon,7726,11,0.923076923,1
+5544,Autódromo José Carlos Pace,18,Esteban Ocon,8090,13,0.923076923,1
+5571,Autódromo José Carlos Pace,17,Sergio Pérez,7975,17,0.933333333,1
+5572,Autódromo José Carlos Pace,12,Sergio Pérez,8339,13,0.933333333,1
+5582,Autódromo José Carlos Pace,7,Charles Leclerc,7696,8,0.844444444,1
+5599,Autódromo José Carlos Pace,2,Sebastian Vettel,8528,2,0.955,1
+5600,Autódromo José Carlos Pace,1,Sebastian Vettel,8913,1,0.955,1
+5601,Autódromo José Carlos Pace,4,Sebastian Vettel,9277,4,0.955,1
+5602,Autódromo José Carlos Pace,1,Sebastian Vettel,9641,1,0.955,1
+5603,Autódromo José Carlos Pace,6,Sebastian Vettel,9991,6,0.955,1
+5610,Autódromo José Carlos Pace,9,Daniel Ricciardo,9262,9,0.942196532,1
+5611,Autódromo José Carlos Pace,19,Daniel Ricciardo,9633,9,0.942196532,1
+5612,Autódromo José Carlos Pace,6,Daniel Ricciardo,9997,6,0.942196532,1
+5613,Autódromo José Carlos Pace,14,Daniel Ricciardo,10361,5,0.942196532,1
+5614,Autódromo José Carlos Pace,11,Daniel Ricciardo,10725,6,0.942196532,1
+5615,Autódromo José Carlos Pace,6,Daniil Kvyat,7873,7,0.917525773,1
+5616,Autódromo José Carlos Pace,4,Max Verstappen,6984,4,0.914285714,1
+5617,Autódromo José Carlos Pace,4,Max Verstappen,7348,4,0.914285714,1
+5618,Autódromo José Carlos Pace,5,Max Verstappen,7712,5,0.914285714,1
+5619,Autódromo José Carlos Pace,1,Max Verstappen,8083,1,0.914285714,1
+5620,Autódromo José Carlos Pace,5,Alexander Albon,8639,6,0.956521739,1
+5625,Autódromo José Carlos Pace,8,Kimi Räikkönen,12093,9,0.944099379,1
+5627,Autódromo José Carlos Pace,18,Romain Grosjean,9719,18,0.851851852,1
+5628,Autódromo José Carlos Pace,6,Romain Grosjean,10083,6,0.851851852,1
+5629,Autódromo José Carlos Pace,14,Romain Grosjean,10433,15,0.851851852,1
+5630,Autódromo José Carlos Pace,14,Romain Grosjean,10804,15,0.851851852,1
+5633,Autódromo José Carlos Pace,8,Kimi Räikkönen,14641,9,0.944099379,1
+5634,Autódromo José Carlos Pace,12,Antonio Giovinazzi,9469,13,0.88,1
+5639,Autódromo José Carlos Pace,7,Romain Grosjean,11168,7,0.851851852,1
+5640,Autódromo José Carlos Pace,11,Romain Grosjean,11532,12,0.851851852,1
+5641,Autódromo José Carlos Pace,8,Romain Grosjean,11896,9,0.851851852,1
+5642,Autódromo José Carlos Pace,7,Romain Grosjean,12267,8,0.851851852,1
+5644,Autódromo José Carlos Pace,13,Kevin Magnussen,9169,14,0.952380952,1
+5645,Autódromo José Carlos Pace,10,Kevin Magnussen,9533,11,0.952380952,1
+5646,Autódromo José Carlos Pace,9,Kevin Magnussen,9904,10,0.952380952,1
+5656,Autódromo José Carlos Pace,22,Daniel Ricciardo,8184,22,0.942196532,1
+5701,Autódromo José Carlos Pace,15,Sergio Pérez,10887,15,0.933333333,1
+5702,Autódromo José Carlos Pace,17,Lance Stroll,7689,17,0.923076923,1
+5704,Autódromo José Carlos Pace,22,Esteban Ocon,7362,20,0.923076923,1
+5716,Yas Marina Circuit,7,Daniel Ricciardo,11110,8,0.942196532,1
+5717,Yas Marina Circuit,18,Kevin Magnussen,8819,18,0.952380952,1
+5718,Yas Marina Circuit,12,Carlos Sainz,8487,12,0.903846154,1
+5719,Yas Marina Circuit,11,Carlos Sainz,8851,11,0.903846154,1
+5734,Yas Marina Circuit,15,Valtteri Bottas,8833,16,0.965034965,1
+5735,Yas Marina Circuit,3,Valtteri Bottas,9218,3,0.965034965,1
+5736,Yas Marina Circuit,6,Valtteri Bottas,9589,6,0.965034965,1
+5737,Yas Marina Circuit,11,Valtteri Bottas,9953,11,0.965034965,1
+5738,Yas Marina Circuit,15,Lance Stroll,6968,15,0.923076923,1
+5739,Yas Marina Circuit,20,Lance Stroll,7332,20,0.923076923,1
+5741,Yas Marina Circuit,18,George Russell,7959,19,0.958333333,1
+5755,Yas Marina Circuit,2,Lewis Hamilton,9442,2,0.945273632,1
+5756,Yas Marina Circuit,2,Lewis Hamilton,9806,2,0.945273632,1
+5757,Yas Marina Circuit,1,Lewis Hamilton,10163,1,0.945273632,1
+5758,Yas Marina Circuit,8,Sergio Pérez,8682,9,0.933333333,1
+5759,Yas Marina Circuit,9,Kevin Magnussen,8084,9,0.952380952,1
+5760,Yas Marina Circuit,8,Carlos Sainz,9222,9,0.903846154,1
+5763,Yas Marina Circuit,6,Lando Norris,7323,7,0.916666667,1
+5770,Yas Marina Circuit,15,Sebastian Vettel,10376,16,0.955,1
+5771,Yas Marina Circuit,5,Sebastian Vettel,10740,5,0.955,1
+5772,Yas Marina Circuit,3,Sebastian Vettel,11104,3,0.955,1
+5773,Yas Marina Circuit,3,Sebastian Vettel,11468,3,0.955,1
+5774,Yas Marina Circuit,4,Sebastian Vettel,11839,5,0.955,1
+5776,Yas Marina Circuit,7,Kimi Räikkönen,12821,7,0.944099379,1
+5777,Yas Marina Circuit,3,Kimi Räikkönen,13192,3,0.944099379,1
+5778,Yas Marina Circuit,4,Kimi Räikkönen,13556,4,0.944099379,1
+5779,Yas Marina Circuit,5,Kimi Räikkönen,13920,5,0.944099379,1
+5780,Yas Marina Circuit,4,Kimi Räikkönen,14284,4,0.944099379,1
+5785,Yas Marina Circuit,3,Charles Leclerc,8081,4,0.844444444,1
+5807,Yas Marina Circuit,4,Lewis Hamilton,10527,4,0.945273632,1
+5808,Yas Marina Circuit,2,Lewis Hamilton,10912,2,0.945273632,1
+5809,Yas Marina Circuit,2,Lewis Hamilton,11283,2,0.945273632,1
+5810,Yas Marina Circuit,1,Lewis Hamilton,11647,1,0.945273632,1
+5811,Yas Marina Circuit,2,Lewis Hamilton,12011,2,0.945273632,1
+5812,Yas Marina Circuit,1,Lewis Hamilton,12375,1,0.945273632,1
+5813,Yas Marina Circuit,1,Lewis Hamilton,12746,1,0.945273632,1
+5817,Yas Marina Circuit,1,Valtteri Bottas,10317,1,0.965034965,1
+5818,Yas Marina Circuit,2,Valtteri Bottas,10681,2,0.965034965,1
+5819,Yas Marina Circuit,20,Valtteri Bottas,11052,2,0.965034965,1
+5826,Yas Marina Circuit,16,Daniel Ricciardo,8527,17,0.942196532,1
+5827,Yas Marina Circuit,9,Daniel Ricciardo,8891,10,0.942196532,1
+5831,Yas Marina Circuit,5,Daniil Kvyat,7516,5,0.917525773,1
+5832,Yas Marina Circuit,17,Daniil Kvyat,8251,17,0.917525773,1
+5833,Yas Marina Circuit,13,Daniil Kvyat,9350,14,0.917525773,1
+5834,Yas Marina Circuit,10,Carlos Sainz,7759,10,0.903846154,1
+5835,Yas Marina Circuit,21,Carlos Sainz,8123,21,0.903846154,1
+5836,Yas Marina Circuit,11,Max Verstappen,6634,11,0.914285714,1
+5837,Yas Marina Circuit,17,Pierre Gasly,7963,17,0.93877551,1
+5838,Yas Marina Circuit,17,Pierre Gasly,8327,17,0.93877551,1
+5839,Yas Marina Circuit,11,Pierre Gasly,8698,12,0.93877551,1
+5855,Yas Marina Circuit,11,Sergio Pérez,9067,11,0.933333333,1
+5856,Yas Marina Circuit,4,Sergio Pérez,9438,4,0.933333333,1
+5857,Yas Marina Circuit,8,Sergio Pérez,9802,8,0.933333333,1
+5858,Yas Marina Circuit,8,Sergio Pérez,10166,8,0.933333333,1
+5859,Yas Marina Circuit,14,Sergio Pérez,10530,14,0.933333333,1
+5860,Yas Marina Circuit,9,Esteban Ocon,7740,9,0.923076923,1
+5861,Yas Marina Circuit,9,Esteban Ocon,8104,9,0.923076923,1
+5868,Yas Marina Circuit,11,Sergio Pérez,7961,11,0.933333333,1
+5869,Yas Marina Circuit,11,Sergio Pérez,8318,12,0.933333333,1
+5879,Yas Marina Circuit,8,Charles Leclerc,7710,8,0.844444444,1
+5888,Yas Marina Circuit,1,Sebastian Vettel,8535,1,0.955,1
+5889,Yas Marina Circuit,1,Sebastian Vettel,8899,1,0.955,1
+5890,Yas Marina Circuit,24,Sebastian Vettel,9256,3,0.955,1
+5891,Yas Marina Circuit,2,Sebastian Vettel,9620,2,0.955,1
+5892,Yas Marina Circuit,5,Daniel Ricciardo,9647,5,0.942196532,1
+5893,Yas Marina Circuit,3,Daniel Ricciardo,10011,3,0.942196532,1
+5894,Yas Marina Circuit,4,Daniel Ricciardo,10375,4,0.942196532,1
+5895,Yas Marina Circuit,5,Daniel Ricciardo,10739,5,0.942196532,1
+5896,Yas Marina Circuit,9,Daniil Kvyat,7887,9,0.917525773,1
+5897,Yas Marina Circuit,6,Max Verstappen,6998,6,0.914285714,1
+5898,Yas Marina Circuit,6,Max Verstappen,7362,6,0.914285714,1
+5899,Yas Marina Circuit,6,Max Verstappen,7726,6,0.914285714,1
+5900,Yas Marina Circuit,2,Max Verstappen,8097,3,0.914285714,1
+5901,Yas Marina Circuit,5,Alexander Albon,8653,6,0.956521739,1
+5902,Yas Marina Circuit,4,Kimi Räikkönen,12072,5,0.944099379,1
+5903,Yas Marina Circuit,22,Kimi Räikkönen,12436,5,0.944099379,1
+5904,Yas Marina Circuit,9,Romain Grosjean,9698,10,0.851851852,1
+5905,Yas Marina Circuit,6,Romain Grosjean,10062,7,0.851851852,1
+5906,Yas Marina Circuit,18,Romain Grosjean,10447,14,0.851851852,1
+5907,Yas Marina Circuit,18,Romain Grosjean,10818,15,0.851851852,1
+5910,Yas Marina Circuit,17,Kimi Räikkönen,14655,18,0.944099379,1
+5911,Yas Marina Circuit,16,Antonio Giovinazzi,9483,17,0.88,1
+5918,Yas Marina Circuit,14,Romain Grosjean,11182,14,0.851851852,1
+5919,Yas Marina Circuit,16,Romain Grosjean,11546,16,0.851851852,1
+5920,Yas Marina Circuit,7,Romain Grosjean,11910,7,0.851851852,1
+5921,Yas Marina Circuit,15,Romain Grosjean,12281,16,0.851851852,1
+5923,Yas Marina Circuit,14,Kevin Magnussen,9183,14,0.952380952,1
+5924,Yas Marina Circuit,13,Kevin Magnussen,9547,13,0.952380952,1
+5925,Yas Marina Circuit,14,Kevin Magnussen,9918,15,0.952380952,1
+5931,Yas Marina Circuit,20,Daniel Ricciardo,8170,21,0.942196532,1
+5932,Yas Marina Circuit,10,Sergio Pérez,10901,11,0.933333333,1
+5933,Yas Marina Circuit,12,Lance Stroll,7703,13,0.923076923,1
+5937,Yas Marina Circuit,20,Esteban Ocon,7376,20,0.923076923,1
+5969,Circuit Gilles Villeneuve,4,Daniel Ricciardo,10935,4,0.942196532,1
+5970,Circuit Gilles Villeneuve,9,Carlos Sainz,8683,9,0.903846154,1
+6009,Circuit Gilles Villeneuve,3,Valtteri Bottas,8686,3,0.965034965,1
+6010,Circuit Gilles Villeneuve,4,Valtteri Bottas,9050,4,0.965034965,1
+6011,Circuit Gilles Villeneuve,4,Valtteri Bottas,9414,4,0.965034965,1
+6012,Circuit Gilles Villeneuve,7,Valtteri Bottas,9785,7,0.965034965,1
+6013,Circuit Gilles Villeneuve,17,Lance Stroll,6800,17,0.923076923,1
+6014,Circuit Gilles Villeneuve,17,Lance Stroll,7164,17,0.923076923,1
+6016,Circuit Gilles Villeneuve,18,George Russell,7784,19,0.958333333,1
+6035,Circuit Gilles Villeneuve,1,Lewis Hamilton,9288,1,0.945273632,1
+6036,Circuit Gilles Villeneuve,5,Lewis Hamilton,9652,5,0.945273632,1
+6037,Circuit Gilles Villeneuve,2,Lewis Hamilton,10016,2,0.945273632,1
+6048,Circuit Gilles Villeneuve,12,Sergio Pérez,8535,12,0.933333333,1
+6049,Circuit Gilles Villeneuve,12,Kevin Magnussen,7916,12,0.952380952,1
+6050,Circuit Gilles Villeneuve,11,Carlos Sainz,9047,9,0.903846154,1
+6053,Circuit Gilles Villeneuve,8,Lando Norris,7148,8,0.916666667,1
+6062,Circuit Gilles Villeneuve,18,Sebastian Vettel,10201,16,0.955,1
+6063,Circuit Gilles Villeneuve,3,Sebastian Vettel,10572,3,0.955,1
+6064,Circuit Gilles Villeneuve,2,Sebastian Vettel,10936,2,0.955,1
+6065,Circuit Gilles Villeneuve,1,Sebastian Vettel,11300,1,0.955,1
+6066,Circuit Gilles Villeneuve,1,Sebastian Vettel,11664,1,0.955,1
+6069,Circuit Gilles Villeneuve,10,Kimi Räikkönen,12653,10,0.944099379,1
+6070,Circuit Gilles Villeneuve,3,Kimi Räikkönen,13017,3,0.944099379,1
+6071,Circuit Gilles Villeneuve,6,Kimi Räikkönen,13388,6,0.944099379,1
+6072,Circuit Gilles Villeneuve,4,Kimi Räikkönen,13752,4,0.944099379,1
+6073,Circuit Gilles Villeneuve,5,Kimi Räikkönen,14116,5,0.944099379,1
+6091,Circuit Gilles Villeneuve,3,Charles Leclerc,7906,3,0.844444444,1
+6153,Circuit Gilles Villeneuve,2,Lewis Hamilton,10380,2,0.945273632,1
+6154,Circuit Gilles Villeneuve,2,Lewis Hamilton,10744,2,0.945273632,1
+6155,Circuit Gilles Villeneuve,1,Lewis Hamilton,11108,1,0.945273632,1
+6156,Circuit Gilles Villeneuve,1,Lewis Hamilton,11479,1,0.945273632,1
+6157,Circuit Gilles Villeneuve,1,Lewis Hamilton,11843,1,0.945273632,1
+6158,Circuit Gilles Villeneuve,4,Lewis Hamilton,12207,4,0.945273632,1
+6159,Circuit Gilles Villeneuve,2,Lewis Hamilton,12571,2,0.945273632,1
+6163,Circuit Gilles Villeneuve,3,Valtteri Bottas,10149,3,0.965034965,1
+6164,Circuit Gilles Villeneuve,2,Valtteri Bottas,10513,2,0.965034965,1
+6165,Circuit Gilles Villeneuve,6,Valtteri Bottas,10877,6,0.965034965,1
+6176,Circuit Gilles Villeneuve,14,Daniel Ricciardo,8380,14,0.942196532,1
+6177,Circuit Gilles Villeneuve,11,Daniel Ricciardo,8744,10,0.942196532,1
+6181,Circuit Gilles Villeneuve,15,Daniil Kvyat,7348,15,0.917525773,1
+6182,Circuit Gilles Villeneuve,15,Daniil Kvyat,8083,13,0.917525773,1
+6183,Circuit Gilles Villeneuve,11,Daniil Kvyat,8447,11,0.917525773,1
+6184,Circuit Gilles Villeneuve,10,Daniil Kvyat,9175,12,0.917525773,1
+6185,Circuit Gilles Villeneuve,11,Carlos Sainz,7584,11,0.903846154,1
+6186,Circuit Gilles Villeneuve,20,Carlos Sainz,7955,16,0.903846154,1
+6187,Circuit Gilles Villeneuve,13,Carlos Sainz,8319,13,0.903846154,1
+6188,Circuit Gilles Villeneuve,19,Max Verstappen,6459,12,0.914285714,1
+6189,Circuit Gilles Villeneuve,16,Pierre Gasly,8159,16,0.93877551,1
+6191,Circuit Gilles Villeneuve,13,Alexander Albon,8478,14,0.956521739,1
+6205,Circuit Gilles Villeneuve,13,Sergio Pérez,8899,13,0.933333333,1
+6206,Circuit Gilles Villeneuve,10,Sergio Pérez,9263,10,0.933333333,1
+6207,Circuit Gilles Villeneuve,11,Sergio Pérez,9634,11,0.933333333,1
+6208,Circuit Gilles Villeneuve,8,Sergio Pérez,9998,8,0.933333333,1
+6209,Circuit Gilles Villeneuve,10,Sergio Pérez,10362,10,0.933333333,1
+6210,Circuit Gilles Villeneuve,9,Esteban Ocon,7572,9,0.923076923,1
+6211,Circuit Gilles Villeneuve,8,Esteban Ocon,7936,8,0.923076923,1
+6233,Circuit Gilles Villeneuve,15,Sergio Pérez,8171,15,0.933333333,1
+6243,Circuit Gilles Villeneuve,13,Charles Leclerc,7542,13,0.844444444,1
+6256,Circuit Gilles Villeneuve,2,Sebastian Vettel,8381,3,0.955,1
+6257,Circuit Gilles Villeneuve,1,Sebastian Vettel,8745,1,0.955,1
+6258,Circuit Gilles Villeneuve,1,Sebastian Vettel,9109,1,0.955,1
+6259,Circuit Gilles Villeneuve,1,Sebastian Vettel,9473,1,0.955,1
+6260,Circuit Gilles Villeneuve,3,Sebastian Vettel,9837,3,0.955,1
+6267,Circuit Gilles Villeneuve,6,Daniel Ricciardo,9108,6,0.942196532,1
+6268,Circuit Gilles Villeneuve,9,Daniel Ricciardo,9472,9,0.942196532,1
+6269,Circuit Gilles Villeneuve,4,Daniel Ricciardo,9843,4,0.942196532,1
+6270,Circuit Gilles Villeneuve,6,Daniel Ricciardo,10207,6,0.942196532,1
+6271,Circuit Gilles Villeneuve,6,Daniel Ricciardo,10571,6,0.942196532,1
+6272,Circuit Gilles Villeneuve,8,Daniil Kvyat,7712,8,0.917525773,1
+6273,Circuit Gilles Villeneuve,5,Max Verstappen,6830,5,0.914285714,1
+6274,Circuit Gilles Villeneuve,5,Max Verstappen,7194,5,0.914285714,1
+6275,Circuit Gilles Villeneuve,3,Max Verstappen,7558,3,0.914285714,1
+6276,Circuit Gilles Villeneuve,9,Max Verstappen,7922,11,0.914285714,1
+6277,Circuit Gilles Villeneuve,5,Pierre Gasly,8523,5,0.93877551,1
+6282,Circuit Gilles Villeneuve,12,Kimi Räikkönen,11925,12,0.944099379,1
+6283,Circuit Gilles Villeneuve,10,Kimi Räikkönen,12289,9,0.944099379,1
+6284,Circuit Gilles Villeneuve,7,Romain Grosjean,9551,7,0.851851852,1
+6285,Circuit Gilles Villeneuve,22,Romain Grosjean,9915,19,0.851851852,1
+6286,Circuit Gilles Villeneuve,14,Romain Grosjean,10279,14,0.851851852,1
+6287,Circuit Gilles Villeneuve,5,Romain Grosjean,10643,5,0.851851852,1
+6290,Circuit Gilles Villeneuve,16,Kimi Räikkönen,14480,17,0.944099379,1
+6291,Circuit Gilles Villeneuve,12,Antonio Giovinazzi,9308,13,0.88,1
+6298,Circuit Gilles Villeneuve,14,Romain Grosjean,11014,15,0.851851852,1
+6299,Circuit Gilles Villeneuve,14,Romain Grosjean,11378,14,0.851851852,1
+6300,Circuit Gilles Villeneuve,20,Romain Grosjean,11742,20,0.851851852,1
+6301,Circuit Gilles Villeneuve,14,Romain Grosjean,12106,15,0.851851852,1
+6303,Circuit Gilles Villeneuve,18,Kevin Magnussen,9015,18,0.952380952,1
+6304,Circuit Gilles Villeneuve,11,Kevin Magnussen,9379,11,0.952380952,1
+6305,Circuit Gilles Villeneuve,0,Kevin Magnussen,9743,10,0.952380952,1
+6344,Circuit Gilles Villeneuve,15,Sergio Pérez,10726,16,0.933333333,1
+6345,Circuit Gilles Villeneuve,17,Lance Stroll,7528,18,0.923076923,1
+6570,Hockenheimring,13,Daniel Ricciardo,10984,13,0.942196532,1
+6571,Hockenheimring,16,Kevin Magnussen,8700,17,0.952380952,1
+6572,Hockenheimring,8,Carlos Sainz,8725,8,0.903846154,1
+6607,Hockenheimring,2,Valtteri Bottas,9092,2,0.965034965,1
+6608,Hockenheimring,7,Valtteri Bottas,9834,8,0.965034965,1
+6609,Hockenheimring,18,Lance Stroll,7206,19,0.923076923,1
+6611,Hockenheimring,17,George Russell,7833,18,0.958333333,1
+6624,Hockenheimring,6,Lewis Hamilton,9330,6,0.945273632,1
+6625,Hockenheimring,7,Lewis Hamilton,10058,8,0.945273632,1
+6638,Hockenheimring,4,Kevin Magnussen,7958,4,0.952380952,1
+6639,Hockenheimring,7,Carlos Sainz,9096,7,0.903846154,1
+6641,Hockenheimring,19,Lando Norris,7197,16,0.916666667,1
+6648,Hockenheimring,6,Sebastian Vettel,10621,6,0.955,1
+6649,Hockenheimring,1,Sebastian Vettel,11342,1,0.955,1
+6650,Hockenheimring,20,Sebastian Vettel,11713,20,0.955,1
+6652,Hockenheimring,12,Kimi Räikkönen,12695,12,0.944099379,1
+6653,Hockenheimring,5,Kimi Räikkönen,13437,5,0.944099379,1
+6654,Hockenheimring,3,Kimi Räikkönen,14158,3,0.944099379,1
+6671,Hockenheimring,10,Charles Leclerc,7955,10,0.844444444,1
+6730,Hockenheimring,20,Lewis Hamilton,10786,16,0.945273632,1
+6731,Hockenheimring,2,Lewis Hamilton,11528,2,0.945273632,1
+6732,Hockenheimring,14,Lewis Hamilton,12249,14,0.945273632,1
+6733,Hockenheimring,1,Lewis Hamilton,12620,1,0.945273632,1
+6736,Hockenheimring,2,Valtteri Bottas,10555,2,0.965034965,1
+6737,Hockenheimring,3,Valtteri Bottas,10926,3,0.965034965,1
+6744,Hockenheimring,11,Daniel Ricciardo,8422,11,0.942196532,1
+6747,Hockenheimring,8,Daniil Kvyat,7390,8,0.917525773,1
+6748,Hockenheimring,18,Daniil Kvyat,8132,19,0.917525773,1
+6749,Hockenheimring,14,Daniil Kvyat,9224,14,0.917525773,1
+6750,Hockenheimring,15,Carlos Sainz,8004,13,0.903846154,1
+6751,Hockenheimring,16,Pierre Gasly,8201,17,0.93877551,1
+6753,Hockenheimring,16,Alexander Albon,8527,17,0.956521739,1
+6762,Hockenheimring,10,Sergio Pérez,8941,10,0.933333333,1
+6763,Hockenheimring,9,Sergio Pérez,9683,9,0.933333333,1
+6764,Hockenheimring,10,Sergio Pérez,10404,10,0.933333333,1
+6765,Hockenheimring,15,Esteban Ocon,7978,16,0.923076923,1
+6784,Hockenheimring,17,Sergio Pérez,8213,12,0.933333333,1
+6789,Hockenheimring,9,Charles Leclerc,7584,9,0.844444444,1
+6797,Hockenheimring,1,Sebastian Vettel,8423,1,0.955,1
+6798,Hockenheimring,2,Sebastian Vettel,9151,2,0.955,1
+6799,Hockenheimring,6,Sebastian Vettel,9879,6,0.955,1
+6805,Hockenheimring,5,Daniel Ricciardo,9150,5,0.942196532,1
+6806,Hockenheimring,3,Daniel Ricciardo,9892,3,0.942196532,1
+6807,Hockenheimring,20,Daniel Ricciardo,10613,15,0.942196532,1
+6808,Hockenheimring,4,Max Verstappen,6879,4,0.914285714,1
+6809,Hockenheimring,4,Max Verstappen,7600,4,0.914285714,1
+6810,Hockenheimring,2,Max Verstappen,7971,2,0.914285714,1
+6811,Hockenheimring,4,Pierre Gasly,8572,4,0.93877551,1
+6816,Hockenheimring,10,Kimi Räikkönen,11967,10,0.944099379,1
+6817,Hockenheimring,19,Romain Grosjean,9593,15,0.851851852,1
+6818,Hockenheimring,14,Romain Grosjean,10321,15,0.851851852,1
+6820,Hockenheimring,5,Kimi Räikkönen,14529,5,0.944099379,1
+6821,Hockenheimring,11,Antonio Giovinazzi,9357,11,0.88,1
+6826,Hockenheimring,20,Romain Grosjean,11063,15,0.851851852,1
+6827,Hockenheimring,6,Romain Grosjean,11784,6,0.851851852,1
+6828,Hockenheimring,6,Romain Grosjean,12155,6,0.851851852,1
+6830,Hockenheimring,5,Kevin Magnussen,9421,5,0.952380952,1
+6831,Hockenheimring,12,Kevin Magnussen,9792,12,0.952380952,1
+6869,Hockenheimring,8,Sergio Pérez,10775,8,0.933333333,1
+6870,Hockenheimring,15,Lance Stroll,7577,15,0.923076923,1
+7316,Korean International Circuit,17,Valtteri Bottas,8805,17,0.965034965,1
+7321,Korean International Circuit,4,Lewis Hamilton,9421,4,0.945273632,1
+7322,Korean International Circuit,1,Lewis Hamilton,9778,1,0.945273632,1
+7323,Korean International Circuit,3,Lewis Hamilton,10142,3,0.945273632,1
+7324,Korean International Circuit,10,Sergio Pérez,8654,11,0.933333333,1
+7349,Korean International Circuit,2,Lewis Hamilton,10499,2,0.945273632,1
+7357,Korean International Circuit,21,Daniel Ricciardo,8506,16,0.942196532,1
+7358,Korean International Circuit,12,Daniel Ricciardo,8863,13,0.942196532,1
+7374,Korean International Circuit,17,Sergio Pérez,7933,17,0.933333333,1
+7375,Korean International Circuit,12,Sergio Pérez,8297,12,0.933333333,1
+7381,Korean International Circuit,1,Sebastian Vettel,8514,1,0.955,1
+7382,Korean International Circuit,2,Sebastian Vettel,8871,2,0.955,1
+7383,Korean International Circuit,2,Sebastian Vettel,9235,2,0.955,1
+7384,Korean International Circuit,1,Sebastian Vettel,9592,1,0.955,1
+7385,Korean International Circuit,5,Kimi Räikkönen,12051,5,0.944099379,1
+7386,Korean International Circuit,9,Kimi Räikkönen,12408,10,0.944099379,1
+7387,Korean International Circuit,7,Romain Grosjean,9677,7,0.851851852,1
+7388,Korean International Circuit,3,Romain Grosjean,10034,4,0.851851852,1
+7397,Korean International Circuit,24,Daniel Ricciardo,8142,24,0.942196532,1
+7401,Sochi Autodrom,10,Daniel Ricciardo,11047,10,0.942196532,1
+7402,Sochi Autodrom,17,Kevin Magnussen,8609,17,0.952380952,1
+7403,Sochi Autodrom,11,Carlos Sainz,8795,14,0.903846154,1
+7411,Sochi Autodrom,3,Valtteri Bottas,9176,3,0.965034965,1
+7412,Sochi Autodrom,3,Valtteri Bottas,9540,3,0.965034965,1
+7413,Sochi Autodrom,2,Valtteri Bottas,9743,3,0.965034965,1
+7414,Sochi Autodrom,11,Lance Stroll,6758,12,0.923076923,1
+7415,Sochi Autodrom,14,Lance Stroll,7276,20,0.923076923,1
+7417,Sochi Autodrom,17,George Russell,7896,17,0.958333333,1
+7425,Sochi Autodrom,11,Kevin Magnussen,8042,6,0.952380952,1
+7426,Sochi Autodrom,5,Carlos Sainz,9159,6,0.903846154,1
+7429,Sochi Autodrom,7,Lando Norris,7260,8,0.916666667,1
+7431,Sochi Autodrom,4,Sebastian Vettel,10327,4,0.955,1
+7432,Sochi Autodrom,7,Sebastian Vettel,10530,2,0.955,1
+7433,Sochi Autodrom,1,Sebastian Vettel,10894,1,0.955,1
+7434,Sochi Autodrom,3,Sebastian Vettel,11412,3,0.955,1
+7435,Sochi Autodrom,3,Sebastian Vettel,11776,3,0.955,1
+7436,Sochi Autodrom,8,Kimi Räikkönen,12779,9,0.944099379,1
+7437,Sochi Autodrom,5,Kimi Räikkönen,13143,5,0.944099379,1
+7438,Sochi Autodrom,3,Kimi Räikkönen,13346,4,0.944099379,1
+7439,Sochi Autodrom,2,Kimi Räikkönen,13710,2,0.944099379,1
+7440,Sochi Autodrom,4,Kimi Räikkönen,14228,4,0.944099379,1
+7441,Sochi Autodrom,1,Charles Leclerc,8018,1,0.844444444,1
+7446,Sochi Autodrom,1,Lewis Hamilton,10870,1,0.945273632,1
+7447,Sochi Autodrom,2,Lewis Hamilton,11234,2,0.945273632,1
+7448,Sochi Autodrom,10,Lewis Hamilton,11437,10,0.945273632,1
+7449,Sochi Autodrom,4,Lewis Hamilton,11801,4,0.945273632,1
+7450,Sochi Autodrom,2,Lewis Hamilton,12319,2,0.945273632,1
+7451,Sochi Autodrom,2,Lewis Hamilton,12683,2,0.945273632,1
+7452,Sochi Autodrom,3,Valtteri Bottas,10107,3,0.965034965,1
+7453,Sochi Autodrom,1,Valtteri Bottas,10625,1,0.965034965,1
+7454,Sochi Autodrom,4,Valtteri Bottas,10989,5,0.965034965,1
+7456,Sochi Autodrom,5,Daniil Kvyat,7474,5,0.917525773,1
+7457,Sochi Autodrom,12,Daniil Kvyat,8405,13,0.917525773,1
+7458,Sochi Autodrom,19,Daniil Kvyat,9287,20,0.917525773,1
+7459,Sochi Autodrom,11,Carlos Sainz,7913,11,0.903846154,1
+7460,Sochi Autodrom,14,Carlos Sainz,8277,11,0.903846154,1
+7461,Sochi Autodrom,9,Max Verstappen,6585,9,0.914285714,1
+7462,Sochi Autodrom,9,Max Verstappen,6788,9,0.914285714,1
+7463,Sochi Autodrom,17,Pierre Gasly,8271,13,0.93877551,1
+7464,Sochi Autodrom,16,Pierre Gasly,8635,11,0.93877551,1
+7469,Sochi Autodrom,12,Sergio Pérez,9025,13,0.933333333,1
+7470,Sochi Autodrom,7,Sergio Pérez,9389,7,0.933333333,1
+7471,Sochi Autodrom,6,Sergio Pérez,9592,7,0.933333333,1
+7472,Sochi Autodrom,9,Sergio Pérez,9956,9,0.933333333,1
+7473,Sochi Autodrom,8,Sergio Pérez,10474,8,0.933333333,1
+7474,Sochi Autodrom,10,Esteban Ocon,7530,10,0.923076923,1
+7475,Sochi Autodrom,6,Esteban Ocon,8048,6,0.923076923,1
+7485,Sochi Autodrom,7,Charles Leclerc,7654,7,0.844444444,1
+7486,Sochi Autodrom,10,Sebastian Vettel,9963,11,0.955,1
+7487,Sochi Autodrom,6,Daniel Ricciardo,9234,7,0.942196532,1
+7488,Sochi Autodrom,10,Daniel Ricciardo,9598,10,0.942196532,1
+7489,Sochi Autodrom,5,Daniel Ricciardo,9801,6,0.942196532,1
+7490,Sochi Autodrom,5,Daniel Ricciardo,10165,5,0.942196532,1
+7491,Sochi Autodrom,18,Daniel Ricciardo,10683,12,0.942196532,1
+7492,Sochi Autodrom,11,Daniil Kvyat,7838,11,0.917525773,1
+7493,Sochi Autodrom,8,Daniil Kvyat,8041,8,0.917525773,1
+7494,Sochi Autodrom,7,Max Verstappen,7152,7,0.914285714,1
+7495,Sochi Autodrom,19,Max Verstappen,7670,11,0.914285714,1
+7496,Sochi Autodrom,9,Max Verstappen,8034,4,0.914285714,1
+7497,Sochi Autodrom,0,Alexander Albon,8590,19,0.956521739,1
+7498,Sochi Autodrom,15,Romain Grosjean,10405,16,0.851851852,1
+7499,Sochi Autodrom,8,Romain Grosjean,10769,8,0.851851852,1
+7502,Sochi Autodrom,15,Kimi Räikkönen,14592,16,0.944099379,1
+7503,Sochi Autodrom,12,Antonio Giovinazzi,9420,13,0.88,1
+7506,Sochi Autodrom,15,Romain Grosjean,10972,15,0.851851852,1
+7507,Sochi Autodrom,19,Romain Grosjean,11336,20,0.851851852,1
+7508,Sochi Autodrom,9,Romain Grosjean,11854,9,0.851851852,1
+7509,Sochi Autodrom,8,Romain Grosjean,12218,9,0.851851852,1
+7511,Sochi Autodrom,13,Kevin Magnussen,8973,14,0.952380952,1
+7512,Sochi Autodrom,5,Kevin Magnussen,9491,5,0.952380952,1
+7513,Sochi Autodrom,13,Kevin Magnussen,9855,14,0.952380952,1
+7514,Sochi Autodrom,11,Sergio Pérez,10838,12,0.933333333,1
+7515,Sochi Autodrom,14,Lance Stroll,7640,15,0.923076923,1
+7521,Baku City Circuit,10,Daniel Ricciardo,10893,11,0.942196532,1
+7522,Baku City Circuit,22,Kevin Magnussen,8658,21,0.952380952,1
+7523,Baku City Circuit,9,Carlos Sainz,8641,10,0.903846154,1
+7528,Baku City Circuit,8,Valtteri Bottas,9792,8,0.965034965,1
+7529,Baku City Circuit,8,Lance Stroll,6814,8,0.923076923,1
+7530,Baku City Circuit,10,Lance Stroll,7122,11,0.923076923,1
+7532,Baku City Circuit,16,George Russell,7742,17,0.958333333,1
+7537,Baku City Circuit,9,Carlos Sainz,9005,10,0.903846154,1
+7540,Baku City Circuit,7,Lando Norris,7106,7,0.916666667,1
+7541,Baku City Circuit,3,Sebastian Vettel,10579,4,0.955,1
+7542,Baku City Circuit,4,Sebastian Vettel,10950,4,0.955,1
+7543,Baku City Circuit,1,Sebastian Vettel,11258,1,0.955,1
+7544,Baku City Circuit,3,Sebastian Vettel,11622,3,0.955,1
+7545,Baku City Circuit,4,Kimi Räikkönen,13395,5,0.944099379,1
+7546,Baku City Circuit,3,Kimi Räikkönen,13766,3,0.944099379,1
+7547,Baku City Circuit,6,Kimi Räikkönen,14074,6,0.944099379,1
+7548,Baku City Circuit,8,Charles Leclerc,7864,9,0.844444444,1
+7550,Baku City Circuit,10,Lewis Hamilton,11486,10,0.945273632,1
+7551,Baku City Circuit,1,Lewis Hamilton,11857,1,0.945273632,1
+7552,Baku City Circuit,2,Lewis Hamilton,12165,2,0.945273632,1
+7553,Baku City Circuit,2,Lewis Hamilton,12529,2,0.945273632,1
+7554,Baku City Circuit,2,Valtteri Bottas,10163,2,0.965034965,1
+7555,Baku City Circuit,3,Valtteri Bottas,10471,3,0.965034965,1
+7556,Baku City Circuit,1,Valtteri Bottas,10835,1,0.965034965,1
+7557,Baku City Circuit,6,Daniil Kvyat,8090,7,0.917525773,1
+7558,Baku City Circuit,11,Daniil Kvyat,8461,11,0.917525773,1
+7559,Baku City Circuit,6,Daniil Kvyat,9133,6,0.917525773,1
+7560,Baku City Circuit,18,Carlos Sainz,7962,13,0.903846154,1
+7561,Baku City Circuit,15,Carlos Sainz,8333,12,0.903846154,1
+7562,Baku City Circuit,17,Pierre Gasly,8117,17,0.93877551,1
+7564,Baku City Circuit,11,Alexander Albon,8436,12,0.956521739,1
+7566,Baku City Circuit,7,Sergio Pérez,9641,2,0.933333333,1
+7567,Baku City Circuit,6,Sergio Pérez,10012,6,0.933333333,1
+7568,Baku City Circuit,8,Sergio Pérez,10320,8,0.933333333,1
+7569,Baku City Circuit,7,Esteban Ocon,7586,7,0.923076923,1
+7570,Baku City Circuit,7,Esteban Ocon,7894,7,0.923076923,1
+7576,Baku City Circuit,13,Charles Leclerc,7500,14,0.844444444,1
+7577,Baku City Circuit,2,Daniel Ricciardo,9850,3,0.942196532,1
+7578,Baku City Circuit,10,Daniel Ricciardo,10221,10,0.942196532,1
+7579,Baku City Circuit,4,Daniel Ricciardo,10529,4,0.942196532,1
+7580,Baku City Circuit,9,Max Verstappen,6837,9,0.914285714,1
+7581,Baku City Circuit,5,Max Verstappen,7208,5,0.914285714,1
+7582,Baku City Circuit,5,Max Verstappen,7516,5,0.914285714,1
+7583,Baku City Circuit,4,Max Verstappen,7880,4,0.914285714,1
+7584,Baku City Circuit,0,Pierre Gasly,8481,20,0.93877551,1
+7585,Baku City Circuit,0,Kimi Räikkönen,14438,19,0.944099379,1
+7586,Baku City Circuit,17,Antonio Giovinazzi,9266,8,0.88,1
+7587,Baku City Circuit,11,Romain Grosjean,11021,11,0.851851852,1
+7588,Baku City Circuit,16,Romain Grosjean,11392,17,0.851851852,1
+7589,Baku City Circuit,20,Romain Grosjean,11700,20,0.851851852,1
+7590,Baku City Circuit,14,Romain Grosjean,12064,15,0.851851852,1
+7592,Baku City Circuit,12,Kevin Magnussen,9029,13,0.952380952,1
+7593,Baku City Circuit,15,Kevin Magnussen,9337,15,0.952380952,1
+7594,Baku City Circuit,12,Kevin Magnussen,9701,13,0.952380952,1
+7595,Baku City Circuit,5,Sergio Pérez,10684,5,0.933333333,1
+7596,Baku City Circuit,13,Lance Stroll,7486,14,0.923076923,1
+7602,Red Bull Ring,12,Daniel Ricciardo,10956,14,0.942196532,1
+7603,Red Bull Ring,10,Daniel Ricciardo,11327,10,0.942196532,1
+7604,Red Bull Ring,8,Daniel Ricciardo,11334,9,0.942196532,1
+7605,Red Bull Ring,17,Kevin Magnussen,8672,17,0.952380952,1
+7606,Red Bull Ring,9,Carlos Sainz,8704,9,0.903846154,1
+7609,Red Bull Ring,14,Esteban Ocon,8692,14,0.923076923,1
+7610,Red Bull Ring,5,Esteban Ocon,8699,5,0.923076923,1
+7616,Red Bull Ring,2,Valtteri Bottas,9064,2,0.965034965,1
+7617,Red Bull Ring,6,Valtteri Bottas,9428,6,0.965034965,1
+7618,Red Bull Ring,7,Valtteri Bottas,9806,8,0.965034965,1
+7619,Red Bull Ring,18,Lance Stroll,6828,18,0.923076923,1
+7620,Red Bull Ring,14,Lance Stroll,7185,15,0.923076923,1
+7622,Red Bull Ring,0,George Russell,7805,19,0.958333333,1
+7623,Red Bull Ring,17,George Russell,8176,17,0.958333333,1
+7624,Red Bull Ring,11,George Russell,8183,12,0.958333333,1
+7625,Red Bull Ring,20,Nicholas Latifi,9138,20,1,1
+7626,Red Bull Ring,18,Nicholas Latifi,9145,18,1,1
+7634,Red Bull Ring,6,Kevin Magnussen,7930,6,0.952380952,1
+7635,Red Bull Ring,19,Carlos Sainz,9068,15,0.903846154,1
+7636,Red Bull Ring,8,Carlos Sainz,9439,8,0.903846154,1
+7637,Red Bull Ring,3,Carlos Sainz,9446,3,0.903846154,1
+7640,Red Bull Ring,5,Lando Norris,7169,6,0.916666667,1
+7641,Red Bull Ring,3,Lando Norris,7540,4,0.916666667,1
+7642,Red Bull Ring,9,Lando Norris,7547,6,0.916666667,1
+7644,Red Bull Ring,3,Sebastian Vettel,10215,3,0.955,1
+7645,Red Bull Ring,9,Sebastian Vettel,10593,4,0.955,1
+7646,Red Bull Ring,2,Sebastian Vettel,10964,2,0.955,1
+7647,Red Bull Ring,6,Sebastian Vettel,11321,3,0.955,1
+7648,Red Bull Ring,9,Sebastian Vettel,11685,10,0.955,1
+7649,Red Bull Ring,11,Sebastian Vettel,12056,11,0.955,1
+7650,Red Bull Ring,10,Sebastian Vettel,12063,10,0.955,1
+7651,Red Bull Ring,8,Kimi Räikkönen,12667,8,0.944099379,1
+7652,Red Bull Ring,14,Kimi Räikkönen,13031,18,0.944099379,1
+7653,Red Bull Ring,4,Kimi Räikkönen,13409,6,0.944099379,1
+7654,Red Bull Ring,3,Kimi Räikkönen,13780,4,0.944099379,1
+7655,Red Bull Ring,3,Kimi Räikkönen,14137,4,0.944099379,1
+7656,Red Bull Ring,1,Charles Leclerc,7927,1,0.844444444,1
+7657,Red Bull Ring,7,Charles Leclerc,8298,7,0.844444444,1
+7658,Red Bull Ring,14,Charles Leclerc,8305,11,0.844444444,1
+7664,Red Bull Ring,9,Lewis Hamilton,10758,9,0.945273632,1
+7665,Red Bull Ring,1,Lewis Hamilton,11122,1,0.945273632,1
+7666,Red Bull Ring,1,Lewis Hamilton,11500,1,0.945273632,1
+7667,Red Bull Ring,8,Lewis Hamilton,11871,3,0.945273632,1
+7668,Red Bull Ring,2,Lewis Hamilton,12228,2,0.945273632,1
+7669,Red Bull Ring,4,Lewis Hamilton,12592,2,0.945273632,1
+7670,Red Bull Ring,5,Lewis Hamilton,12963,2,0.945273632,1
+7671,Red Bull Ring,1,Lewis Hamilton,12970,1,0.945273632,1
+7672,Red Bull Ring,1,Valtteri Bottas,10177,1,0.965034965,1
+7673,Red Bull Ring,1,Valtteri Bottas,10534,1,0.965034965,1
+7674,Red Bull Ring,3,Valtteri Bottas,10898,4,0.965034965,1
+7675,Red Bull Ring,1,Valtteri Bottas,11269,1,0.965034965,1
+7676,Red Bull Ring,4,Valtteri Bottas,11276,4,0.965034965,1
+7678,Red Bull Ring,7,Daniil Kvyat,7362,7,0.917525773,1
+7679,Red Bull Ring,22,Daniil Kvyat,8104,20,0.917525773,1
+7680,Red Bull Ring,14,Daniil Kvyat,8475,14,0.917525773,1
+7681,Red Bull Ring,16,Daniil Kvyat,9196,18,0.917525773,1
+7682,Red Bull Ring,12,Carlos Sainz,7598,13,0.903846154,1
+7683,Red Bull Ring,15,Carlos Sainz,7976,15,0.903846154,1
+7684,Red Bull Ring,10,Carlos Sainz,8347,10,0.903846154,1
+7685,Red Bull Ring,7,Max Verstappen,6473,7,0.914285714,1
+7686,Red Bull Ring,12,Pierre Gasly,8180,12,0.93877551,1
+7688,Red Bull Ring,18,Alexander Albon,8499,13,0.956521739,1
+7692,Red Bull Ring,15,Sergio Pérez,8913,11,0.933333333,1
+7693,Red Bull Ring,13,Sergio Pérez,9277,16,0.933333333,1
+7694,Red Bull Ring,16,Sergio Pérez,9655,16,0.933333333,1
+7695,Red Bull Ring,7,Sergio Pérez,10026,8,0.933333333,1
+7696,Red Bull Ring,16,Sergio Pérez,10383,17,0.933333333,1
+7697,Red Bull Ring,9,Esteban Ocon,7600,9,0.923076923,1
+7698,Red Bull Ring,11,Esteban Ocon,7957,11,0.923076923,1
+7708,Red Bull Ring,18,Charles Leclerc,7563,13,0.844444444,1
+7709,Red Bull Ring,12,Sebastian Vettel,9851,13,0.955,1
+7710,Red Bull Ring,5,Daniel Ricciardo,9122,5,0.942196532,1
+7711,Red Bull Ring,18,Daniel Ricciardo,9486,14,0.942196532,1
+7712,Red Bull Ring,5,Daniel Ricciardo,9864,7,0.942196532,1
+7713,Red Bull Ring,4,Daniel Ricciardo,10235,5,0.942196532,1
+7714,Red Bull Ring,7,Daniel Ricciardo,10592,7,0.942196532,1
+7715,Red Bull Ring,15,Daniil Kvyat,7726,8,0.917525773,1
+7716,Red Bull Ring,8,Max Verstappen,6851,9,0.914285714,1
+7717,Red Bull Ring,5,Max Verstappen,7222,6,0.914285714,1
+7718,Red Bull Ring,4,Max Verstappen,7579,5,0.914285714,1
+7719,Red Bull Ring,2,Max Verstappen,7943,3,0.914285714,1
+7720,Red Bull Ring,2,Max Verstappen,8314,3,0.914285714,1
+7721,Red Bull Ring,2,Max Verstappen,8321,2,0.914285714,1
+7722,Red Bull Ring,8,Pierre Gasly,8544,9,0.93877551,1
+7723,Red Bull Ring,4,Alexander Albon,8870,5,0.956521739,1
+7724,Red Bull Ring,6,Alexander Albon,8877,7,0.956521739,1
+7725,Red Bull Ring,22,Romain Grosjean,10293,16,0.851851852,1
+7726,Red Bull Ring,9,Romain Grosjean,10657,10,0.851851852,1
+7729,Red Bull Ring,6,Kimi Räikkönen,14501,7,0.944099379,1
+7730,Red Bull Ring,19,Kimi Räikkönen,14872,19,0.944099379,1
+7731,Red Bull Ring,16,Kimi Räikkönen,14879,16,0.944099379,1
+7732,Red Bull Ring,7,Antonio Giovinazzi,9329,8,0.88,1
+7733,Red Bull Ring,18,Antonio Giovinazzi,9700,18,0.88,1
+7734,Red Bull Ring,19,Antonio Giovinazzi,9707,19,0.88,1
+7737,Red Bull Ring,13,Romain Grosjean,11035,13,0.851851852,1
+7738,Red Bull Ring,6,Romain Grosjean,11406,7,0.851851852,1
+7739,Red Bull Ring,5,Romain Grosjean,11763,6,0.851851852,1
+7740,Red Bull Ring,11,Romain Grosjean,12127,11,0.851851852,1
+7741,Red Bull Ring,15,Romain Grosjean,12498,15,0.851851852,1
+7742,Red Bull Ring,0,Romain Grosjean,12505,20,0.851851852,1
+7744,Red Bull Ring,15,Kevin Magnussen,9043,15,0.952380952,1
+7745,Red Bull Ring,8,Kevin Magnussen,9400,8,0.952380952,1
+7746,Red Bull Ring,10,Kevin Magnussen,9764,5,0.952380952,1
+7747,Red Bull Ring,16,Kevin Magnussen,10135,16,0.952380952,1
+7748,Red Bull Ring,15,Kevin Magnussen,10142,15,0.952380952,1
+7749,Red Bull Ring,13,Sergio Pérez,10747,16,0.933333333,1
+7750,Red Bull Ring,6,Sergio Pérez,11118,6,0.933333333,1
+7751,Red Bull Ring,17,Sergio Pérez,11125,17,0.933333333,1
+7752,Red Bull Ring,14,Lance Stroll,7549,17,0.923076923,1
+7753,Red Bull Ring,9,Lance Stroll,7920,9,0.923076923,1
+7754,Red Bull Ring,12,Lance Stroll,7927,13,0.923076923,1
+7755,Red Bull Ring,13,Daniil Kvyat,9567,13,0.917525773,1
+7756,Red Bull Ring,13,Daniil Kvyat,9574,14,0.917525773,1
+7757,Red Bull Ring,12,Pierre Gasly,8915,12,0.93877551,1
+7758,Red Bull Ring,7,Pierre Gasly,8922,8,0.93877551,1
+7766,Circuit of the Americas,9,Daniel Ricciardo,11082,9,0.942196532,1
+7767,Circuit of the Americas,18,Kevin Magnussen,8784,18,0.952380952,1
+7768,Circuit of the Americas,7,Carlos Sainz,8452,8,0.903846154,1
+7769,Circuit of the Americas,11,Carlos Sainz,8816,11,0.903846154,1
+7779,Circuit of the Americas,9,Valtteri Bottas,8847,9,0.965034965,1
+7780,Circuit of the Americas,3,Valtteri Bottas,9197,3,0.965034965,1
+7781,Circuit of the Americas,16,Valtteri Bottas,9554,12,0.965034965,1
+7782,Circuit of the Americas,8,Valtteri Bottas,9918,8,0.965034965,1
+7783,Circuit of the Americas,15,Lance Stroll,6933,17,0.923076923,1
+7784,Circuit of the Americas,15,Lance Stroll,7297,18,0.923076923,1
+7786,Circuit of the Americas,18,George Russell,7931,18,0.958333333,1
+7796,Circuit of the Americas,2,Lewis Hamilton,10177,2,0.945273632,1
+7797,Circuit of the Americas,7,Sergio Pérez,8696,7,0.933333333,1
+7798,Circuit of the Americas,7,Kevin Magnussen,8063,8,0.952380952,1
+7799,Circuit of the Americas,7,Carlos Sainz,9194,7,0.903846154,1
+7802,Circuit of the Americas,8,Lando Norris,7295,8,0.916666667,1
+7806,Circuit of the Americas,13,Sebastian Vettel,10341,5,0.955,1
+7807,Circuit of the Americas,6,Sebastian Vettel,10705,6,0.955,1
+7808,Circuit of the Americas,2,Sebastian Vettel,11069,2,0.955,1
+7809,Circuit of the Americas,5,Sebastian Vettel,11433,2,0.955,1
+7810,Circuit of the Americas,2,Sebastian Vettel,11811,2,0.955,1
+7811,Circuit of the Americas,8,Kimi Räikkönen,12800,9,0.944099379,1
+7812,Circuit of the Americas,18,Kimi Räikkönen,13157,8,0.944099379,1
+7813,Circuit of the Americas,5,Kimi Räikkönen,13521,5,0.944099379,1
+7814,Circuit of the Americas,5,Kimi Räikkönen,13885,5,0.944099379,1
+7815,Circuit of the Americas,2,Kimi Räikkönen,14249,3,0.944099379,1
+7818,Circuit of the Americas,4,Charles Leclerc,8053,4,0.844444444,1
+7828,Circuit of the Americas,5,Lewis Hamilton,10541,5,0.945273632,1
+7829,Circuit of the Americas,2,Lewis Hamilton,10891,2,0.945273632,1
+7830,Circuit of the Americas,2,Lewis Hamilton,11248,2,0.945273632,1
+7831,Circuit of the Americas,1,Lewis Hamilton,11612,1,0.945273632,1
+7832,Circuit of the Americas,1,Lewis Hamilton,11976,1,0.945273632,1
+7833,Circuit of the Americas,1,Lewis Hamilton,12340,1,0.945273632,1
+7834,Circuit of the Americas,5,Lewis Hamilton,12718,5,0.945273632,1
+7836,Circuit of the Americas,3,Valtteri Bottas,10282,3,0.965034965,1
+7837,Circuit of the Americas,3,Valtteri Bottas,10646,4,0.965034965,1
+7838,Circuit of the Americas,1,Valtteri Bottas,11024,1,0.965034965,1
+7839,Circuit of the Americas,18,Daniel Ricciardo,8541,18,0.942196532,1
+7840,Circuit of the Americas,10,Daniel Ricciardo,8905,11,0.942196532,1
+7844,Circuit of the Americas,17,Daniil Kvyat,7495,14,0.917525773,1
+7845,Circuit of the Americas,13,Daniil Kvyat,8216,13,0.917525773,1
+7846,Circuit of the Americas,11,Daniil Kvyat,8580,12,0.917525773,1
+7847,Circuit of the Americas,13,Daniil Kvyat,9322,13,0.917525773,1
+7848,Circuit of the Americas,20,Carlos Sainz,7724,20,0.903846154,1
+7849,Circuit of the Americas,10,Carlos Sainz,8088,10,0.903846154,1
+7850,Circuit of the Americas,8,Max Verstappen,6599,10,0.914285714,1
+7851,Circuit of the Americas,19,Pierre Gasly,8292,13,0.93877551,1
+7852,Circuit of the Americas,10,Pierre Gasly,8670,10,0.93877551,1
+7862,Circuit of the Americas,11,Sergio Pérez,9046,12,0.933333333,1
+7863,Circuit of the Americas,5,Sergio Pérez,9403,6,0.933333333,1
+7864,Circuit of the Americas,11,Sergio Pérez,9767,11,0.933333333,1
+7865,Circuit of the Americas,9,Sergio Pérez,10131,10,0.933333333,1
+7866,Circuit of the Americas,10,Sergio Pérez,10495,10,0.933333333,1
+7867,Circuit of the Americas,6,Esteban Ocon,7705,7,0.923076923,1
+7868,Circuit of the Americas,6,Esteban Ocon,8069,6,0.923076923,1
+7872,Circuit of the Americas,15,Sergio Pérez,8332,15,0.933333333,1
+7882,Circuit of the Americas,9,Charles Leclerc,7675,9,0.844444444,1
+7885,Circuit of the Americas,1,Sebastian Vettel,9270,1,0.955,1
+7886,Circuit of the Americas,1,Sebastian Vettel,9634,1,0.955,1
+7887,Circuit of the Americas,18,Sebastian Vettel,9984,17,0.955,1
+7888,Circuit of the Americas,5,Daniel Ricciardo,9255,5,0.942196532,1
+7889,Circuit of the Americas,3,Daniel Ricciardo,9612,3,0.942196532,1
+7890,Circuit of the Americas,3,Daniel Ricciardo,9976,3,0.942196532,1
+7891,Circuit of the Americas,4,Daniel Ricciardo,10340,4,0.942196532,1
+7892,Circuit of the Americas,4,Daniel Ricciardo,10704,5,0.942196532,1
+7893,Circuit of the Americas,4,Daniil Kvyat,7852,4,0.917525773,1
+7894,Circuit of the Americas,4,Max Verstappen,6963,4,0.914285714,1
+7895,Circuit of the Americas,16,Max Verstappen,7327,6,0.914285714,1
+7896,Circuit of the Americas,18,Max Verstappen,7691,15,0.914285714,1
+7897,Circuit of the Americas,3,Max Verstappen,8069,3,0.914285714,1
+7898,Circuit of the Americas,6,Alexander Albon,8625,6,0.956521739,1
+7899,Circuit of the Americas,4,Kimi Räikkönen,12086,5,0.944099379,1
+7901,Circuit of the Americas,8,Romain Grosjean,9712,4,0.851851852,1
+7902,Circuit of the Americas,3,Romain Grosjean,10076,3,0.851851852,1
+7903,Circuit of the Americas,16,Romain Grosjean,10426,18,0.851851852,1
+7904,Circuit of the Americas,10,Romain Grosjean,10783,13,0.851851852,1
+7907,Circuit of the Americas,17,Kimi Räikkönen,14627,17,0.944099379,1
+7908,Circuit of the Americas,16,Antonio Giovinazzi,9455,16,0.88,1
+7913,Circuit of the Americas,17,Romain Grosjean,11147,17,0.851851852,1
+7914,Circuit of the Americas,12,Romain Grosjean,11511,14,0.851851852,1
+7915,Circuit of the Americas,8,Romain Grosjean,11875,8,0.851851852,1
+7916,Circuit of the Americas,15,Romain Grosjean,12253,15,0.851851852,1
+7918,Circuit of the Americas,17,Kevin Magnussen,9148,20,0.952380952,1
+7919,Circuit of the Americas,12,Kevin Magnussen,9512,12,0.952380952,1
+7920,Circuit of the Americas,12,Kevin Magnussen,9890,12,0.952380952,1
+7923,Circuit of the Americas,0,Sergio Pérez,10873,19,0.933333333,1
+7924,Circuit of the Americas,14,Lance Stroll,7675,14,0.923076923,1
+7926,Circuit of the Americas,22,Esteban Ocon,7341,22,0.923076923,1
+7930,Autódromo Hermanos Rodríguez,13,Daniel Ricciardo,11075,13,0.942196532,1
+7931,Autódromo Hermanos Rodríguez,14,Kevin Magnussen,8791,14,0.952380952,1
+7932,Autódromo Hermanos Rodríguez,8,Carlos Sainz,8459,9,0.903846154,1
+7933,Autódromo Hermanos Rodríguez,8,Carlos Sainz,8823,8,0.903846154,1
+7938,Autódromo Hermanos Rodríguez,6,Valtteri Bottas,9561,6,0.965034965,1
+7939,Autódromo Hermanos Rodríguez,8,Valtteri Bottas,9925,8,0.965034965,1
+7940,Autódromo Hermanos Rodríguez,11,Lance Stroll,6940,12,0.923076923,1
+7941,Autódromo Hermanos Rodríguez,17,Lance Stroll,7304,19,0.923076923,1
+7943,Autódromo Hermanos Rodríguez,19,George Russell,7924,19,0.958333333,1
+7950,Autódromo Hermanos Rodríguez,7,Carlos Sainz,9187,7,0.903846154,1
+7953,Autódromo Hermanos Rodríguez,8,Lando Norris,7288,8,0.916666667,1
+7954,Autódromo Hermanos Rodríguez,3,Sebastian Vettel,10348,3,0.955,1
+7955,Autódromo Hermanos Rodríguez,7,Sebastian Vettel,10712,7,0.955,1
+7956,Autódromo Hermanos Rodríguez,1,Sebastian Vettel,11076,1,0.955,1
+7957,Autódromo Hermanos Rodríguez,4,Sebastian Vettel,11440,4,0.955,1
+7958,Autódromo Hermanos Rodríguez,2,Sebastian Vettel,11804,3,0.955,1
+7959,Autódromo Hermanos Rodríguez,19,Kimi Räikkönen,13164,15,0.944099379,1
+7960,Autódromo Hermanos Rodríguez,6,Kimi Räikkönen,13528,6,0.944099379,1
+7961,Autódromo Hermanos Rodríguez,5,Kimi Räikkönen,13892,5,0.944099379,1
+7962,Autódromo Hermanos Rodríguez,6,Kimi Räikkönen,14256,6,0.944099379,1
+7963,Autódromo Hermanos Rodríguez,1,Charles Leclerc,8046,2,0.844444444,1
+7966,Autódromo Hermanos Rodríguez,2,Lewis Hamilton,11255,2,0.945273632,1
+7967,Autódromo Hermanos Rodríguez,1,Lewis Hamilton,11619,1,0.945273632,1
+7968,Autódromo Hermanos Rodríguez,3,Lewis Hamilton,11983,3,0.945273632,1
+7969,Autódromo Hermanos Rodríguez,3,Lewis Hamilton,12347,3,0.945273632,1
+7970,Autódromo Hermanos Rodríguez,3,Lewis Hamilton,12711,4,0.945273632,1
+7971,Autódromo Hermanos Rodríguez,4,Valtteri Bottas,10289,4,0.965034965,1
+7972,Autódromo Hermanos Rodríguez,5,Valtteri Bottas,10653,5,0.965034965,1
+7973,Autódromo Hermanos Rodríguez,6,Valtteri Bottas,11017,6,0.965034965,1
+7974,Autódromo Hermanos Rodríguez,18,Daniil Kvyat,8223,18,0.917525773,1
+7975,Autódromo Hermanos Rodríguez,9,Daniil Kvyat,9315,9,0.917525773,1
+7976,Autódromo Hermanos Rodríguez,11,Carlos Sainz,7731,11,0.903846154,1
+7977,Autódromo Hermanos Rodríguez,10,Carlos Sainz,8095,10,0.903846154,1
+7978,Autódromo Hermanos Rodríguez,8,Max Verstappen,6606,8,0.914285714,1
+7979,Autódromo Hermanos Rodríguez,20,Pierre Gasly,8299,15,0.93877551,1
+7980,Autódromo Hermanos Rodríguez,10,Pierre Gasly,8663,10,0.93877551,1
+7985,Autódromo Hermanos Rodríguez,9,Sergio Pérez,9410,9,0.933333333,1
+7986,Autódromo Hermanos Rodríguez,12,Sergio Pérez,9774,12,0.933333333,1
+7987,Autódromo Hermanos Rodríguez,9,Sergio Pérez,10138,10,0.933333333,1
+7988,Autódromo Hermanos Rodríguez,13,Sergio Pérez,10502,13,0.933333333,1
+7989,Autódromo Hermanos Rodríguez,6,Esteban Ocon,7712,6,0.923076923,1
+7990,Autódromo Hermanos Rodríguez,11,Esteban Ocon,8076,11,0.923076923,1
+7998,Autódromo Hermanos Rodríguez,9,Charles Leclerc,7682,9,0.844444444,1
+7999,Autódromo Hermanos Rodríguez,5,Daniel Ricciardo,9619,5,0.942196532,1
+8000,Autódromo Hermanos Rodríguez,4,Daniel Ricciardo,9983,4,0.942196532,1
+8001,Autódromo Hermanos Rodríguez,16,Daniel Ricciardo,10347,7,0.942196532,1
+8002,Autódromo Hermanos Rodríguez,1,Daniel Ricciardo,10711,1,0.942196532,1
+8003,Autódromo Hermanos Rodríguez,4,Daniil Kvyat,7859,4,0.917525773,1
+8004,Autódromo Hermanos Rodríguez,3,Max Verstappen,6970,3,0.914285714,1
+8005,Autódromo Hermanos Rodríguez,2,Max Verstappen,7334,2,0.914285714,1
+8006,Autódromo Hermanos Rodríguez,2,Max Verstappen,7698,2,0.914285714,1
+8007,Autódromo Hermanos Rodríguez,4,Max Verstappen,8062,1,0.914285714,1
+8008,Autódromo Hermanos Rodríguez,5,Alexander Albon,8618,5,0.956521739,1
+8009,Autódromo Hermanos Rodríguez,12,Romain Grosjean,10790,12,0.851851852,1
+8011,Autódromo Hermanos Rodríguez,14,Kimi Räikkönen,14620,14,0.944099379,1
+8012,Autódromo Hermanos Rodríguez,15,Antonio Giovinazzi,9448,15,0.88,1
+8013,Autódromo Hermanos Rodríguez,22,Romain Grosjean,11154,21,0.851851852,1
+8014,Autódromo Hermanos Rodríguez,15,Romain Grosjean,11518,19,0.851851852,1
+8015,Autódromo Hermanos Rodríguez,18,Romain Grosjean,11882,16,0.851851852,1
+8016,Autódromo Hermanos Rodríguez,18,Romain Grosjean,12246,18,0.851851852,1
+8018,Autódromo Hermanos Rodríguez,14,Kevin Magnussen,9155,18,0.952380952,1
+8019,Autódromo Hermanos Rodríguez,16,Kevin Magnussen,9519,18,0.952380952,1
+8020,Autódromo Hermanos Rodríguez,17,Kevin Magnussen,9883,17,0.952380952,1
+8021,Autódromo Hermanos Rodríguez,11,Sergio Pérez,10866,11,0.933333333,1
+8022,Autódromo Hermanos Rodríguez,16,Lance Stroll,7668,16,0.923076923,1
+8024,Autódromo Hermanos Rodríguez,20,Esteban Ocon,7348,20,0.923076923,1
+8027,Circuit Paul Ricard,8,Daniel Ricciardo,10949,8,0.942196532,1
+8028,Circuit Paul Ricard,7,Carlos Sainz,8697,7,0.903846154,1
+8030,Circuit Paul Ricard,19,Lance Stroll,7178,20,0.923076923,1
+8032,Circuit Paul Ricard,20,George Russell,7798,19,0.958333333,1
+8034,Circuit Paul Ricard,6,Carlos Sainz,9061,6,0.903846154,1
+8036,Circuit Paul Ricard,5,Lando Norris,7162,5,0.916666667,1
+8037,Circuit Paul Ricard,3,Sebastian Vettel,11314,3,0.955,1
+8038,Circuit Paul Ricard,7,Sebastian Vettel,11678,7,0.955,1
+8039,Circuit Paul Ricard,6,Kimi Räikkönen,14130,6,0.944099379,1
+8040,Circuit Paul Ricard,3,Charles Leclerc,7920,3,0.844444444,1
+8041,Circuit Paul Ricard,1,Lewis Hamilton,12221,1,0.945273632,1
+8042,Circuit Paul Ricard,1,Lewis Hamilton,12585,1,0.945273632,1
+8043,Circuit Paul Ricard,2,Valtteri Bottas,10527,2,0.965034965,1
+8044,Circuit Paul Ricard,2,Valtteri Bottas,10891,2,0.965034965,1
+8045,Circuit Paul Ricard,19,Daniil Kvyat,9189,16,0.917525773,1
+8046,Circuit Paul Ricard,14,Pierre Gasly,8173,14,0.93877551,1
+8048,Circuit Paul Ricard,11,Alexander Albon,8492,11,0.956521739,1
+8049,Circuit Paul Ricard,13,Sergio Pérez,10376,13,0.933333333,1
+8050,Circuit Paul Ricard,11,Esteban Ocon,7950,11,0.923076923,1
+8052,Circuit Paul Ricard,8,Charles Leclerc,7556,8,0.844444444,1
+8053,Circuit Paul Ricard,5,Daniel Ricciardo,10585,5,0.942196532,1
+8054,Circuit Paul Ricard,4,Max Verstappen,7572,4,0.914285714,1
+8055,Circuit Paul Ricard,4,Max Verstappen,7936,4,0.914285714,1
+8056,Circuit Paul Ricard,9,Pierre Gasly,8537,9,0.93877551,1
+8057,Circuit Paul Ricard,12,Kimi Räikkönen,14494,12,0.944099379,1
+8058,Circuit Paul Ricard,10,Antonio Giovinazzi,9322,10,0.88,1
+8059,Circuit Paul Ricard,10,Romain Grosjean,11756,10,0.851851852,1
+8060,Circuit Paul Ricard,16,Romain Grosjean,12120,17,0.851851852,1
+8061,Circuit Paul Ricard,9,Kevin Magnussen,9393,9,0.952380952,1
+8062,Circuit Paul Ricard,15,Kevin Magnussen,9757,15,0.952380952,1
+8063,Circuit Paul Ricard,14,Sergio Pérez,10740,14,0.933333333,1
+8064,Circuit Paul Ricard,17,Lance Stroll,7542,18,0.923076923,1
+8072,Buddh International Circuit,15,Valtteri Bottas,8826,15,0.965034965,1
+8076,Buddh International Circuit,5,Lewis Hamilton,9792,2,0.945273632,1
+8077,Buddh International Circuit,3,Lewis Hamilton,10156,3,0.945273632,1
+8078,Buddh International Circuit,9,Sergio Pérez,8675,9,0.933333333,1
+8096,Buddh International Circuit,3,Lewis Hamilton,10520,3,0.945273632,1
+8101,Buddh International Circuit,15,Daniel Ricciardo,8520,15,0.942196532,1
+8102,Buddh International Circuit,11,Daniel Ricciardo,8884,11,0.942196532,1
+8114,Buddh International Circuit,20,Sergio Pérez,7947,17,0.933333333,1
+8115,Buddh International Circuit,8,Sergio Pérez,8311,8,0.933333333,1
+8120,Buddh International Circuit,1,Sebastian Vettel,8885,1,0.955,1
+8121,Buddh International Circuit,1,Sebastian Vettel,9249,1,0.955,1
+8122,Buddh International Circuit,1,Sebastian Vettel,9613,1,0.955,1
+8123,Buddh International Circuit,7,Kimi Räikkönen,12065,7,0.944099379,1
+8124,Buddh International Circuit,6,Kimi Räikkönen,12429,6,0.944099379,1
+8125,Buddh International Circuit,11,Romain Grosjean,9691,11,0.851851852,1
+8126,Buddh International Circuit,17,Romain Grosjean,10055,17,0.851851852,1
+8134,Buddh International Circuit,23,Daniel Ricciardo,8156,21,0.942196532,1
